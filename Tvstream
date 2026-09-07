@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
 
-Bein pl
-
+#EXTM3U
+#EXTINF:-1 group-title="BEIN PL"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -62,9 +62,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk1.m3u8
 #EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion3.png",UCL Champions4
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk3.m3u8
 
-
 #=========Indonesia Channels ==================================================>#
-
 
 #EXTINF:-1 tvg-id="Americanninja.us" group-title="Actions" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ninjawarior.png",Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master_3.m3u8
@@ -391,9 +389,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tvridki.m3u8
 #EXTINF:-1 tvg-id="TVRI World" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvri.png" group-title="Indonesia",TVRI World
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tvriwo.m3u8
 
-
 #===============INDO TV LOKAL =============#
-
 
 #EXTINF:-1 tvg-id="Astha" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Astha.png" group-title="LOCAL TV",Astha tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -759,9 +755,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TVRI" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvri.png" group-title="LOCAL TV",TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
-
 #<============ Indonesia Movies ==============================================================================>
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -813,7 +807,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 #EXTINF:-1 tvg-id="Hanacaraka TV" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hanacaraka5.png" group-title="Indo Movies",Hanacaraka TV (V+)
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
- 
+
 #EXTINF:-1 tvg-id="AllPlay Ent" group-title="Indo Movies" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/allplay.png",AllPlay Ent
 https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
@@ -914,7 +908,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lite&chname=DensShowBiz
-
 
 #<=============INDO Sports =================================================================================================>
 
@@ -1250,9 +1243,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion4.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion5.m3u8
 
-
 #================= Premium Movies ============================================================================================>
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1543,10 +1534,7 @@ https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",LA | Runtime Terror
 https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
 
-
-
 #<================= News =========================================================================================================================>
-
 
 #EXTINF:-1 tvg-id="CNN.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnn5.png" group-title="News",CNN Indonesia
 #EXTVLCOPT:http-referrer=http://live.cnbcindonesia.com/
@@ -1670,9 +1658,7 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-3M
 #EXTINF:-1 tvg-id="USATODAY.us@SD" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News",USA Today (1080p)
 https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playlist/amg00731-gannettcoinc-usatodaynews-plex/cb543d1a7f6c628784c83d6ecef049a8f97e16d00b768d6e70a84a966bc10f41f9e5af86a540ff0d578f6e80354832080977ca1cd56c03c3de7ea8334a7a131d8aeaf72285cd0d78d2db7e3428b77a1751fb1015d1204d538ba0584cd065e42e5711bc5d235762d4b944ac7704c49d02da2e2d96ae8c626b7d5e5a99545cedf23c99c5d17f75f25cbb811e78ff9874ddfa3698885ae2dbcb5980429876e10ce1cbaece9b1b92e39a73d809e6260651263dc8d522d39b09e68eca5b17ca2511063c40efaf97b16f0cd5660d0eacaf92ef30b1439fdc6ba0327ec96df228a53e8e79a500a3932cf1f8c19328250aabca42134393eaae93814561e953d1fbbcf15b2fcdc72c2f10eb3c9a4e063792f4c711c4f31d99b8268fd53afd597b04932ffb7a11b5481b072dc19925bc888ef073b0/3/1280x720_3329040/index.m3u8
 
-
 #<================== Malaysia ============================================================================>
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TVS_logo_(2024).svg/revision/latest/scale-to-width-down/250?cb=20240614044004" group-title="Malaysia", TVS Sarawak HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -1817,10 +1803,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mytv9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tvoky.m3u8
 
-
-
 #<========== China ============================================================================================>
-
 
 #EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ed/CCTV-%E6%88%8F%E6%9B%B2_2020.png/revision/latest/scale-to-width-down/2576?cb=20250809042957&path-prefix=vi",CCTV Opera
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cctv-opera.m3u8
@@ -2131,9 +2114,7 @@ https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/manifest.mpd
 #EXTINF:-1 tvg-id="New TV Variety" tvg-url="mmm" group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/newtv3.png",New TV Variety
 https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/manifest.mpd
 
-
 #===============JAPAN========================#
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2235,9 +2216,7 @@ https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:-1 tvg-id="fujiTV" tvg-logo="https://i.ytimg.com/vi/6pcuMUYsWxo/maxresdefault.jpg" group-title="JAPAN",Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 
-
 #============   THAILAND.=============== #
-
 
 #EXTINF:-1 tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png/revision/latest?cb=20150716011927" group-title="THAILAND",TV5
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2460,9 +2439,7 @@ https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
 #EXTINF:-1 tvg-id="Policetv.th" group-title="THAILAND" tvg-logo="https://nantouristpolice.com/wp-content/uploads/2025/10/cropped-%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-1.png", Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
-
 #==========MYANMAR===================#
-
 
 #EXTINF:-1 group-title="MYANMAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest?cb=20191211065313", Channel 7
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
@@ -2523,9 +2500,7 @@ https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/HBTV_logo_tr%E1%BB%B1c_ti%E1%BA%BFp_2021-2025.png/revision/latest/scale-to-width-down/1200?cb=20240714001000&path-prefix=vi" group-title="MYANMAR", HBTV(မြန်မာ)
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
-
 #============VIETNAM=================#
-
 
 #EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/TH%C4%90T1_logo_31-07-2023.png/revision/latest/scale-to-width-down/2488?cb=20260105144448&path-prefix=vi", Dong Thap TV
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
@@ -2851,9 +2826,7 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hue" group-title="VIETNAM" tvg-logo="https://i.imgur.com/q5MBibm.png",HUE
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8 
 
-
 #==============AUSTRALIA==================#
-
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-id="ABC Australia" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abcau.png" ,ABC News
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -2931,9 +2904,7 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-
 #============EUROPEA=================#
-
 
 #EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europea",EuroSport 1 NL
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/eurosportr.m3u8
@@ -4327,7 +4298,6 @@ http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2491.png" tvg-rec="3",Fashion TV HD orig
 http://stream.mcquack.net/288/index.m3u8
 
-
 #============================================================== Indonesia Channels ==================================================#
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -4776,7 +4746,6 @@ ${GENERATED_MPD_220}
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 ${GENERATED_MPD_363}
-
 
 # ══════════════════════════════════════════
 # 🇬🇧 UK — SKY SPORTS / TNT SPORTS 
@@ -5327,8 +5296,6 @@ http://de.seetv.cc/play/5447/632F375BC8243BC/video.m3u8
 #EXTINF:0 tvg-id="Xpolsat-sport-pr2" tvg-name="Polsat Sport Premium 2 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr2.png" , Polsat Sport Premium 2 HD
 #EXTGRP:PL
 http://de.seetv.cc/play/5448/632F375BC8243BC/video.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A SPOR" tvg-logo="http://epg.one/img/2587.png" group-title="Sport",A SPOR
-http://boxviptv.com:25461/Roma0675/31865526/116
 #EXTINF:-1 tvg-id="DiemaSport.bg" group-title="diema sport 4k" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Diema%20Sport%20HD.png",Diema Sport HD
 http://87.246.54.249:8080/DiemaSport/index.m3u8
 #EXTINF:-1 tvg-id="DiemaSport2.bg" group-title="diema sport 4k" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Diema%20Sport2%20HD.png",Diema Sport2 HD
@@ -5339,8 +5306,6 @@ http://87.246.54.249:8080/DiemaSport3/index.m3u8
 http://87.246.54.249:8080/Eurosport/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.uk" group-title="diema sport 4k" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Eurosport2.png",Eurosport2
 http://87.246.54.249:8080/Eurosport2/index.m3u8
-#EXTINF:-1 tvg-id="HTSpor.tr" tvg-name="HT SPOR" tvg-logo="https://granada.choval.xyz/tr/spor/htsporhd.png" group-title="Sport",HT SPOR
-http://boxviptv.com:25461/Roma0675/31865526/1025
 #EXTINF:-1 tvg-id="MaxSport1.bg" group-title="diema sport 4k" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MaxSport1%20HD.png",MaxSport1 HD
 http://87.246.54.249:8080/MaxSport1/index.m3u8
 #EXTINF:-1 tvg-id="MaxSport2.bg" group-title="diema sport 4k" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MaxSport2%20HD.png",MaxSport2 HD
@@ -5363,39 +5328,16 @@ http://rr2.vip2ip.com/~301736870633659706B394B427A6F/63626/hls/pl.m3u8
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:0,Setanta Sports 1 Baltic
 http://rr2.vip2ip.com/~301736870633659706B394B427A6F/62005/hls/pl.m3u8
-#EXTINF:-1 tvg-id="SetantaSports1.uk" tvg-name="Setanta Sports 1 HD " tvg-logo="http://epg.one/img/6806.png" group-title="Sport",Setanta Sports 1 HD
-http://boxviptv.com:25461/Roma0675/31865526/1112
 #EXTINF:-1 tvg-id="SetantaSports1.uk" group-title="Спорт" audio-track="rus", Setanta Sports 1 HD
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Setanta Sports 2 Baltic
 http://rr2.vip2ip.com/~301736870633659706B394B427A6F/38208/hls/pl.m3u8
-#EXTINF:-1 tvg-id="SetantaSports2.uk" tvg-name="Setanta Sports 2 HD " tvg-logo="http://epg.one/img/6805.png" group-title="Sport",Setanta Sports 2 HD
-http://boxviptv.com:25461/Roma0675/31865526/1113
 #EXTINF:-1 tvg-id="SetantaSports2.uk" group-title="Спорт" audio-track="rus", Setanta Sports 2 HD
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Setanta Sports Ukraine
 http://rr2.vip2ip.com/~301736870633659706B394B427A6F/63945/hls/pl.m3u8
 #EXTINF:0,Setanta Sports Ukraine +
 http://rr2.vip2ip.com/~301736870633659706B394B427A6F/30727/hls/pl.m3u8
-#EXTINF:-1 tvg-id="SetantaSportPlus.ua" tvg-name="Setanta Sports+ Ukraine HD" tvg-logo="http://epg.one/img/2370.png" group-title="Sport",Setanta Sports+ Ukraine HD
-http://boxviptv.com:25461/Roma0675/31865526/207
-#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibuspor 1 HD TR" tvg-logo="http://epg.one/img/6527.png" group-title="Sport",Tivibuspor 1 HD TR
-http://boxviptv.com:25461/Roma0675/31865526/200
-#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="Tivibuspor 2 HD TR" tvg-logo="http://epg.one/img/3872.png" group-title="Sport",Tivibuspor 2 HD TR
-http://boxviptv.com:25461/Roma0675/31865526/264
-#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="Tivibuspor 3 HD TR" tvg-logo="http://epg.one/img/6529.png" group-title="Sport",Tivibuspor 3 HD TR
-http://boxviptv.com:25461/Roma0675/31865526/263
-#EXTINF:-1 tvg-id="6527" tvg-name="Tivibuspor HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="Sport",Tivibuspor HD TR
-http://boxviptv.com:25461/Roma0675/31865526/316
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT SPOR HD" tvg-logo="http://epg.one/img/6525.png" group-title="Sport",TRT SPOR HD
-http://boxviptv.com:25461/Roma0675/31865526/199
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.postimg.cc/6pxsF5cQ/YILD.jpg" group-title="Sport",TRT SPOR YILDIZ
-http://boxviptv.com:25461/Roma0675/31865526/1353
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8.5 HD" tvg-logo="http://epg.one/img/2614.png" group-title="Sport",TV 8.5 HD
-http://boxviptv.com:25461/Roma0675/31865526/267
-# ══════════════════════════════════════════
-# 🌍 INTERNATIONAL — EUROSPORT / ESPN / BEIN / DAZN 
-# ══════════════════════════════════════════
 #EXTINF:0 tvg-id="Xtvplay-sports" tvg-name="TV3 Sport HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" , TV3 Sport HD
 #EXTGRP:LT
 http://de.seetv.cc/play/6709/632F375BC8243BC/video.m3u8
@@ -5415,10 +5357,6 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.uk",EUROSPORT 1 FHD
 #EXTINF:-1 tvg-id="Eurosport1.uk" group-title="Спорт" audio-track="rus", Eurosport 1 HD
 http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 tvg-id="3885" tvg-name="EUROSPORT 1 ʜᴅ" tvg-logo="http://epg.one/img/2052.png" group-title="Sport",EUROSPORT 1 ʜᴅ
-http://boxviptv.com:25461/Roma0675/31865526/211
-#EXTINF:-1 tvg-id="3886" tvg-name="EUROSPORT 2 ʜᴅ" tvg-logo="http://epg.one/img/4313.png" group-title="Sport",EUROSPORT 2 ʜᴅ
-http://boxviptv.com:25461/Roma0675/31865526/216
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="Sports | US", MLB Network
 https://7pal.short.gy/mlbnw
 #EXTINF:-1 tvg-id="PimpleTV1.vn" group-title="Спорт",Pimple TV 1
@@ -5431,8 +5369,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20096/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20097/index.m3u8
 #EXTINF:-1 tvg-id="PimpleTV5.vn" group-title="Спорт",Pimple TV 5
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20098/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSport.kz" tvg-name="Setanta Qazaqstan" tvg-logo="http://epg.one/img/2630.png" group-title="Sport",Setanta Qazaqstan
-http://boxviptv.com:25461/Roma0675/31865526/1100
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORTV 2 FHD²" tvg-logo="https://i.postimg.cc/RVZHbCNB/SporTV2FHD².png" group-title="SPORTV",SPORTV 2 FHD²
 http://ssrv88.com:80/7897442120/8964203798/205564.ts
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORTV 2 FHD¹" tvg-logo="https://i.postimg.cc/gcDhDLcs/SporTV2FHD.png" group-title="SPORTV",SPORTV 2 FHD¹
@@ -5472,10 +5408,7 @@ http://ssrv88.com:80/7897442120/8964203798/205558.ts
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV HD¹" tvg-logo="https://i.postimg.cc/HkKXMGWC/SporTV_HD.png" group-title="SPORTV",SPORTV HD¹
 http://ssrv88.com:80/7897442120/8964203798/205557.ts
 
-
-
 #============================================================== Live Channels ==================================================#
-
 
 #EXTM3U
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gptoNSqrThs_O6qy-o3ctHmKjjY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5187165/e604ee.jpg" group-title="ðŸ“º TV NASIONAL", ðŸ“º Ftv Pagi Get Married Bikin Get Panik [J1] CK TEST
@@ -6076,130 +6009,6 @@ https://ayo.maling.pl/m3u/TOKEN/18190.mpd
 
 https://ayo.maling.pl/m3u/TOKEN/21289.mpd
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LFtguKoMcluLPs5X9utCbCmOM9M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5188013/a0ef0d.jpg" group-title="â³ UPCOMING VOLI", â³ (-54m) 12:55 WIB 07/07/26Final 13-14: Australia vs Uzbekistan - AVC Girls' U18 Volleyball Championship [J1] CK TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-
-https://ayo.maling.pl/m3u/TOKEN/21747.mpd
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XzidWOJicaxsx3m542oTUaWKvjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5183960/1202b2.jpg" group-title="â³ UPCOMING SPORT LAINNYA", â³ (-5j 59m) 18:00 WIB 07/07/26Stage 4 - Carcassonne - Foix | Tour de France 2026 [J1] CK TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-
-https://ayo.maling.pl/m3u/TOKEN/6317.mpd
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VKM9ytM9h2_rYOiiZixmfpVCTgU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5187952/1f3f0c.jpg" group-title="â³ UPCOMING TENIS", â³ (-6j 59m) 19:00 WIB 07/07/26Jannik Sinner vs Jan-Lennard Struff - Gentlemen's Singles Quarterfinal | Wimbledon 2026 [J1] CK TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-
-https://ayo.maling.pl/m3u/TOKEN/17140.mpd
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XXb6XUQ9AwsrboeX2zysFlf_YMQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5187954/4aad31.jpg" group-title="â³ UPCOMING TENIS", â³ (-7j 29m) 19:30 WIB 07/07/26Jessica Pegula vs Coco Gauff - Ladies's Singles Quarterfinal | Wimbledon 2026 [J1] CK TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-
-https://ayo.maling.pl/m3u/TOKEN/17139.mpd
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Siih5BXEMfgFMo7jWrFSyQuIb9E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5186726/af83a4.jpg" group-title="â³ UPCOMING VOLI", â³ (-21j 59m) 10:00 WIB 08/07/26Women: Turkey vs Poland - Volleyball Nations League [J1] CK TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-
-https://ayo.maling.pl/m3u/TOKEN/21701.mpd
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ylWgY97XluzeGWNrPHsLNgaqA24=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5186727/02480f.jpg" group-title="â³ UPCOMING VOLI", â³ (-22j 29m) 10:30 WIB 08/07/26Women: Belgium vs Dominican Republic - Volleyball Nations League [J1] CK TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-
-https://ayo.maling.pl/m3u/TOKEN/21702.mpd
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/fQZJ0wFarC_OpAZrQStfpXJPZYk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5186732/2cfcac.jpg" group-title="â³ UPCOMING BASEBALL", â³ (-1h 5j) 18:00 WIB 08/07/26Women: France vs Netherlands - Volleyball Nations League [J1] CK TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-
-https://ayo.maling.pl/m3u/TOKEN/21703.mpd
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4nhjB01bq9ukcGOwprVsTzZjKbk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5187944/3c04ba.jpg" group-title="â³ UPCOMING SPORT LAINNYA", â³ (-2h 14j) 03:00 WIB 10/07/26Round 1 - ISCO Championship 2026 [J1] CK TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-
-https://ayo.maling.pl/m3u/TOKEN/18189.mpd
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TvF8m2fQho1YMRbClqecP0bXaPY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5187283/33bd52.jpg" group-title="â³ UPCOMING FIGHTING", â³ (-4h 7j) 19:10 WIB 11/07/26Rajadamnern 2026 Welterweight Title [J1] CK TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-
-https://ayo.maling.pl/m3u/TOKEN/19388.mpd
-
-#============================================================== Sports =================================================================================================#
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="Sports",F1 TV
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 
@@ -6226,7 +6035,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="beIN Sports 3 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports",beIN Sports 3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -6421,7 +6229,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTINF:-1 tvg-id="Sportstars 4" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports",Sportstars 4 ᴴᴰ
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-
 #========================================================= Mediacorp Singapore ================================================#
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -6540,7 +6347,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 
-
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -6613,7 +6419,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Xing kong TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="China" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/international/xingkong.jpg?raw=true",Xing Kong (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
-
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -6856,7 +6661,6 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-
 
 #EXTM3U
 
@@ -7882,132 +7686,6 @@ http://206.212.244.63/166/index.m3u8
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1 tvg-uid="d54c72d26fa4c3cede461d5c6baae3f3" data-source="TV_Amrik" tvg-chno="171" tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68605_dark_360w_270h.png" group-title="LIVE TV - USA",Willow Cricket
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
-#EXTINF:-1 tvg-expire="1785776400" tvg-start="1785769200" tvg-uid="9298c4632581835e828bae2118aa06f1" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/manchester-united/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [22:00 WIB] [FRIENDLY] Manchester United - PSG
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785808800" tvg-start="1785801600" tvg-uid="ba2794dadb45a6d131cda96b437b7eeb" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/e717fb36e354c9276095346fac111bcd-thumbnail.jpg" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING 07:00 WIB] [NFL] Carolina Panthers vs. Arizona Cardinals (Server 1 - Master)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785780000" tvg-start="1785772800" tvg-uid="f4e995634088ac692e9495a40cc8ac11" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/d8b2b5cd13edfd37f53d3536c54ddd7b-thumbnail.jpg" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING 23:00 WIB] [American Football] Panthers Wroclaw vs. Vienna Vikings (Server 1 - Master)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785783600" tvg-start="1785776400" tvg-uid="27c86dbaae062c3713a0c457004ab37a" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chrobry%20Glogow%20vs%20Odra%20Opole.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 00:00 WIB - 04/08/2026] [Poland I Liga] Chrobry Glogow vs. Odra Opole
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785783600" tvg-start="1785776400" tvg-uid="0f26a3a4a328489ea05a77adaf517db9" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cracovia%20Krakow%20vs%20Pogon%20Szczecin.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 00:00 WIB - 04/08/2026] [Poland Ekstraklasa] Cracovia Krakow vs. Pogon Szczecin
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785783600" tvg-start="1785776400" tvg-uid="581804943a14987471e453219f2f58e5" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/liverpool/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [00:00 WIB] [FRIENDLY] Liverpool - Como
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785783600" tvg-start="1785776400" tvg-uid="9bf077c2004790f26d6b99a5245ca357" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor%20Fritz%20vs%20Rafael%20Jodar%20-%20Final.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 00:00 WIB - 04/08/2026] [Washington open] Taylor Fritz vs. Rafael Jodar - Final
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785783600" tvg-start="1785776400" tvg-uid="aa95f340d1395cabcc9e53f3e1979991" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vojvodina%20Novi%20Sad%20vs%20Macva%20Sabac.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 00:00 WIB - 04/08/2026] [SER Mozzart Bet Superliga] Vojvodina Novi Sad vs. Macva Sabac
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785783900" tvg-start="1785776700" tvg-uid="135238ad4c8d783e750665d0a0c4dd28" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Orebro%20SK%20vs%20IFK%20Varnamo.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 00:05 WIB - 04/08/2026] [Sweden Superettan] Orebro SK vs. IFK Varnamo
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785785400" tvg-start="1785778200" tvg-uid="a20cbb3957cfab669cfc9d6c6854267c" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fire%20vs%20Brave.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 00:30 WIB - 04/08/2026] [The Hundred] Fire vs. Brave
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785789000" tvg-start="1785781800" tvg-uid="85f75f73441c6bdb48afdd7dfe4ad723" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/arsenal/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [01:30 WIB] [FRIENDLY] Arsenal - Como
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785789000" tvg-start="1785781800" tvg-uid="09916acfa945405fd33386538bd73735" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/arsenal/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [01:30 WIB] [FRIENDLY] Arsenal - Real Betis
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785789000" tvg-start="1785781800" tvg-uid="d8ce8e5dee4aef2027891d5c0fc275f9" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Celtic%20vs%20Dundee.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 01:30 WIB - 04/08/2026] [Scotland Premiership] Celtic vs. Dundee
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785789000" tvg-start="1785781800" tvg-uid="4f9392918d643a34ae188a9d46b97811" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FCSB%20vs%20Farul%20Constanta.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 01:30 WIB - 04/08/2026] [Romania Liga I] FCSB vs. Farul Constanta
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785848400" tvg-start="1785841200" tvg-uid="0fe3dbe3206f83563003c144b0cc381b" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/manchester-city/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [18:00 WIB] [FRIENDLY] Manchester City - K-League Stars
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785848400" tvg-start="1785841200" tvg-uid="75dd69c912ac51083e840e90cf263c37" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/manchester-city/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [18:00 WIB] [FRIENDLY] Manchester City - Atlético Madrid
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785789000" tvg-start="1785781800" tvg-uid="fcda9c8d6a8c11d18a962d10d2a5123b" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/manchester-city/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [01:30 WIB] [FRIENDLY] Manchester City - Leeds United
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785789000" tvg-start="1785781800" tvg-uid="2310f4760e16d4ba29d368159e487661" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/07a6c966d2b79238ab6abfdd0c0b613d-thumbnail.jpg" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING 01:30 WIB] [Football] York City vs. Crawley Town (Server 1 - Master)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785805200" tvg-start="1785798000" tvg-uid="af8db47d52a4b6c56df6ab44bc5e6f15" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/2e1d13f348a1429df61ea4fb9280045b-thumbnail.jpg" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING 06:00 WIB] [American Football] Hamilton Tiger-Cats vs. BC Lions (Server 1 - Master)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785789000" tvg-start="1785781800" tvg-uid="abda67aedd04a783384cbaa00f8f7dbd" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/York%20vs%20Crawley%20Town.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 01:30 WIB - 04/08/2026] [England EFL Cup] York vs. Crawley Town
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785790800" tvg-start="1785783600" tvg-uid="5d48a1c20f93757a370ed330a2c1ac82" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/aston-villa/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [02:00 WIB] [FRIENDLY] Aston Villa - PSG
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785790800" tvg-start="1785783600" tvg-uid="f4f9785c42b97f1ad2f5f9b46bb38b55" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/772fdb9fb7f9738f190737c6b072009e-thumbnail.jpg" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING 02:00 WIB] [American Football] Edmonton Elks vs. Montreal Alouettes (Server 1 - Master)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785790800" tvg-start="1785783600" tvg-uid="a7135ae2981e109c830a7d1ce14bc4a8" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FK%20Zeleznicar%20Pancevo%20vs%20Mladost%20Lucani.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 02:00 WIB - 04/08/2026] [SER Mozzart Bet Superliga] FK Zeleznicar Pancevo vs. Mladost Lucani
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785790800" tvg-start="1785783600" tvg-uid="08096a6f9c653792053a794e322423df" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/e3f90a05a787f0cd28aeeef490691c9e-thumbnail.jpg" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING 02:00 WIB] [Football] Paris Saint-Germain vs. Aston Villa (Server 1 - Master)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785800700" tvg-start="1785793500" tvg-uid="34b1e9a60af941564a3da8fbbeff1941" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlante%20(W)%20vs%20Necaxa%20(W).jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 04:45 WIB - 04/08/2026] [Mexico Liga MX Femenil] Atlante (W) vs. Necaxa (W)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785804000" tvg-start="1785796800" tvg-uid="cb6165c02bf46781f2224d8ce19e2512" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Philadelphia%20Phillies.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 05:40 WIB - 04/08/2026] [MLB] Washington Nationals vs. Philadelphia Phillies
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785805200" tvg-start="1785798000" tvg-uid="f907df794a382d71e7fcc1da7c28ded1" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Las%20Vegas%20Aces%20vs%20Atlanta%20Dream.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 06:00 WIB - 04/08/2026] [WNBA] Las Vegas Aces vs. Atlanta Dream
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785805200" tvg-start="1785798000" tvg-uid="f251e107ed2a8d47beda70738eafd5e7" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Storm%20vs%20New%20York%20Liberty.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 06:00 WIB - 04/08/2026] [WNBA] Seattle Storm vs. New York Liberty
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785805500" tvg-start="1785798300" tvg-uid="6b246c7c7dc2b31c0e38b18a1cbba3e5" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/3f57bd55049bd439c926e4f68a923ce6-thumbnail.jpg" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING 06:05 WIB] [MLB] St. Louis Cardinals vs. New York Yankees (Server 1 - Master)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785808800" tvg-start="1785801600" tvg-uid="af9a27c41c5b7a05c1f6eb834659b834" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/462b3edd7cb361c671ed2de0635200a4-thumbnail.jpg" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING 07:00 WIB] [MLB] San Francisco Giants vs. Texas Rangers (Server 1 - Master)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785805500" tvg-start="1785798300" tvg-uid="dfa49b9169c4dda1fbe8c07bc1cda03e" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20New%20York%20Yankees.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 06:05 WIB - 04/08/2026] [MLB] St. Louis Cardinals vs. New York Yankees
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785807000" tvg-start="1785799800" tvg-uid="b41589723516323bca7949891ea33440" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/214efedaa3479c89be6f19c18d8ce027-thumbnail.jpg" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING 06:30 WIB] [American Football] Calgary Stampeders vs. Toronto Argonauts (Server 1 - Master)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785807600" tvg-start="1785800400" tvg-uid="97f81aa5769ebd231493b04747442613" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Pirates%20vs%20Milwaukee%20Brewers.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 06:40 WIB - 04/08/2026] [MLB] Pittsburgh Pirates vs. Milwaukee Brewers
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785808800" tvg-start="1785801600" tvg-uid="53b0561e19e9a924713c4cb544c06f19" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletico%20Paranaense%20vs%20Vitoria.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 07:00 WIB - 04/08/2026] [Copa do Brasil] Athletico Paranaense vs. Vitoria
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785809100" tvg-start="1785801900" tvg-uid="6b0fbfb95d6dfc982583d15caf1bb4c3" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Dodgers%20vs%20Chicago%20Cubs.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 07:05 WIB - 04/08/2026] [MLB] Los Angeles Dodgers vs. Chicago Cubs
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785809100" tvg-start="1785801900" tvg-uid="725e7ba04b3808d8a4c6c9c5ef729212" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Francisco%20Giants%20vs%20Texas%20Rangers.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 07:05 WIB - 04/08/2026] [MLB] San Francisco Giants vs. Texas Rangers
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785809400" tvg-start="1785802200" tvg-uid="b3d9c937b57f7c88d54c98b7ee7919bf" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Houston%20Astros.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 07:10 WIB - 04/08/2026] [MLB] Toronto Blue Jays vs. Houston Astros
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785810600" tvg-start="1785803400" tvg-uid="cab940e5a7a22241fa1a7f9162614091" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/37950fdf02a8ac3df2594fed5eaa38fc-thumbnail.jpg" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING 07:30 WIB] [Football] Chicago Fire FC vs. Necaxa (Server 1 - Master)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785811200" tvg-start="1785804000" tvg-uid="4be6e505f9b8b207e66aba8bf5904e00" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20Colorado%20Rockies.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 07:40 WIB - 04/08/2026] [MLB] Tampa Bay Rays vs. Colorado Rockies
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785812400" tvg-start="1785805200" tvg-uid="1b9ade689f6cf26109c530d327a7df3a" data-source="dami2" tvg-logo="https://static.assetstorage.net/assets/thumb/979b65ad9e5206f910fef19dd7163496-thumbnail.jpg" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING 08:00 WIB] [American Football] Ottawa RedBlacks vs. Saskatchewan Roughriders (Server 1 - Master)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785812400" tvg-start="1785805200" tvg-uid="8c0e542a352a539c38367bd7b04d7d3b" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Zhuiqiu%20Person%20vs%20Hong%20Da.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 08:00 WIB - 04/08/2026] [Guizhou Wufeng Cup] Zhuiqiu Person vs. Hong Da
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785812760" tvg-start="1785805560" tvg-uid="481cae5e942a903b45f113672b65810e" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20Laguna%20(W)%20vs%20Club%20America%20(W).jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 08:06 WIB - 04/08/2026] [Mexico Liga MX Femenil] Santos Laguna (W) vs. Club America (W)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785814800" tvg-start="1785807600" tvg-uid="8b9cfc39363244f8df5053b1dd814477" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Arizona%20Diamondbacks.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 08:40 WIB - 04/08/2026] [MLB] San Diego Padres vs. Arizona Diamondbacks
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785837600" tvg-start="1785830400" tvg-uid="8a33a300a827c7d289303038b4260a4a" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arsenal%20U17%20vs%20Bayer%20Leverkusen%20U17.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 15:00 WIB - 04/08/2026] [Shanghai Future Star Cup] Arsenal U17 vs. Bayer Leverkusen U17
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785837600" tvg-start="1785830400" tvg-uid="d0935813ea69c473ba060e3e98b72caf" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Bilbao%20U17%20vs%20China%20U17.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 15:00 WIB - 04/08/2026] [Shanghai Future Star Cup] Athletic Bilbao U17 vs. China U17
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785837600" tvg-start="1785830400" tvg-uid="3fa2139987cd51c291babea8c4af0b69" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wangmu%20Youth%20vs%20Lan%20Yue.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 15:00 WIB - 04/08/2026] [Guizhou Wufeng Cup] Wangmu Youth vs. Lan Yue
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785841200" tvg-start="1785834000" tvg-uid="28b8b357abab6830aa410913905bccd6" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RTC%20FC%20vs%20Thimphu%20Raven%20FC.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 16:00 WIB - 04/08/2026] [BHU Premier League] RTC FC vs. Thimphu Raven FC
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785844800" tvg-start="1785837600" tvg-uid="6f4f56c6d0068bd0547a91e97cce6866" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/bayern-munchen/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [17:00 WIB] [FRIENDLY] Bayern München - Aston Villa
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785844800" tvg-start="1785837600" tvg-uid="c38db0c6cb919606175cf339fd5c9f52" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Halftime%20Brothers%20vs%20Tuanpo%20Village.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 17:00 WIB - 04/08/2026] [Guizhou Wufeng Cup] Halftime Brothers vs. Tuanpo Village
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785844800" tvg-start="1785837600" tvg-uid="d183a1eacebda529e0b52c1d21662707" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Myanmar%20vs%20Laos.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 17:00 WIB - 04/08/2026] [ASEAN Championship] Myanmar vs. Laos
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785850200" tvg-start="1785843000" tvg-uid="18b1fb9912dfaae47d4efb069757658b" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/chelsea/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [18:30 WIB] [FRIENDLY] Chelsea - Juventus
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785850500" tvg-start="1785843300" tvg-uid="1df8d8d2cc4cf0d7f2f1a75763bcfd64" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20CP%20U17%20vs%20River%20Plate%20U17.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 18:35 WIB - 04/08/2026] [Shanghai Future Star Cup] Sporting CP U17 vs. River Plate U17
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785850500" tvg-start="1785843300" tvg-uid="a3374528f7f98d9d605eec03efd91b5f" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tottenham%20Hotspur%20U17%20vs%20Shanghai%20U17.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 18:35 WIB - 04/08/2026] [Shanghai Future Star Cup] Tottenham Hotspur U17 vs. Shanghai U17
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785852000" tvg-start="1785844800" tvg-uid="4bd7f202342cf2e4be3d71670fc0e730" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/chelsea/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [19:00 WIB] [FRIENDLY] Chelsea - AC Milan
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785852000" tvg-start="1785844800" tvg-uid="0cc6e4e42c7b6b75d621efac6d31de3d" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/manchester-united/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [19:00 WIB] [FRIENDLY] Manchester United - AC Milan
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785852000" tvg-start="1785844800" tvg-uid="983be3fae1de1cb1a507cd3522d83a00" data-source="Footystream" tvg-logo="https://cdn.img4every1.org/team/chelsea/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[⏳ UPCOMING] [19:00 WIB] [FRIENDLY] Chelsea - Johor Darul Ta'zim
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785852000" tvg-start="1785844800" tvg-uid="646b33ad2eaf309a89f6e9a4827ef3e8" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Diversification%20vs%20Hongyan%20Village%20%E2%85%A0.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 19:00 WIB - 04/08/2026] [Guizhou Wufeng Cup] Diversification vs. Hongyan Village Ⅰ
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785852000" tvg-start="1785844800" tvg-uid="68066d3f9f3beed2f7376f8e5066a8e9" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Persebaya%20Surabaya%20vs%20Arema%20FC.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 19:00 WIB - 04/08/2026] [IDN President Cup] Persebaya Surabaya vs. Arema FC
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785852000" tvg-start="1785844800" tvg-uid="ba74db09c93b468406db7dbea8660fa7" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Persib%20Bandung%20vs%20Persatuan%20Sepakbola%20Indonesia%20Jakarta.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 19:00 WIB - 04/08/2026] [IDN President Cup] Persib Bandung vs. Persatuan Sepakbola Indonesia Jakarta
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785855600" tvg-start="1785848400" tvg-uid="5bdab4eec089929375ac5bc249f8f5e8" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philippines%20vs%20Thailand.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 20:00 WIB - 04/08/2026] [ASEAN Championship] Philippines vs. Thailand
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785858300" tvg-start="1785851100" tvg-uid="aa9ecb876cf0fd53ab0385940ab3278c" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20France%20Femmes%20-%20Stage%204.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 20:45 WIB - 04/08/2026] [UCI Women's World Tour] Tour de France Femmes - Stage 4
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785859200" tvg-start="1785852000" tvg-uid="bb616dbc0beae20a6e077590a685b206" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leeds%20vs%20Spirit.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 21:00 WIB - 04/08/2026] [The Hundred Women] Leeds vs. Spirit
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-expire="1785859200" tvg-start="1785852000" tvg-uid="176722d8830e2f57b176cda25b6a15da" data-source="bingo" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Indies%20vs%20Pakistan.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", [⏰ 21:00 WIB - 04/08/2026] [2nd Test] West Indies vs. Pakistan
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-uid="1151292829f651a17b61019efa987744" data-source="tvbangladesh" tvg-name="ACI Sport TV (1080p)" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="SPORTS FHD",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-uid="84c8ce2207055cc4b4dcecbb36755fef" data-source="tvbangladesh" tvg-name="AS3 Sport TV (1080p)" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="SPORTS FHD",AS3 Sport TV (1080p)
@@ -9858,12 +9536,6 @@ https://e.siar.us/live/dtvi.m3u8
 # ===== GITHUB SOURCE =====
 url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://azimabid00.github.io/epg/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
-#EXTINF:-1 group-title="00 JOIN KE TELE UNTUK UPDATE PLAYLIST" group-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" tvg-id="Champions TV 3.id" tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png",PLAYLIST INI AKAN SEGERA OFF
-#https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="❗JΟΙΝ ΚΕ ΤΕLΕ UΝΤUΚ UΡDΑΤΕ ΑΡΚ❗",ΙΝGΑΤ ΡLΑΥLΙSΤ ΙΝΙ GRΑΤΙS
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
 #EXTINF:-1 tvg-id="wweraw0100tapsportlq" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C490-1750072819.png" group-title="SPORTS FHD",WWE (Tap Sport LQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
@@ -10268,7 +9940,7 @@ http://202.70.146.135:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ix8yxi1659623158.png",Now HK Premier Sports 3
 #https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8   
-  
+
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ejcxv51659623166.png",Now HK Premier Sports 4
 #http://vpn.iptvtiger2.xyz/live/900probe2k/1234567890098/1032484.ts
 
@@ -10670,10 +10342,10 @@ https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 
 #EXTINF:-1 group-title="📺TV nya KLUB BOLA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lFnUDCLavvURGgFf03qM2wwU25vYuBIk524a-29NMA&s=10",INTER TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-  
+
 #EXTINF:-1 group-title="📺TV nya KLUB BOLA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1eKn6VtzgT4WTqJp033bUjKmg0OgNPT7TjQjWNMCfQ&s=10",REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-  
+
 #EXTINF:-1 group-title="📺TV nya KLUB BOLA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomEBG6nwr5hePaGcRXMqhsYFl6xI6blUhK_AaRdw4gg&s=10",BARCA TV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
@@ -11319,7 +10991,6 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Fq7axtv.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="WION.World.is.One.News.distro" tvg-name="WION World is One News", WION
 http://khano.nng.cloudns.us/live/m3u8/ns/0a8c23a12b66e1b.m3u8
 
-
 #========================================= INDIHOME ==========================================#
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -11541,9 +11212,7 @@ https://cdnbal1.indihometv.com/atm/DASH/warner/master.mpd
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://mimipipi22.github.io/logo/movies/zbioskop.jpg",Z BIOSKOP
 https://cdnbal1.indihometv.com/atm/DASH/zbioskop/master.mpd
 
-
 #=========Sports Channels ==================================================>#
-
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
