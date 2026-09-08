@@ -1,0 +1,180 @@
+#EXTM3U
+
+# ==============================
+# ENGLAND - PREMIER LEAGUE
+# ==============================
+
+#EXTINF:0 group-title="[EN] Premier League" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports 1 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
+
+#EXTINF:0 group-title="[EN] Premier League" tvg-id="2890" tvg-logo="http://epg.one/img/2890.png" tvg-rec="3",TNT Sports 2 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:0 group-title="[EN] Premier League" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 3 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
+
+#EXTINF:0 group-title="[EN] Premier League" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 4 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
+
+#EXTINF:0 group-title="[EN] Premier League" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports FHD UK
+http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/2505/index.m3u8
+
+
+# ==============================
+# SPAIN - LA LIGA
+# ==============================
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="[ES] La Liga",ES: (HD) DAZN LALIGA
+http://31.43.191.125:8080/08072024LC/08072024LC/243
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="[ES] La Liga",ES: (HD REPUESTO) DAZN LALIGA
+http://31.43.191.125:8080/08072024LC/08072024LC/244
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="[ES] La Liga",ES: (HD REPUESTO2) DAZN LALIGA
+http://31.43.191.125:8080/08072024LC/08072024LC/147167
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="[ES] La Liga",ES: (FHD) DAZN LALIGA
+http://31.43.191.125:8080/08072024LC/08072024LC/97138
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="[ES] La Liga",ES: (FHD REPUESTO) DAZN LALIGA
+http://31.43.191.125:8080/08072024LC/08072024LC/97193
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="[ES] La Liga",ES: (HD) M+ LALIGA
+http://31.43.191.125:8080/08072024LC/08072024LC/252
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="[ES] La Liga",ES: (HD REPUESTO) M+ LALIGA
+http://31.43.191.125:8080/08072024LC/08072024LC/253
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="[ES] La Liga",ES: (FHD) M+ LALIGA
+http://31.43.191.125:8080/08072024LC/08072024LC/254
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="[ES] La Liga",ES: (FHD REPUESTO) M+ LALIGA
+http://31.43.191.125:8080/08072024LC/08072024LC/97192
+
+
+# ==============================
+# SPAIN - COPA DEL REY
+# ==============================
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="[ES] Copa del Rey",ES: M+ COPA DEL REY
+http://31.43.191.125:8080/08072024LC/08072024LC/130169
+
+
+# ==============================
+# UEFA - CHAMPIONS LEAGUE
+# ==============================
+
+#EXTINF:-1 group-title="[UEFA] Champions League" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion3.png",UCL Champions3
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk1.m3u8
+
+#EXTINF:-1 group-title="[UEFA] Champions League" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion3.png",UCL Champions4
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk3.m3u8
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_1.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 1
+http://31.43.191.125:8080/08072024LC/08072024LC/264
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 2
+http://31.43.191.125:8080/08072024LC/08072024LC/129635
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 3
+http://31.43.191.125:8080/08072024LC/08072024LC/129636
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 4
+http://31.43.191.125:8080/08072024LC/08072024LC/268
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 5
+http://31.43.191.125:8080/08072024LC/08072024LC/269
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 6
+http://31.43.191.125:8080/08072024LC/08072024LC/270
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 7
+http://31.43.191.125:8080/08072024LC/08072024LC/271
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 8
+http://31.43.191.125:8080/08072024LC/08072024LC/272
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 9
+http://31.43.191.125:8080/08072024LC/08072024LC/273
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 10
+http://31.43.191.125:8080/08072024LC/08072024LC/274
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 11
+http://31.43.191.125:8080/08072024LC/08072024LC/275
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 12
+http://31.43.191.125:8080/08072024LC/08072024LC/276
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 13
+http://31.43.191.125:8080/08072024LC/08072024LC/277
+
+
+# ==============================
+# FRANCE - LIGUE 1
+# ==============================
+
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 1" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 1
+http://31.43.191.125:8080/08072024LC/08072024LC/142250
+
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 2" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 2
+http://31.43.191.125:8080/08072024LC/08072024LC/142251
+
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 3" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 3
+http://31.43.191.125:8080/08072024LC/08072024LC/142252
+
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 4" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 4
+http://31.43.191.125:8080/08072024LC/08072024LC/142253
+
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 5" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 5
+http://31.43.191.125:8080/08072024LC/08072024LC/142254
+
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 6" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 6
+http://31.43.191.125:8080/08072024LC/08072024LC/142255
+
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 7" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 7
+http://31.43.191.125:8080/08072024LC/08072024LC/142256
+
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 8" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 8
+http://31.43.191.125:8080/08072024LC/08072024LC/142257
+
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 9" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 9
+http://31.43.191.125:8080/08072024LC/08072024LC/142258
+
+#EXTINF:-1 tvg-name="FR: LIGUE1+ 10" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 10
+http://31.43.191.125:8080/08072024LC/08072024LC/142259
+
+
+# ==============================
+# GERMANY - BUNDESLIGA
+# ==============================
+
+#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_HD.png" group-title="[DE] Bundesliga",DE: SKY SPORT BUNDESLIGA 1
+http://31.43.191.125:8080/08072024LC/08072024LC/134774
+
+#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 2" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_2_HD.png" group-title="[DE] Bundesliga",DE: SKY SPORT BUNDESLIGA 2
+http://31.43.191.125:8080/08072024LC/08072024LC/134775
+
+#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 3" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_3_HD.png" group-title="[DE] Bundesliga",DE: SKY SPORT BUNDESLIGA 3
+http://31.43.191.125:8080/08072024LC/08072024LC/134776
+
+#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 4" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_4_HD.png" group-title="[DE] Bundesliga",DE: SKY SPORT BUNDESLIGA 4
+http://31.43.191.125:8080/08072024LC/08072024LC/134777
+
+#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 5" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_5_HD.png" group-title="[DE] Bundesliga",DE: SKY SPORT BUNDESLIGA 5
+http://31.43.191.125:8080/08072024LC/08072024LC/134778
+
+#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 6" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_HD.png" group-title="[DE] Bundesliga",DE: SKY SPORT BUNDESLIGA 6
+http://31.43.191.125:8080/08072024LC/08072024LC/134779
+
+#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_7_HD.png" group-title="[DE] Bundesliga",DE: SKY SPORT BUNDESLIGA 7
+http://31.43.191.125:8080/08072024LC/08072024LC/134780
+
+#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 8" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_8_HD.png" group-title="[DE] Bundesliga",DE: SKY SPORT BUNDESLIGA 8
+http://31.43.191.125:8080/08072024LC/08072024LC/134781
+
+#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 9" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_9_HD.png" group-title="[DE] Bundesliga",DE: SKY SPORT BUNDESLIGA 9
+http://31.43.191.125:8080/08072024LC/08072024LC/134793
+
+#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 10" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_10_HD.png" group-title="[DE] Bundesliga",DE: SKY SPORT BUNDESLIGA 10
+http://31.43.191.125:8080/08072024LC/08072024LC/134794
