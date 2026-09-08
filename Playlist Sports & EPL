@@ -1,0 +1,787 @@
+#EXTM3U x-generator="https://m3u4u.com/"
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sport-png-6.png" tvg-id="",##### AR - SPORT #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584511.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/606586.png" tvg-id="",AR - EXTRA ACTION 4K
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/606586.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/614442.png" tvg-id="",AR - AL RABIAA SPORT UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/614442.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/703180.png" tvg-id="",AR - LIBYA SPORT 1 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/703180.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584509.png" tvg-id="",AR - LIBYA SPORT 2 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584509.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584498.png" tvg-id="",AR - AL KASS 1 HEVC
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584498.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584496.png" tvg-id="",AR - AL KASS 2 HEVC
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584496.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/1205204.png" tvg-id="AlKassThree.qa",AR - AL KASS 3 HEVC
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1205204.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584494.png" tvg-id="",AR - AL KASS 4 HEVC
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584494.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/881895.png" tvg-id="",AR - AL KASS 9 4K (LIVE EVENT ONLY)
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/881895.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/881894.png" tvg-id="",AR - AL KASS 9 HD (LIVE EVENT ONLY)
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/881894.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584491.png" tvg-id="",AR - BAHRAIN SPORT 1 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584491.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584490.png" tvg-id="",AR - BAHRAIN SPORT 2 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584490.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584489.png" tvg-id="",AR - DUBAI RACING 1 TV HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584489.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584488.png" tvg-id="",AR - DUBAI RACING 2
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584488.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584487.png" tvg-id="",AR - DUBAI RACING 3
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584487.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584486.png" tvg-id="",AR - DUBAI SPORT 1 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584486.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584485.png" tvg-id="",AR - DUBAI SPORT 2
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584485.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584484.png" tvg-id="",AR - DUBAI SPORT 3 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584484.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/584483.png" tvg-id="",AR - ELHEDDAF
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584483.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/iraqiasporthd.png" tvg-id="",AR - IRAQIA SPORT UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584482.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/jordansporthd.png" tvg-id="",AR - JORDAN SPORT
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584481.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/ksasportsplus1.png" tvg-id="",AR - KAS SPORT 1 PLUS
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584480.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/ksasport1.png" tvg-id="",AR - KSA SPORT 1 HEVC
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584479.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/ksasports2.png" tvg-id="",AR - KSA SPORT 2 HEVC
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584478.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/ksasports3hd.png" tvg-id="",AR - KSA SPORT 3 HEVC
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584477.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/ksasports4hd.png" tvg-id="",AR - KSA SPORT 4 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584476.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/ksasports3hd.png" tvg-id="",AR - KSA SPORTS 3 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584475.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/kuwaitsports.png" tvg-id="",AR - KUWAIT SPORT UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584474.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/kuwaitsportplus.png" tvg-id="",AR - KUWAIT SPORTS+ UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584473.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/NILE-SPORT-LQ.png" tvg-id="",AR - NILE SPORT
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584471.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/NILE-SPORT-LQ.png" tvg-id="",AR - NILEEN SPORT
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584470.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/OMAN-SPORT.png" tvg-id="",AR - OMAN SPORT TV
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584469.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/ON-TIME-SPORT.png" tvg-id="",AR - ON TIME SPORT UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584468.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/ON-TIME-SPORTS-2.png" tvg-id="",AR - ON TIME SPORTS 2 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584467.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/ON-TIME-SPORT.png" tvg-id="",AR - ON TIME SPORTS 3 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584466.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/palestinesport.png" tvg-id="",AR - PALESTINE SPORT
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584465.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/arabic/SUDAN-SPORT-1.png" tvg-id="",AR - SUDAN SPORT 1 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584461.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="https://logo.protv.cc/piconsnew/yassports.png" tvg-id="",AR - YAS SPORT UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584460.ts
+#EXTINF:-1 group-title="|AR| SPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/ZAMALEK-SPORTS.png" tvg-id="",AR - ZAMALEK SPORTS
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/584459.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" tvg-id="",##### [UK] SPORTS UHD #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/578002.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png" tvg-id="",UK - SKY SPORTS MAIN EVENTS UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577997.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPL.png" tvg-id="SkySportsPremiereLeague.uk",UK - SKY SPORTS PL UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577996.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" tvg-id="Sky.Sports.Football.HD.uk",UK - SKY SPORTS FOOTBALL UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577995.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" tvg-id="SkySportsNews.uk",UK - SKY SPORTS NEWS UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577994.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNFL.png" tvg-id="Sky.Sports.NFL.uk",UK - SKY SPORTS NFL UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577993.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSARENA.png" tvg-id="SkySportsArena.uk",UK - SKY SPORTS ARENA UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577992.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" tvg-id="SkySportsCricket.uk",UK - SKY SPORTS CRICKET UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577991.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSDARTS.png" tvg-id="SkySportsF1.uk",UK - SKY SPORTS DARTS UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577990.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" tvg-id="SkySportsMix.uk",UK - SKY SPORTS MIX HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577989.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png" tvg-id="SkySportsRacing.uk",UK - SKY SPORTS RACING UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577988.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png" tvg-id="SkySportsGolf.uk",UK - SKY SPORTS GOLF UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577987.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" tvg-id="TNTSport1.uk",UK - TNT SPORTS 1 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/578001.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" tvg-id="TNTSport2.uk",UK - TNT SPORTS 2 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/578000.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" tvg-id="TNTSport3.uk",UK - TNT SPORTS 3 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577999.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" tvg-id="TNTSport4.uk",UK - TNT SPORTS 4 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/782732.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTULTIMATE.png" tvg-id="TNTUltimate.uk",UK - TNT SPORT ULTIMATE
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/804331.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BTBOXOFFICE.png" tvg-id="",UK - BT BOX OFFICE HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/783987.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTSESPN.png" tvg-id="BTSport4ESPN.uk",UK - TNT SPORTS ESPN UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577998.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT 1 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/766852.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT 2 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/766853.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT 3 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/766854.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT 4 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/766855.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORT1.png" tvg-id="Eurosport1.uk",UK - EUROSPORT 1 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577985.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORT2.png" tvg-id="Eurosport2.uk",UK - EUROSPORT 2 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577984.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" tvg-id="uk.425 LFCTV HD",UK - LFC TV
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577953.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTLALIGA.png" tvg-id="",UK - PREMIER SPORT LALIGA TV UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577983.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png" tvg-id="ViaplaySports1.uk",UK - PREMIER SPORTS 1 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577982.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS2.png" tvg-id="ViaplaySports2.uk",UK - PREMIER SPORT 2 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577981.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CHELSEA.png" tvg-id="",UK - CHELSEA TV UHD [LIVE ON MATCHES]
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577980.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" tvg-id="",##### [UK]  SKY SPORTS FHD #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577979.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RANGERS.png" tvg-id="",UK - RANGERS TV LIVE EVENT
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/755223.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CELTIC.png" tvg-id="",UK - CELTIC TV
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/759746.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png" tvg-id="SkySportsMainEvent.uk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",UK - SKY SPORTS MAIN EVENT FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577978.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPL.png" tvg-id="SkySportsPremiereLeague.uk",UK - SKY SPORTS PL FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577977.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" tvg-id="Sky.Sports.Football.HD.uk",UK - SKY SPORTS FOOTBALL FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577976.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNFL.png" tvg-id="Sky.Sports.NFL.uk",UK - SKY SPORTS NFL FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577975.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSARENA.png" tvg-id="SkySportsArena.uk",UK - SKY SPORTS ARENA FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577974.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" tvg-id="SkySportsCricket.uk",UK - SKY SPORTS CRICKET FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577973.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSDARTS.png" tvg-id="SkySportsF1.uk",UK - SKY SPORTS DARTS FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577972.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png" tvg-id="SkySportsGolf.uk",UK - SKY SPORTS GOLF FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577971.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" tvg-id="SkySportsMix.uk",UK - SKY SPORTS MIX FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577970.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" tvg-id="SkySportsNews.uk",UK - SKY SPORTS NEWS FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577969.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png" tvg-id="SkySportsRacing.uk",UK - SKY SPORTS RACING FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577968.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png" tvg-id="",UK - SKY SPORTS ACTION FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/726827.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" tvg-id="SkySportsTennis.uk",UK - SKY SPORTS TENNIS HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1089330.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" tvg-id="TNTSport1.uk",UK - TNT SPORTS 1 FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577967.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" tvg-id="TNTSport2.uk",UK - TNT SPORTS 2 FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577966.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" tvg-id="TNTSport3.uk",UK - TNT SPORTS 3 FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577965.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTSESPN.png" tvg-id="BTSport4ESPN.uk",UK - TNT SPORTS ESPN FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577964.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORT1.png" tvg-id="Eurosport1.uk",UK - EUROSPORT 1 FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577963.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORT2.png" tvg-id="Eurosport2.uk",UK - EUROSPORT 2 FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577962.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTLALIGA.png" tvg-id="",UK - PREMIER SPORT LALIGA TV FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577961.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAY.png" tvg-id="ViaplaySports1.uk",UK - VIAPLAY SPORT 1 FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577960.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS2.png" tvg-id="ViaplaySports2.uk",UK - PREMIER SPORTS 2 FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577959.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PDCDARTS.png" tvg-id="",UK - PDC DARTS TV 1 (Event Only)
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/854422.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png" tvg-id="",UK - MUTV
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/754447.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RACING.png" tvg-id="RacingUK.uk",UK - RACING UK FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577958.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MANUNITED.png" tvg-id="",UK - MAN UNITED FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577952.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PDCDARTS.png" tvg-id="",UK - PDC DARTS TV 1 (Event Only) (2)
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577951.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RMTV.png" tvg-id="",UK - RMTV
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577950.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/WWELIVE.png" tvg-id="",UK - WWE LIVE FHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577949.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" tvg-id="",##### [UK] SKY SPORTS SD #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577948.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png" tvg-id="SkySportsMainEvent.uk",UK - SKY SPORTS MAIN EVENT
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577947.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" tvg-id="SkySportsPremiereLeague.uk",UK - SKY SPORTS PREMIER LEAGUE
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577946.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNFL.png" tvg-id="Sky.Sports.NFL.uk",UK - SKY SPORTS NFL
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577945.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSARENA.png" tvg-id="SkySportsArena.uk",UK - SKY SPORTS ARENA
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577944.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" tvg-id="SkySportsCricket.uk",UK - SKY SPORTS CRICKET
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577943.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSDARTS.png" tvg-id="SkySportsF1.uk",UK - SKY SPORTS DARTS
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577942.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" tvg-id="Sky.Sports.Football.HD.uk",UK - SKY SPORTS FOOTBALL
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577941.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png" tvg-id="SkySportsGolf.uk",UK - SKY SPORTS GOLF
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577940.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" tvg-id="SkySportsMix.uk",UK - SKY SPORTS MIX
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577939.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" tvg-id="SkySportsNews.uk",UK - SKY SPORTS NEWS
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577938.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png" tvg-id="SkySportsRacing.uk",UK - SKY SPORTS RACING
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577937.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT EVENTS UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577935.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" tvg-id="",##### [UK] SUPER SPORTS #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577936.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="AstroSuperSport.my",UK - SUPERSPORT 4K
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/782724.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORTMAXIMO.png" tvg-id="",UK - SUPERSPORT MAXIMO UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577934.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORTACTION.png" tvg-id="",UK - SUPERSPORT ACTION UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577933.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORTSPLAY1.png" tvg-id="",UK - SUPER SPORT PLAY 1 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577932.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORTSPLAY1.png" tvg-id="",UK - SUPERSPORT PLAY 2 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577931.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORTPL.png" tvg-id="",UK - SUPERSPORT PL UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577930.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT LIGA UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577929.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORTTENNIS.png" tvg-id="",UK - SUPERSPORT TENNIS UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577928.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT CRICKET UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577916.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORTBLITZ.png" tvg-id="",UK - SUPERSPORT BLITZ UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577927.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT PSL UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577926.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT GOLF UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577925.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT GRANDSTAND UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577924.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT VARIETY 2 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577923.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT VARIETY 1 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577922.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT MOTORSPORT UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577921.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT FOOTBALL UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577920.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT VARIETY 4 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577919.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT VARIETY 3 UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577918.ts
+#EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" tvg-id="",UK - SUPERSPORT RUGBY UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577917.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" tvg-id="",##### [UK] EPL #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/766094.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" tvg-id="",EPL - PREMIERE LEAGUE 1
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1178467.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" tvg-id="",EPL - PREMIERE LEAGUE 2
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1178466.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" tvg-id="",EPL - PREMIERE LEAGUE 3
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1178465.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" tvg-id="",EPL - PREMIERE LEAGUE 4
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1178464.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" tvg-id="",EPL - PREMIERE LEAGUE 5
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1178463.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" tvg-id="",EPL - PREMIERE LEAGUE 6
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1178462.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" tvg-id="",EPL -  PREMIERE LEAGUE 7
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1178461.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" tvg-id="",EPL - PREMIERE LEAGUE 8
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1178460.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" tvg-id="",EPL - PREMIERE LEAGUE 9
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1178459.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" tvg-id="",EPL - PREMIERE LEAGUE 10
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1178458.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png" tvg-id="",UK - EPL IPSWICH
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764323.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EPLWOLVERGAMPTONWANDERERS.png" tvg-id="",UK - EPL HULL
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764324.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/6/6d/Tottenham_Hotspur.png" tvg-id="",UK - EPL TOTTENHAM
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764322.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOTTINGHAMFOREST.png" tvg-id="",UK - EPL NOTTINGHAM FOREST
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764320.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/2/25/Newcastle_United_Logo.png" tvg-id="",UK - EPL NEWCASTLE UTD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764319.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/f/ff/Manchester_United_FC_crest.png" tvg-id="",UK - EPL MANCHESTER UTD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764318.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MANCHESTERCITY.png" tvg-id="",UK - EPL MANCHESTER CITY
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764317.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/b/bd/Liverpool_FC.png" tvg-id="",UK - EPL LIVERPOOL
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764316.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FULHAM.png" tvg-id="",UK - EPL FULHAM
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764314.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/c/c1/Crystal_Palace_FC_logo.png" tvg-id="",UK - EPL CRYSTAL PALACE
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764312.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UK/1893285.png" tvg-id="",UK - EPL LEEDS
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1299232.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png" tvg-id="",UK - EPL EVERTON
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764313.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/c/cc/Chelsea_FC.svg/2048px-Chelsea_FC.svg.png" tvg-id="",UK - EPL CHELSEA
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764311.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BRIGHTON.png" tvg-id="",UK - EPL BRIGHTON
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764310.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="https://iconape.com/wp-content/png_logo_vector/afc-bournemouth-logo.png" tvg-id="",UK - EPL AFC BOURNEMOUTH
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764308.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BURNLEY.png" tvg-id="",UK - EPL COVENTRY
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/761945.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UK/1903316.png" tvg-id="",UK - EPL SUNDERLAND
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/761933.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png" tvg-id="",UK - EPL BRENTFORD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764309.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EPLASTONVILLA.png" tvg-id="",UK - EPL ASTON VILLA
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764307.ts
+#EXTINF:-1 group-title="|UK| EPL SOCCER" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/8/82/Arsenal_FC.png" tvg-id="",UK - EPL ARSENAL
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/764306.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" tvg-id="",##### UK CHAMPIONSHIP #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291710.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Burnley
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408655.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Wrexham
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408654.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Wolverhampton Wanderers
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408653.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | West Ham United
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408652.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | West Bromwich Albion
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408651.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Watford
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408650.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Swansea City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408649.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Stoke City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408648.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Southampton
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408647.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Sheffield United
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408646.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Queens Park Rangers
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408645.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Preston North End
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408644.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Portsmouth
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408643.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Norwich City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408642.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Millwall
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408641.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Middlesbrough
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408640.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Lincoln City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408639.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Derby County
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408638.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Charlton Athletic
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408637.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Cardiff City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408636.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Bristol City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408635.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Bolton Wanderers
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408634.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Blackburn Rovers
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408633.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",CHAMP | Birmingham City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408632.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" tvg-id="",##### UK LEAGUE ONE #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291685.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Wycombe Wanderers
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408704.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Wigan Athletic
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408703.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Stockport County
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408702.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Stevenage
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408701.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Sheffield Wednesday
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408700.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Reading
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408699.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Plymouth Argyle
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408698.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Peterborough United
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408697.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Oxford United
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408696.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Notts County
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408695.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | MK Dons
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408694.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Mansfield Town
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408693.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Luton Town
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408692.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Leyton Orient
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408691.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Leicester City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408690.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Huddersfield Town
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408689.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Doncaster Rovers
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408688.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Cambridge United
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408687.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Burton Albion
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408686.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Bromley
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408685.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Bradford City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408684.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Blackpool
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408683.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | Barnsley
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408682.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L1 | AFC Wimbledon
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408681.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" tvg-id="",##### UK LEAGUE TWO #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291660.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | York City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408680.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Walsall
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408679.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Tranmere Rovers
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408678.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Swindon Town
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408677.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Shrewsbury Town
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408676.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Salford City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408675.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Rotherham United
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408674.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Rochdale
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408673.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Port Vale
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408672.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Oldham Athletic
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408671.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Northampton Town
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408670.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Newport County
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408669.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Grimsby Town
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408668.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Gillingham
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408667.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Fleetwood Town
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408666.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Exeter City
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408665.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Crewe Alexandra
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408664.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Crawley Town
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408663.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Colchester United
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408662.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Chesterfield
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408661.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Cheltenham Town
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408660.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Bristol Rovers
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408659.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Barnet
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408658.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | Accrington Stanley
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1408657.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",L2 | SWINDON TOWN (2)
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291657.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 1 : Final Oldham vs Southend // UK Sun 1 Jun 3:00pm // ET Sun 1 Jun 10:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291635.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 2 : Boreham Wood vs Maidstone // UK Sun 18 May 11:30am // ET Sun 18 May 6:30am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291634.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 3 : Scunthorpe vs Chester // UK Sun 18 May 3:00pm // ET Sun 18 May 10:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291633.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 4 : Altrincham vs Tamworth // UK Mon 5 May 2:00pm // ET Mon 5 May 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291632.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 5 : Braintree vs Rochdale // UK Mon 5 May 2:00pm // ET Mon 5 May 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291631.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 6 : Eastleigh vs York // UK Mon 5 May 2:00pm // ET Mon 5 May 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291630.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 7 : Gateshead vs Southend // UK Mon 5 May 2:00pm // ET Mon 5 May 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291629.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 8 : Hartlepool vs Forest Green // UK Mon 5 May 2:00pm // ET Mon 5 May 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291628.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 9 : Maidenhead vs Boston // UK Mon 5 May 2:00pm // ET Mon 5 May 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291627.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 10 : Oldham vs Ebbsfleet // UK Mon 5 May 2:00pm // ET Mon 5 May 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291626.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",National League 11 : Solihull Moors vs Dagenham & Redbridge // UK Mon 5 May 2:00pm // ET Mon 5 May 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291625.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 12 : Sutton vs Woking // UK Mon 5 May 2:00pm // ET Mon 5 May 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291624.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 13 : Wealdstone vs FC Halifax Town // UK Mon 5 May 2:00pm // ET Mon 5 May 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291623.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 14 : WestonsuperMare vs Truro // UK Mon 21 Apr 2:00pm // ET Mon 21 Apr 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291622.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 15 : Worthing vs Dorking // UK Mon 21 Apr 2:00pm // ET Mon 21 Apr 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291621.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 16 : Kidderminster Harriers vs Hereford // UK Mon 21 Apr 2:00pm // ET Mon 21 Apr 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291620.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 17 : Scunthorpe vs Peterborough Sports // UK Mon 21 Apr 2:00pm // ET Mon 21 Apr 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291619.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League 18 : MultiMatch Live // UK Mon 21 Apr 2:00pm // ET Mon 21 Apr 9:00am
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291618.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 19
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291617.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 20
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291616.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 21
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291615.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 22
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291614.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 23
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291613.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 24
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291612.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 25
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291611.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 26
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291610.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 27
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291609.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 28
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291608.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 29
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291607.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 30
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291606.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 31
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291605.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 32
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291604.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 33
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291603.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 34
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291602.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 35
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291601.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 36
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291600.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 37
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291599.ts
+#EXTINF:-1 group-title="|UK| EFL SOCCER" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" tvg-id="",UK - National League : Event 38
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1291598.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 1
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409632.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 2
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409631.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 3
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409630.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 4
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409629.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 5
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409628.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 6
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409627.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 7
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409626.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 8
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409625.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 9
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409624.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 10
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409623.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 11
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409622.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 12
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409621.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 13
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409620.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 14
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409619.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 15
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409618.ts
+#EXTINF:-1 group-title="|UK| CYMRU FOOTBALL PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/CymrFootball.png" tvg-id="",Cymru Football 16
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1409617.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" tvg-id="",##### EFL IFOLLOW REPLAY #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828234.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH HIGHLIGHTS HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828232.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 1 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828231.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 2 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828230.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 3 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828229.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 4 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828228.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 5 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828227.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 6 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828226.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 7 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828225.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 8 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828224.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 9 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828223.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 10 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828222.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 11 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828221.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY 12 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828220.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-CH REPLAY INFO HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828233.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" tvg-id="",##### EFL L1 REPLAYS #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828219.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 1 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828217.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 2 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828216.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 3 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828215.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 4 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828214.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 5 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828213.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 6 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828212.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 7 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828211.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 8 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828210.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 9 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828209.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 10 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828208.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 11 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828207.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY 12 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828206.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L1 REPLAY INFO HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828218.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",##### EFL L2 REPLAYS #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828205.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 1 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828203.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 2 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828202.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 3 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828201.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 4 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828200.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 5 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828199.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 6 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828198.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 7 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828197.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 8 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828196.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 9 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828195.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 10 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828194.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 11 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828193.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY 12 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828192.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - EFL-L2 REPLAY INFO HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828204.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" tvg-id="",##### PL REPLAYS #####
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828247.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL HIGHLIGHTS HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828245.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL REPLAY 1 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828244.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL REPLAY 2 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828243.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL REPLAY 3 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828242.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL REPLAY 4 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828241.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL REPLAY 5 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828240.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL REPLAY 6 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828239.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL REPLAY 7 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828238.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL REPLAY 8 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828237.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL REPLAY 9 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828236.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL REPLAY 10 HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828235.ts
+#EXTINF:-1 group-title="|UK| SOCCER REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REPLAY.png" tvg-id="",UK - PL REPLAY INFO HD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/828246.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 1
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139610.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 2
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139609.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 3
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139608.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 4
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139607.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 5
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139606.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 6
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139605.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 7
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139604.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 8
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139603.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 9
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139602.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 10
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139601.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 11
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139600.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 12
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139599.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 13
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139598.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 14
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139597.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 15
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139596.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 16
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139595.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 17
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139594.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 18
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139593.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 19
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139592.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 20
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139591.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 21
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139590.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 22
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139589.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 23
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139588.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 24
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139587.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 25
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139586.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 26
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139585.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 27
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139584.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 28
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139583.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 29
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139582.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 30
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139581.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 31
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139580.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 32
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139579.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 33
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139578.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 34
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139577.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 35
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139576.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 36
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139575.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 37
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139574.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 38
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139573.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 39
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139572.ts
+#EXTINF:-1 group-title="|UK| SKY SPORT+" tvg-logo="http://103.176.90.118/picons/logos/logos/SkySports.png" tvg-id="",Sky Sport+ 40
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/1139571.ts
