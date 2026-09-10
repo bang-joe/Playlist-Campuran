@@ -1754,12 +1754,17 @@ http://31.43.191.125:8080/08072024LC/08072024LC/142259
 # ==============================
 
 #EXTINF:-1 tvg-id="ESPN1.nl" tvg-name="|NL| ESPN 1 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="NL| NEDERLAND 4K",|NL| ESPN 1 4K
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn1.m3u8
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580801
 #EXTINF:-1 tvg-id="ESPN2.nl" tvg-name="|NL| ESPN 2 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="NL| NEDERLAND 4K",|NL| ESPN 2 4K
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn2.m3u8
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580802
 #EXTINF:-1 tvg-id="ESPN3.nl" tvg-name="|NL| ESPN 3 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="NL| NEDERLAND 4K",|NL| ESPN 3 4K
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn3.m3u8
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580803
 #EXTINF:-1 tvg-id="ESPN4.nl" tvg-name="|NL| ESPN 4 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="NL| NEDERLAND 4K",|NL| ESPN 4 4K
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn5.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn4.m3u8
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580804
 #EXTINF:-1 tvg-id="Eurosport1.nl" tvg-name="|NL| EUROSPORT 1 4K" tvg-logo="http://logo.ottcst.info/EUROSPORT1.png" group-title="NL| NEDERLAND 4K",|NL| EUROSPORT 1 4K
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580812
@@ -1777,6 +1782,11 @@ http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580805
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580809
 #EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="|NL| ZIGGO SPORT 6 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTTENNIS.png" group-title="NL| NEDERLAND 4K",|NL| ZIGGO SPORT 6 4K
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580810
+
+# ==============================
+# EXYU SPORTS
+# ==============================
+
 #EXTINF:-1 tvg-id="ArenaSport1BiH.bh" tvg-ID="" tvg-name="|EXYU| ARENA SPORT 1 BIH" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_1_HD.png" group-title="EXYU SPORTS",|EXYU| ARENA SPORT 1 BIH
 http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79784
 #EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-ID="arenasport1.hr" tvg-name="|EXYU| ARENA SPORT 1 HKURD: (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_1_HD.png" group-title="EXYU SPORTS",|EXYU| ARENA SPORT 1 HKURD: (HR)
