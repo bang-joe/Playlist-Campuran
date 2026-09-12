@@ -1980,6 +1980,38 @@ http://31.43.191.125:8080/08072024LC/08072024LC/97192
 #EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="ES | LALIGA VIP",ES: M+ COPA DEL REY
 http://31.43.191.125:8080/08072024LC/08072024LC/130169
 
+#EXTINF:-1 tvg-id="3553" tvg-name="Premier Sports 1 HD UK" tvg-logo="http://epg.one/img/3553.png" group-title="ES | LALIGA VIP",Premier Sports 1 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/premier.m3u8
+#EXTINF:-1 tvg-id="3553" tvg-name="Premier Sports21 HD UK" tvg-logo="http://epg.one/img/3553.png" group-title="ES | LALIGA VIP",Premier Sports21 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/premier2.m3u8
+
+#EXTINF:-1 tvg-id="PremiersportsMLYSIA" tvg-name="Premier sports (MLYSIA)" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ES | LALIGA VIP",Premier sports (MLYSIA)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163874.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/nujnit1784996751.png" group-title="ES | LALIGA VIP", DAZN 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/1rrcbx1784996764.png" group-title="ES | LALIGA VIP", DAZN 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/4z35dr1784996780.png" group-title="ES | LALIGA VIP", DAZN 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2cnyr1784996789.png" group-title="ES | LALIGA VIP", DAZN 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport4/index.m3u8
+
+##EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ffw8yk1773512280.png" group-title="ES | LALIGA VIP", DAZN 5
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
+
+
 
 
 # ==============================
@@ -2185,6 +2217,23 @@ http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/2505/index.m3u8
 #EXTINF:-1 tvg-id="monomax.id" tvg-name="beIN Sports 4" tvg-logo="https://i.imgur.com/mRhtasR.png" group-title="[EN] Premier League", MONOMAX SPORTS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-id="4569" tvg-name="Sky Sports Premier League HD (UK)" tvg-logo="http://epg.one/img/4569.png" group-title="[EN] Premier League",Sky Sports Premier League HD (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportp.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="[EN] Premier League", SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://sw.run/CAMPWIKI-SKYSPORTS-PREMIERL-LEAGUE
+
+#EXTINF:-1 tvg-id="2889" tvg-name="TNT Sports 1 HD UK" tvg-logo="http://epg.one/img/2889.png" group-title="[EN] Premier League",TNT Sports 1 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
+#EXTINF:-1 tvg-id="2890" tvg-name="TNT Sports 2 HD UK" tvg-logo="http://epg.one/img/2890.png" group-title="[EN] Premier League",TNT Sports 2 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
+#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 3 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="[EN] Premier League",TNT Sports 3 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
+#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 4 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="[EN] Premier League",TNT Sports 4 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
 
 
 # ==============================
