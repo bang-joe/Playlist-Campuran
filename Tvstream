@@ -1581,65 +1581,63 @@ https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
 
 # ==============================
-# [ID] TV Daerah
+
+# [ID] TV Lokal
+
 # ==============================
 
-#EXTINF:-1 tvg-id="BaliTV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_balitv.png",Bali TV
+#EXTINF:-1 tvg-id="BaliTV.id@SD" group-title="[ID] TV Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_balitv.png",Bali TV
 https://cdnbal1.indihometv.com/atm/DASH/balitv/balitv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 group-title="[ID] TV Daerah" tvg-logo="https://pic.dens.tv/tv_183x174/BN_Channel_(Trial)_1.jpg",BN Channel
+#EXTINF:-1 group-title="[ID] TV Lokal" tvg-logo="https://pic.dens.tv/tv_183x174/BN_Channel_(Trial)_1.jpg",BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h39/index.m3u8
-#EXTINF:-1 tvg-id="ChannelJowo.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://pic.dens.tv/tv_183x174/Channel_Jowo_1.jpg",Channel Jowo
+#EXTINF:-1 tvg-id="ChannelJowo.id@SD" group-title="[ID] TV Lokal" tvg-logo="https://pic.dens.tv/tv_183x174/Channel_Jowo_1.jpg",Channel Jowo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
-#EXTINF:-1 tvg-id="DAAITV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png",DAAI TV
+#EXTINF:-1 tvg-id="DAAITV.id@SD" group-title="[ID] TV Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png",DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/garudatv.jpg",Garuda TV
+#EXTINF:-1 tvg-id="GarudaTV.id@SD" group-title="[ID] TV Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/garudatv.jpg",Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#EXTINF:-1 group-title="[ID] TV Daerah" tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-m.png",Hanacaraka TV
+#EXTINF:-1 group-title="[ID] TV Lokal" tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-m.png",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=89&type=fitnah
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
-#EXTINF:-1 group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indonesianatv.png",Indonesiana TV
+#EXTINF:-1 group-title="[ID] TV Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indonesianatv.png",Indonesiana TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:-1 tvg-id="JakTV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png",JakTV
+#EXTINF:-1 tvg-id="JakTV.id@SD" group-title="[ID] TV Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png",JakTV
 https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="JawaPosTV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jawapos.png",JawaPos TV
+#EXTINF:-1 tvg-id="JawaPosTV.id@SD" group-title="[ID] TV Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jawapos.png",JawaPos TV
 https://cdnbal1.indihometv.com/atm/DASH/jawapos/jawapos-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="JTV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png",JTV
+#EXTINF:-1 tvg-id="JTV.id@SD" group-title="[ID] TV Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png",JTV
 https://cdnbal1.indihometv.com/atm/DASH/jtv/jtv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="MagnaChannel.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg",Magna Channel
+#EXTINF:-1 tvg-id="MagnaChannel.id@SD" group-title="[ID] TV Lokal" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg",Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
-#EXTINF:-1 group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png",Oxygen TV
+#EXTINF:-1 group-title="[ID] TV Lokal" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png",Oxygen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
-
-# ==============================
-# [ID] TV Religi & Budaya
-# ==============================
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png" group-title="[ID] TV Religi & Budaya",MQTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png" group-title="[ID] TV Lokal",MQTV
 https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="[ID] TV Religi & Budaya",RodjaTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="[ID] TV Lokal",RodjaTV
 https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
-#EXTINF:-1 tvg-id="MuslimTV.id@SD" group-title="[ID] TV Religi & Budaya" tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-m.png",Muslim TV
+#EXTINF:-1 tvg-id="MuslimTV.id@SD" group-title="[ID] TV Lokal" tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-m.png",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="[ID] TV Religi & Budaya",TV 10 HD
+#EXTINF:-1 tvg-logo="" group-title="[ID] TV Lokal",TV 10 HD
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[ID] TV Religi & Budaya",TV9 HD
+#EXTINF:-1 tvg-logo="" group-title="[ID] TV Lokal",TV9 HD
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67qwW1u1F-sEku-oDwde7WLWIykjwyu3uOA&s" group-title="[ID] TV Religi & Budaya",TVMU HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67qwW1u1F-sEku-oDwde7WLWIykjwyu3uOA&s" group-title="[ID] TV Lokal",TVMU HD
 https://e.siar.us/live/tvmu.m3u8
+
 
 # ==============================
 # All Sports Liga Eropa
@@ -1870,149 +1868,762 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports2.m3u8
 #EXTINF:-1 tvg-id="2944" tvg-name="S-Sport 3 HD TR" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Ssports.png" group-title="Sports HD",S-Sport 3 HD TR
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports3.m3u8
 
-
 # ==============================
-# UEFA - CHAMPIONS LEAGUE
-# ==============================
-
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_1.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 1
-http://31.43.191.125:8080/08072024LC/08072024LC/264
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 2
-http://31.43.191.125:8080/08072024LC/08072024LC/129635
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 3
-http://31.43.191.125:8080/08072024LC/08072024LC/129636
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 4
-http://31.43.191.125:8080/08072024LC/08072024LC/268
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 5
-http://31.43.191.125:8080/08072024LC/08072024LC/269
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 6
-http://31.43.191.125:8080/08072024LC/08072024LC/270
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 7
-http://31.43.191.125:8080/08072024LC/08072024LC/271
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 8
-http://31.43.191.125:8080/08072024LC/08072024LC/272
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 9
-http://31.43.191.125:8080/08072024LC/08072024LC/273
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 10
-http://31.43.191.125:8080/08072024LC/08072024LC/274
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 11
-http://31.43.191.125:8080/08072024LC/08072024LC/275
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 12
-http://31.43.191.125:8080/08072024LC/08072024LC/276
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 13
-http://31.43.191.125:8080/08072024LC/08072024LC/277
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="[UEFA] Champions League",ES: (HD) M+ LIGA DE CAMPEONES
-http://31.43.191.125:8080/08072024LC/08072024LC/264
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="[UEFA] Champions League",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
-http://31.43.191.125:8080/08072024LC/08072024LC/97195
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="[UEFA] Champions League",ES: (FHD) M+ LIGA DE CAMPEONES
-http://31.43.191.125:8080/08072024LC/08072024LC/265
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="[UEFA] Champions League",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
-http://31.43.191.125:8080/08072024LC/08072024LC/97196
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="[UEFA] Champions League",ES: (SD) M+ LIGA DE CAMPEONES
-http://31.43.191.125:8080/08072024LC/08072024LC/99051
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="[UEFA] Champions League",ES: (HD) M+ LIGA DE CAMPEONES 2
-http://31.43.191.125:8080/08072024LC/08072024LC/129635
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="[UEFA] Champions League",ES: (FHD) M+ LIGA DE CAMPEONES 2
-http://31.43.191.125:8080/08072024LC/08072024LC/266
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="[UEFA] Champions League",ES: (HD) M+ LIGA DE CAMPEONES 3
-http://31.43.191.125:8080/08072024LC/08072024LC/129636
-#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="[UEFA] Champions League",ES: (FHD) M+ LIGA DE CAMPEONES 3
-http://31.43.191.125:8080/08072024LC/08072024LC/267
-#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 4
-http://31.43.191.125:8080/08072024LC/08072024LC/268
-#EXTINF:-1 tvg-id="es.MULTIFUT. 5" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 5
-http://31.43.191.125:8080/08072024LC/08072024LC/269
-#EXTINF:-1 tvg-id="es.Multifútbol 6" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 6
-http://31.43.191.125:8080/08072024LC/08072024LC/270
-#EXTINF:-1 tvg-id="es.Multifútbol 7" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 7
-http://31.43.191.125:8080/08072024LC/08072024LC/271
-#EXTINF:-1 tvg-id="es.Multifútbol 8" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 8
-http://31.43.191.125:8080/08072024LC/08072024LC/272
-#EXTINF:-1 tvg-id="LigaCampe9" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 9
-http://31.43.191.125:8080/08072024LC/08072024LC/273
-#EXTINF:-1 tvg-id="LigaCampe10" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 10
-http://31.43.191.125:8080/08072024LC/08072024LC/274
-#EXTINF:-1 tvg-id="LigaCampe11" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 11
-http://31.43.191.125:8080/08072024LC/08072024LC/275
-#EXTINF:-1 tvg-id="LigaCampe12" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 12
-http://31.43.191.125:8080/08072024LC/08072024LC/276
-#EXTINF:-1 tvg-id="LigaCampe13" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 13
-http://31.43.191.125:8080/08072024LC/08072024LC/277
-
-
-# ==============================
-# SPAIN - LA LIGA
+# LA LIGA
 # ==============================
 
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD) DAZN LALIGA
+#EXTINF:-1 tvg-name="beIN SPORTS 2 V+" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-l.png" group-title="La Liga",beIN Sports 2 V+ [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya?id=123&type=fitnah
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+
+#EXTINF:-1 tvg-name="beIN SPORTS 3 V+" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-l.png" group-title="La Liga",beIN Sports 3 V+ [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya?id=124&type=fitnah
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports1.id" tvg-name="beIN Sports" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS1.bi-en.png" group-title="La Liga",beIN Sports 1 🇦🇺 [Primary]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports2.id" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS2.bi-en.png" group-title="La Liga",beIN Sports 2 🇦🇺 [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports3.id" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS3.bi-en.png" group-title="La Liga",beIN Sports 3 🇦🇺 [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports1.id" tvg-name="beIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="La Liga",beIN Sports 1 [Primary]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="La Liga",beIN Sports 1 [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/373
+
+#EXTINF:-1 tvg-id="2618" tvg-name="beIN Sports 1" tvg-logo="http://epg.one/img2/2618.png" group-title="La Liga",beIN Sports 1 [Backup 2]
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-id="beInSports2.id" tvg-name="beIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="La Liga",beIN Sports 2 [Primary]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="La Liga",beIN Sports 2 [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/374
+
+#EXTINF:-1 tvg-id="2618" tvg-name="beIN Sports 2" tvg-logo="http://epg.one/img2/2618.png" group-title="La Liga",beIN Sports 2 [Backup 2]
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 tvg-id="beInSports3.id" tvg-name="beIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="La Liga",beIN Sports 3 [Primary]
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="La Liga",beIN Sports 3 [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/375
+
+#EXTINF:-1 tvg-id="2618" tvg-name="beIN Sports 3" tvg-logo="http://epg.one/img2/2618.png" group-title="La Liga",beIN Sports 3 [Backup 2]
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS2HD" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/beIN_SPORTS_2_HD_f56cec.png" group-title="La Liga",beIN Sports 2 HD [Primary]
+http://api.353505.xyz:80/live/123/123/2826.m3u8
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="La Liga",DAZN LaLiga [Primary]
 http://31.43.191.125:8080/08072024LC/08072024LC/243
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) DAZN LALIGA
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="La Liga",DAZN LaLiga [Backup 1]
 http://31.43.191.125:8080/08072024LC/08072024LC/244
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO2) DAZN LALIGA
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="La Liga",DAZN LaLiga [Backup 2]
 http://31.43.191.125:8080/08072024LC/08072024LC/147167
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (FHD) DAZN LALIGA
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="La Liga",DAZN LaLiga [Backup 3]
 http://31.43.191.125:8080/08072024LC/08072024LC/97138
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (FHD REPUESTO) DAZN LALIGA
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="La Liga",DAZN LaLiga [Backup 4]
 http://31.43.191.125:8080/08072024LC/08072024LC/97193
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (HD) M+ LALIGA
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="La Liga",M+ LaLiga [Primary]
 http://31.43.191.125:8080/08072024LC/08072024LC/252
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) M+ LALIGA
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="La Liga",M+ LaLiga [Backup 1]
 http://31.43.191.125:8080/08072024LC/08072024LC/253
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="La Liga",M+ LaLiga [Backup 2]
 http://31.43.191.125:8080/08072024LC/08072024LC/254
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD REPUESTO) M+ LALIGA
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="La Liga",M+ LaLiga [Backup 3]
 http://31.43.191.125:8080/08072024LC/08072024LC/97192
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="ES | LALIGA VIP",ES: M+ COPA DEL REY
-http://31.43.191.125:8080/08072024LC/08072024LC/130169
 
-#EXTINF:-1 tvg-id="3553" tvg-name="Premier Sports 1 HD UK" tvg-logo="http://epg.one/img/3553.png" group-title="ES | LALIGA VIP",Premier Sports 1 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/premier.m3u8
-#EXTINF:-1 tvg-id="3553" tvg-name="Premier Sports21 HD UK" tvg-logo="http://epg.one/img/3553.png" group-title="ES | LALIGA VIP",Premier Sports21 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/premier2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="La Liga",beIN Sports 1 HD [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/128979
 
-#EXTINF:-1 tvg-id="PremiersportsMLYSIA" tvg-name="Premier sports (MLYSIA)" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ES | LALIGA VIP",Premier sports (MLYSIA)
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163874.m3u8
+#EXTINF:-1 tvg-id="SkySportLaligaFHD" tvg-name="Sky Sport La liga FHD" tvg-logo="https://i.postimg.cc/7LqrzCry/1775875546913.png" group-title="La Liga",Sky Sport La Liga [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
+https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/nujnit1784996751.png" group-title="ES | LALIGA VIP", DAZN 1
+# ==============================
+# PREMIER LEAGUE
+# ==============================
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Premier League",TNT Sports 1 [Primary]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports 1" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="Premier League",TNT Sports 1 [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Premier League",TNT Sports 2 [Primary]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+
+#EXTINF:-1 tvg-name="TNT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Premier League",TNT Sports 3 [Primary]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+
+#EXTINF:-1 tvg-name="TNT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Premier League",TNT Sports 4 [Primary]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="Premier League",SKY SPORTS PREMIER LEAGUE [Primary]
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://sw.run/CAMPWIKI-SKYSPORTS-PREMIERL-LEAGUE
+
+
+#EXTINF:-1 tvg-id="2889" tvg-name="TNT Sports 1 HD UK" tvg-logo="http://epg.one/img/2889.png" group-title="Premier League",TNT Sports 1 HD UK [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
+
+#EXTINF:-1 tvg-id="2890" tvg-name="TNT Sports 2 HD UK" tvg-logo="http://epg.one/img/2890.png" group-title="Premier League",TNT Sports 2 HD UK [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 3 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="Premier League",TNT Sports 3 HD UK [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
+
+#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 4 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="Premier League",TNT Sports 4 HD UK [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
+
+#EXTINF:-1 tvg-id="6507" tvg-name="TNT Sports 4 HD UK" tvg-logo="http://epg.one/img2/6507.png" group-title="Premier League",TNT Sports 4 HD UK [Backup 1]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19054/index.m3u8
+
+#EXTINF:-1 tvg-id="4569" tvg-name="Sky Sports Premier League HD (UK)" tvg-logo="http://epg.one/img/4569.png" group-title="Premier League",Sky Sports Premier League HD [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportp.m3u8
+
+#EXTINF:-1 tvg-id="Astropremierleague" tvg-name="Astro premier league" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Premier League",Astro Premier League [Primary]
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163684
+
+#EXTINF:-1 tvg-id="AstropremierleagueMLYSIA" tvg-name="Astro premier league (MLYSIA)" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Premier League",Astro Premier League [Backup 1]
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163684.m3u8
+
+#EXTINF:-1 tvg-id="Astropremierleague2MLYSIA" tvg-name="Astro premier league 2 (MLYSIA)" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Premier League",Astro Premier League 2 [Primary]
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163683.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1 HD [UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_1.png" group-title="Premier League",TNT Sports 1 HD [UK] [Primary]
+#EXTVLCOPT:http-user-agent=http-user-agent=Lavf/56.15.102
+http://ronaldo.tvfor.pro/Z6V9d48eGz/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2 HD [UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_2.png" group-title="Premier League",TNT Sports 2 HD [UK] [Primary]
+#EXTVLCOPT:http-user-agent=http-user-agent=Lavf/56.15.102
+http://ronaldo.tvfor.pro/3Z76Abnp8N/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3 HD [UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_3.png" group-title="Premier League",TNT Sports 3 HD [UK] [Primary]
+#EXTVLCOPT:http-user-agent=http-user-agent=Lavf/56.15.102
+http://ronaldo.tvfor.pro/r25HTg8Sx7/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4 HD [UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_4.png" group-title="Premier League",TNT Sports 4 HD [UK] [Primary]
+#EXTVLCOPT:http-user-agent=http-user-agent=Lavf/56.15.102
+http://ronaldo.tvfor.pro/Ff54kV22Cg/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+
+# ==============================
+# SERIE A
+# ==============================
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/nujnit1784996751.png" group-title="Serie A",DAZN 1 [Primary]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 https://liveua.cdnfly.click/pt_elevensport1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/1rrcbx1784996764.png" group-title="ES | LALIGA VIP", DAZN 2
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/1rrcbx1784996764.png" group-title="Serie A",DAZN 2 [Primary]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 https://liveua.cdnfly.click/pt_elevensport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/4z35dr1784996780.png" group-title="ES | LALIGA VIP", DAZN 3
+
+#EXTINF:-1 tvg-id="Dazn2" tvg-name="Dazn 2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Serie A",DAZN 2 [Backup 1]
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/4z35dr1784996780.png" group-title="Serie A",DAZN 3 [Primary]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 https://liveua.cdnfly.click/pt_elevensport3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2cnyr1784996789.png" group-title="ES | LALIGA VIP", DAZN 4
+
+#EXTINF:-1 tvg-id="Dazn3" tvg-name="Dazn 3" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Serie A",DAZN 3 [Backup 1]
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2cnyr1784996789.png" group-title="Serie A",DAZN 4 [Primary]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 https://liveua.cdnfly.click/pt_elevensport4/index.m3u8
 
-##EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ffw8yk1773512280.png" group-title="ES | LALIGA VIP", DAZN 5
+##EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ffw8yk1773512280.png" group-title="TV SPORTS", DAZN 5
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
 
 
+#EXTINF:-1 tvg-id="Dazn4" tvg-name="Dazn 4" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Serie A",DAZN 4 [Backup 1]
+http://23.237.104.106:8080/DAZN_4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="Serie A",SPORT TV 1 [Primary]
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_sporttv1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.1.png" group-title="Serie A",SPORT TV 2 [Primary]
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_sporttv2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203.png" group-title="Serie A",SPORT TV 3 [Primary]
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_sporttv3/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.1.png" group-title="Serie A",SPORT TV 4 [Primary]
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_sporttv4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png" group-title="Serie A",SPORT TV 5 [Primary]
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_sporttv5/index.m3u8
+
+
+#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 2 HD" tvg-logo="http://epg.one/img/6502.png" group-title="Serie A",DAZN 2 HD [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn2.m3u8
+
+#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 3 HD" tvg-logo="http://epg.one/img/11418.png" group-title="Serie A",DAZN 3 HD [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn3.m3u8
+
+#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 4 HD" tvg-logo="http://epg.one/img/11419.png" group-title="Serie A",DAZN 4 HD [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn4.m3u8
+
+#EXTINF:-1 tvg-id="2909" tvg-name="Sport TV 1 HD PT" tvg-logo="http://epg.one/img/2909.png" group-title="Serie A",Sport TV 1 HD PT [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv1.m3u8
+
+#EXTINF:-1 tvg-id="2910" tvg-name="Sport TV 2 HD PT" tvg-logo="http://epg.one/img/2910.png" group-title="Serie A",Sport TV 2 HD PT [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv2.m3u8
+
+#EXTINF:-1 tvg-id="2911" tvg-name="Sport TV 3 HD PT" tvg-logo="http://epg.one/img/2911.png" group-title="Serie A",Sport TV 3 HD PT [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv3.m3u8
+
+#EXTINF:-1 tvg-id="2912" tvg-name="Sport TV 4 HD PT" tvg-logo="http://epg.one/img/2912.png" group-title="Serie A",Sport TV 4 HD PT [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv4.m3u8
+
+#EXTINF:-1 tvg-id="2913" tvg-name="Sport TV 5 HD PT" tvg-logo="http://epg.one/img/2913.png" group-title="Serie A",Sport TV 5 HD PT [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv5.m3u8
+
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTUNO.png" group-title="Serie A",Sky Sport Uno [Primary]
+http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136910.ts
+
+
+#EXTINF:-1 tvg-id="SkySport" tvg-name="Sky Sport" tvg-logo="https://i.postimg.cc/Njx8DfCz/65af1b4b7208632218285acd-The-Premier-League-Team-Of-The-Season-SO-FAR-Saturday-Social.jpg" group-title="Serie A",Sky Sport [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd
+
+# ==============================
+# BUNDESLIGA
+# ==============================
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/nujnit1784996751.png" group-title="Bundesliga",DAZN 1 [Primary]
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/1rrcbx1784996764.png" group-title="Bundesliga",DAZN 2 [Primary]
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Dazn2" tvg-name="Dazn 2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Bundesliga",DAZN 2 [Backup 1]
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/4z35dr1784996780.png" group-title="Bundesliga",DAZN 3 [Primary]
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Dazn3" tvg-name="Dazn 3" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Bundesliga",DAZN 3 [Backup 1]
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/x2cnyr1784996789.png" group-title="Bundesliga",DAZN 4 [Primary]
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://liveua.cdnfly.click/pt_elevensport4/index.m3u8
+
+##EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ffw8yk1773512280.png" group-title="TV SPORTS", DAZN 5
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
+
+
+#EXTINF:-1 tvg-id="Dazn4" tvg-name="Dazn 4" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Bundesliga",DAZN 4 [Backup 1]
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 2 HD" tvg-logo="http://epg.one/img/6502.png" group-title="Bundesliga",DAZN 2 HD [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn2.m3u8
+
+#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 3 HD" tvg-logo="http://epg.one/img/11418.png" group-title="Bundesliga",DAZN 3 HD [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn3.m3u8
+
+#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 4 HD" tvg-logo="http://epg.one/img/11419.png" group-title="Bundesliga",DAZN 4 HD [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_720P.png" group-title="Bundesliga",Sky Sport Bundesliga 1 720P [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134774
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_2_720P.png" group-title="Bundesliga",Sky Sport Bundesliga 2 720P [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134775
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_3_720P.png" group-title="Bundesliga",Sky Sport Bundesliga 3 720P [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134776
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_4_720P.png" group-title="Bundesliga",Sky Sport Bundesliga 4 720P [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134777
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_5_720P.png" group-title="Bundesliga",Sky Sport Bundesliga 5 720P [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134778
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_720P.png" group-title="Bundesliga",Sky Sport Bundesliga 6 720P [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134779
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_7_720P.png" group-title="Bundesliga",Sky Sport Bundesliga 7 720P [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134780
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_720P.png" group-title="Bundesliga",Sky Sport Bundesliga 720P [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134781
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_8_720P.png" group-title="Bundesliga",Sky Sport Bundesliga 8 720P [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134782
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_9_720P.png" group-title="Bundesliga",Sky Sport Bundesliga 9 720P [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134783
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 10 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_10_720P.png" group-title="Bundesliga",Sky Sport Bundesliga 10 720P [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134784
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_HD.png" group-title="Bundesliga",Sky Sport Bundesliga 1 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134786
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_2_HD.png" group-title="Bundesliga",Sky Sport Bundesliga 2 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134787
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_3_HD.png" group-title="Bundesliga",Sky Sport Bundesliga 3 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134788
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_4_HD.png" group-title="Bundesliga",Sky Sport Bundesliga 4 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134789
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_5_HD.png" group-title="Bundesliga",Sky Sport Bundesliga 5 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134790
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_HD.png" group-title="Bundesliga",Sky Sport Bundesliga 6 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134791
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_7_HD.png" group-title="Bundesliga",Sky Sport Bundesliga 7 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134792
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_8_HD.png" group-title="Bundesliga",Sky Sport Bundesliga 8 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134793
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_9_HD.png" group-title="Bundesliga",Sky Sport Bundesliga 9 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134794
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 10" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_10_HD.png" group-title="Bundesliga",Sky Sport Bundesliga 10 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/134795
+
+
+#EXTINF:-1 tvg-id="SkySportBundesliga" tvg-name="Sky Sport Bundesliga" tvg-logo="https://i.postimg.cc/FR00frSP/Picsart-26-04-12-20-04-54-664.png" group-title="Bundesliga",Sky Sport Bundesliga [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+https://aca-live4-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
+
+# ==============================
+# LIGUE 1
+# ==============================
+
+#EXTINF:-1 tvg-name="beIN SPORTS 2 V+" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-l.png" group-title="Ligue 1",beIN Sports 2 V+ [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya?id=123&type=fitnah
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+
+#EXTINF:-1 tvg-name="beIN SPORTS 3 V+" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-l.png" group-title="Ligue 1",beIN Sports 3 V+ [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya?id=124&type=fitnah
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports1.id" tvg-name="beIN Sports" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS1.bi-en.png" group-title="Ligue 1",beIN Sports 1 🇦🇺 [Primary]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports2.id" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS2.bi-en.png" group-title="Ligue 1",beIN Sports 2 🇦🇺 [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports3.id" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS3.bi-en.png" group-title="Ligue 1",beIN Sports 3 🇦🇺 [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports1.id" tvg-name="beIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Ligue 1",beIN Sports 1 [Primary]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="Ligue 1",beIN Sports 1 [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/373
+
+#EXTINF:-1 tvg-id="2618" tvg-name="beIN Sports 1" tvg-logo="http://epg.one/img2/2618.png" group-title="Ligue 1",beIN Sports 1 [Backup 2]
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-id="beInSports2.id" tvg-name="beIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Ligue 1",beIN Sports 2 [Primary]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="Ligue 1",beIN Sports 2 [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/374
+
+#EXTINF:-1 tvg-id="2618" tvg-name="beIN Sports 2" tvg-logo="http://epg.one/img2/2618.png" group-title="Ligue 1",beIN Sports 2 [Backup 2]
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 tvg-id="beInSports3.id" tvg-name="beIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Ligue 1",beIN Sports 3 [Primary]
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="Ligue 1",beIN Sports 3 [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/375
+
+#EXTINF:-1 tvg-id="2618" tvg-name="beIN Sports 3" tvg-logo="http://epg.one/img2/2618.png" group-title="Ligue 1",beIN Sports 3 [Backup 2]
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS2HD" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/beIN_SPORTS_2_HD_f56cec.png" group-title="Ligue 1",beIN Sports 2 HD [Primary]
+http://api.353505.xyz:80/live/123/123/2826.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="Ligue 1",beIN Sports 1 HD [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/128979
+
+# ==============================
+# UEFA CHAMPIONS LEAGUE
+# ==============================
+
+#EXTINF:-1 tvg-name="beIN SPORTS 2 V+" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-l.png" group-title="UEFA Champions League",beIN Sports 2 V+ [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya?id=123&type=fitnah
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+
+#EXTINF:-1 tvg-name="beIN SPORTS 3 V+" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-l.png" group-title="UEFA Champions League",beIN Sports 3 V+ [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya?id=124&type=fitnah
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports1.id" tvg-name="beIN Sports" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS1.bi-en.png" group-title="UEFA Champions League",beIN Sports 1 🇦🇺 [Primary]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports2.id" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS2.bi-en.png" group-title="UEFA Champions League",beIN Sports 2 🇦🇺 [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports3.id" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS3.bi-en.png" group-title="UEFA Champions League",beIN Sports 3 🇦🇺 [Primary]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="UEFA Champions League",TNT Sports 1 [Primary]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports 1" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="UEFA Champions League",TNT Sports 1 [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="UEFA Champions League",TNT Sports 2 [Primary]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+
+#EXTINF:-1 tvg-name="TNT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="UEFA Champions League",TNT Sports 3 [Primary]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+
+#EXTINF:-1 tvg-name="TNT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="UEFA Champions League",TNT Sports 4 [Primary]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="beInSports1.id" tvg-name="beIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="UEFA Champions League",beIN Sports 1 [Primary]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="UEFA Champions League",beIN Sports 1 [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/373
+
+#EXTINF:-1 tvg-id="2618" tvg-name="beIN Sports 1" tvg-logo="http://epg.one/img2/2618.png" group-title="UEFA Champions League",beIN Sports 1 [Backup 2]
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-id="beInSports2.id" tvg-name="beIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="UEFA Champions League",beIN Sports 2 [Primary]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="UEFA Champions League",beIN Sports 2 [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/374
+
+#EXTINF:-1 tvg-id="2618" tvg-name="beIN Sports 2" tvg-logo="http://epg.one/img2/2618.png" group-title="UEFA Champions League",beIN Sports 2 [Backup 2]
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 tvg-id="beInSports3.id" tvg-name="beIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="UEFA Champions League",beIN Sports 3 [Primary]
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="UEFA Champions League",beIN Sports 3 [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/375
+
+#EXTINF:-1 tvg-id="2618" tvg-name="beIN Sports 3" tvg-logo="http://epg.one/img2/2618.png" group-title="UEFA Champions League",beIN Sports 3 [Backup 2]
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS2HD" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/beIN_SPORTS_2_HD_f56cec.png" group-title="UEFA Champions League",beIN Sports 2 HD [Primary]
+http://api.353505.xyz:80/live/123/123/2826.m3u8
+
+#EXTINF:-1 tvg-id="2889" tvg-name="TNT Sports 1 HD UK" tvg-logo="http://epg.one/img/2889.png" group-title="UEFA Champions League",TNT Sports 1 HD UK [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
+
+#EXTINF:-1 tvg-id="2890" tvg-name="TNT Sports 2 HD UK" tvg-logo="http://epg.one/img/2890.png" group-title="UEFA Champions League",TNT Sports 2 HD UK [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 3 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="UEFA Champions League",TNT Sports 3 HD UK [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
+
+#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 4 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="UEFA Champions League",TNT Sports 4 HD UK [Primary]
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
+
+#EXTINF:-1 tvg-id="6507" tvg-name="TNT Sports 4 HD UK" tvg-logo="http://epg.one/img2/6507.png" group-title="UEFA Champions League",TNT Sports 4 HD UK [Backup 1]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19054/index.m3u8
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_1.png" group-title="UEFA Champions League",M+ Liga de Campeones 1 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/264
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="UEFA Champions League",M+ Liga de Campeones 2 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/129635
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="UEFA Champions League",M+ Liga de Campeones 2 [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/266
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="UEFA Champions League",M+ Liga de Campeones 3 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/129636
+
+
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="UEFA Champions League",M+ Liga de Campeones 3 [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/267
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="UEFA Champions League",M+ Liga de Campeones 4 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/268
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="UEFA Champions League",M+ Liga de Campeones 5 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/269
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="UEFA Champions League",M+ Liga de Campeones 6 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/270
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="UEFA Champions League",M+ Liga de Campeones 7 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/271
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="UEFA Champions League",M+ Liga de Campeones 8 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/272
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="UEFA Champions League",M+ Liga de Campeones 9 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/273
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="UEFA Champions League",M+ Liga de Campeones 10 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/274
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="UEFA Champions League",M+ Liga de Campeones 11 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/275
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="UEFA Champions League",M+ Liga de Campeones 12 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/276
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="UEFA Champions League",M+ Liga de Campeones 13 [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/277
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Champions League",M+ Liga de Campeones [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/264
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Champions League",M+ Liga de Campeones [Backup 1]
+http://31.43.191.125:8080/08072024LC/08072024LC/97195
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Champions League",M+ Liga de Campeones [Backup 2]
+http://31.43.191.125:8080/08072024LC/08072024LC/265
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Champions League",M+ Liga de Campeones [Backup 3]
+http://31.43.191.125:8080/08072024LC/08072024LC/97196
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Champions League",M+ Liga de Campeones [Backup 4]
+http://31.43.191.125:8080/08072024LC/08072024LC/99051
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="UEFA Champions League",beIN Sports 1 HD [Primary]
+http://31.43.191.125:8080/08072024LC/08072024LC/128979
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1 HD [UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_1.png" group-title="UEFA Champions League",TNT Sports 1 HD [UK] [Primary]
+#EXTVLCOPT:http-user-agent=http-user-agent=Lavf/56.15.102
+http://ronaldo.tvfor.pro/Z6V9d48eGz/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2 HD [UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_2.png" group-title="UEFA Champions League",TNT Sports 2 HD [UK] [Primary]
+#EXTVLCOPT:http-user-agent=http-user-agent=Lavf/56.15.102
+http://ronaldo.tvfor.pro/3Z76Abnp8N/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3 HD [UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_3.png" group-title="UEFA Champions League",TNT Sports 3 HD [UK] [Primary]
+#EXTVLCOPT:http-user-agent=http-user-agent=Lavf/56.15.102
+http://ronaldo.tvfor.pro/r25HTg8Sx7/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4 HD [UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_4.png" group-title="UEFA Champions League",TNT Sports 4 HD [UK] [Primary]
+#EXTVLCOPT:http-user-agent=http-user-agent=Lavf/56.15.102
+http://ronaldo.tvfor.pro/Ff54kV22Cg/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 
 # ==============================
 # ES | DEPORTES VIP
@@ -2144,132 +2755,6 @@ http://31.43.191.125:8080/08072024LC/08072024LC/390
 http://31.43.191.125:8080/08072024LC/08072024LC/391
 #EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 5 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-5-fr.png" group-title="FR | SPORT VIP",FR: RMC SPORT 5 LIVE
 http://31.43.191.125:8080/08072024LC/08072024LC/392
-
-
-# ==============================
-# DE | BUNDESLIGA HD
-# ==============================
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_720P.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 1 720P
-http://31.43.191.125:8080/08072024LC/08072024LC/134774
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_2_720P.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 2 720P
-http://31.43.191.125:8080/08072024LC/08072024LC/134775
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_3_720P.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 3 720P
-http://31.43.191.125:8080/08072024LC/08072024LC/134776
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_4_720P.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 4 720P
-http://31.43.191.125:8080/08072024LC/08072024LC/134777
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_5_720P.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 5 720P
-http://31.43.191.125:8080/08072024LC/08072024LC/134778
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_720P.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 6 720P
-http://31.43.191.125:8080/08072024LC/08072024LC/134779
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_7_720P.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 7 720P
-http://31.43.191.125:8080/08072024LC/08072024LC/134780
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_720P.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 720P
-http://31.43.191.125:8080/08072024LC/08072024LC/134781
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_8_720P.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 8 720P
-http://31.43.191.125:8080/08072024LC/08072024LC/134782
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_9_720P.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 9 720P
-http://31.43.191.125:8080/08072024LC/08072024LC/134783
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 10 720P" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_10_720P.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 10 720P
-http://31.43.191.125:8080/08072024LC/08072024LC/134784
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_BUNDESLIGA_HD.png" group-title="DE | BUNDESLIGA",DE: SKY BUNDESLIGA
-http://31.43.191.125:8080/08072024LC/08072024LC/134785
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_1_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 1
-http://31.43.191.125:8080/08072024LC/08072024LC/134786
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_2_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 2
-http://31.43.191.125:8080/08072024LC/08072024LC/134787
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_3_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 3
-http://31.43.191.125:8080/08072024LC/08072024LC/134788
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_4_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 4
-http://31.43.191.125:8080/08072024LC/08072024LC/134789
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_5_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 5
-http://31.43.191.125:8080/08072024LC/08072024LC/134790
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_6_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 6
-http://31.43.191.125:8080/08072024LC/08072024LC/134791
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_7_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 7
-http://31.43.191.125:8080/08072024LC/08072024LC/134792
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_8_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 8
-http://31.43.191.125:8080/08072024LC/08072024LC/134793
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_9_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 9
-http://31.43.191.125:8080/08072024LC/08072024LC/134794
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 10" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_BUNDESLIGA_10_HD.png" group-title="DE | BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 10
-http://31.43.191.125:8080/08072024LC/08072024LC/134795
-
-# ==============================
-# ENGLAND - PREMIER LEAGUE
-# ==============================
-
-#EXTINF:0 group-title="[EN] Premier League" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports 1 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
-
-#EXTINF:0 group-title="[EN] Premier League" tvg-id="2890" tvg-logo="http://epg.one/img/2890.png" tvg-rec="3",TNT Sports 2 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
-
-#EXTINF:0 group-title="[EN] Premier League" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 3 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
-
-#EXTINF:0 group-title="[EN] Premier League" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 4 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
-
-#EXTINF:0 group-title="[EN] Premier League" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports FHD UK
-http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/2505/index.m3u8
-
-#EXTINF:-1 tvg-id="monomax.id" tvg-name="beIN Sports 4" tvg-logo="https://i.imgur.com/mRhtasR.png" group-title="[EN] Premier League", MONOMAX SPORTS
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-
-#EXTINF:-1 tvg-id="4569" tvg-name="Sky Sports Premier League HD (UK)" tvg-logo="http://epg.one/img/4569.png" group-title="[EN] Premier League",Sky Sports Premier League HD (UK)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportp.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="[EN] Premier League", SKY SPORTS PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-https://sw.run/CAMPWIKI-SKYSPORTS-PREMIERL-LEAGUE
-
-#EXTINF:-1 tvg-id="2889" tvg-name="TNT Sports 1 HD UK" tvg-logo="http://epg.one/img/2889.png" group-title="[EN] Premier League",TNT Sports 1 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
-#EXTINF:-1 tvg-id="2890" tvg-name="TNT Sports 2 HD UK" tvg-logo="http://epg.one/img/2890.png" group-title="[EN] Premier League",TNT Sports 2 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
-#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 3 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="[EN] Premier League",TNT Sports 3 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
-#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 4 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="[EN] Premier League",TNT Sports 4 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
-
-
-# ==============================
-# FRANCE - LIGUE 1
-# ==============================
-
-#EXTINF:-1 tvg-name="FR: LIGUE1+ 1" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 1
-http://31.43.191.125:8080/08072024LC/08072024LC/142250
-
-#EXTINF:-1 tvg-name="FR: LIGUE1+ 2" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 2
-http://31.43.191.125:8080/08072024LC/08072024LC/142251
-
-#EXTINF:-1 tvg-name="FR: LIGUE1+ 3" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 3
-http://31.43.191.125:8080/08072024LC/08072024LC/142252
-
-#EXTINF:-1 tvg-name="FR: LIGUE1+ 4" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 4
-http://31.43.191.125:8080/08072024LC/08072024LC/142253
-
-#EXTINF:-1 tvg-name="FR: LIGUE1+ 5" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 5
-http://31.43.191.125:8080/08072024LC/08072024LC/142254
-
-#EXTINF:-1 tvg-name="FR: LIGUE1+ 6" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 6
-http://31.43.191.125:8080/08072024LC/08072024LC/142255
-
-#EXTINF:-1 tvg-name="FR: LIGUE1+ 7" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 7
-http://31.43.191.125:8080/08072024LC/08072024LC/142256
-
-#EXTINF:-1 tvg-name="FR: LIGUE1+ 8" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 8
-http://31.43.191.125:8080/08072024LC/08072024LC/142257
-
-#EXTINF:-1 tvg-name="FR: LIGUE1+ 9" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 9
-http://31.43.191.125:8080/08072024LC/08072024LC/142258
-
-#EXTINF:-1 tvg-name="FR: LIGUE1+ 10" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 10
-http://31.43.191.125:8080/08072024LC/08072024LC/142259
-
 
 # ==============================
 # NL| NEDERLAND 4K
