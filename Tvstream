@@ -6,6 +6,15 @@
 
 #EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="LIGA 1 BRI", INDOSIAR FHD
 https://sw.run/CAMPWIKI-INDISIAR-FHD
+#EXTINF:-1 tvg-id="205" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="LIGA 1 BRI",Indosiar Vidio
+#EXTVLCOPT:http-referrer=android-app://com.vidio.android
+#EXTVLCOPT:http-user-agent=VidioPlayer/2608.2.7
+#EXTHTTP:{"User-Agent":"VidioPlayer/2608.2.7","Referer":"android-app://com.vidio.android"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gateway.rrlaundry.my.id/stream/trial/stream_vidio.php?id=205&type=drm
+https://gateway.rrlaundry.my.id/stream/trial/stream_vidio.php?id=205&type=compat
 
 #EXTINF:-1 tvg-id="Trans7" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/trans7.png" group-title="Indonesia",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
