@@ -200,6 +200,7 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205&type=darm
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+#EXTINF:-1 group-title="Indonesia",1325.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://ogietv.biz.id:443/Livetv/234/1325.m3u8
 
@@ -924,6 +925,7 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4
 # VIP SPORTS FHD
 # ==============================
 
+#EXTM3U
 #EXTINF:-1 tvg-id="MOTOGP" tvg-name="MOTOGP+" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="VIP SPORTS FHD",MOTOGP+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
@@ -1228,6 +1230,151 @@ http://api.plus-server.sbs/play.php?key=1234&ch=spotv1
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=spotv2
 
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="ASTRO AWANI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="VIP SPORTS FHD",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
+#EXTINF:-1 tvg-id="TrVPNSPORT1" tvg-name="Tr VPN SPORT 1" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Tr_VPN_SPORT_1_0f8474.png" group-title="VIP SPORTS FHD",Tr VPN SPORT 1
+http://api.353505.xyz:80/live/123/123/2852.m3u8
+#EXTINF:-1 tvg-id="Sportv2" tvg-name="Sportv 2" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Sportv_2_923a7d.png" group-title="VIP SPORTS FHD",Sportv 2
+http://api.353505.xyz:80/live/123/123/2878.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS2HD" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/beIN_SPORTS_2_HD_f56cec.png" group-title="VIP SPORTS FHD",beIN SPORTS 2 HD
+http://api.353505.xyz:80/live/123/123/2826.m3u8
+#EXTINF:-1 tvg-id="TrVPNSPORT2" tvg-name="Tr VPN SPORT 2" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Tr_VPN_SPORT_2_57a96d.png" group-title="VIP SPORTS FHD",Tr VPN SPORT 2
+http://api.353505.xyz:80/live/123/123/2853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч ТВ" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/logo_c4f23f.png" group-title="VIP SPORTS FHD",Матч ТВ
+http://api.353505.xyz:80/live/123/123/2892.m3u8
+#EXTINF:-1 tvg-id="GameToon" tvg-name="Game Toon" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Game_Toon_e2daeb.png" group-title="VIP SPORTS FHD",Game Toon
+http://api.353505.xyz:80/live/123/123/2830.m3u8
+#EXTINF:-1 tvg-id="BeinSportsespaa" tvg-name="BeinSports españa" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/BeinSports_espa_a_53e057.png" group-title="VIP SPORTS FHD",BeinSports españa
+http://api.353505.xyz:80/live/123/123/2831.m3u8
+#EXTINF:-1 tvg-id="MotorVision" tvg-name="Motor Vision" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Motor_Vision_f30547.png" group-title="VIP SPORTS FHD",Motor Vision
+http://api.353505.xyz:80/live/123/123/2835.m3u8
+#EXTINF:-1 tvg-id="CanalMotor" tvg-name="Canal Motor" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Canal_Motor_61cc05.png" group-title="VIP SPORTS FHD",Canal Motor
+http://api.353505.xyz:80/live/123/123/2836.m3u8
+#EXTINF:-1 tvg-id="RealMadrid" tvg-name="Real Madrid" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Real_Madrid_f55b3a.png" group-title="VIP SPORTS FHD",Real Madrid
+http://api.353505.xyz:80/live/123/123/2838.m3u8
+#EXTINF:-1 tvg-id="HORSE" tvg-name="HORSE" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/HORSE_0ef523.png" group-title="VIP SPORTS FHD",HORSE
+http://api.353505.xyz:80/live/123/123/2854.m3u8
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica" tvg-name="Garage TV Latin America" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Garage_TV_Latin_America_91d05d.png" group-title="VIP SPORTS FHD",Garage TV Latin America
+http://api.353505.xyz:80/live/123/123/2856.m3u8
+#EXTINF:-1 tvg-id="EXTREME" tvg-name="EXTREME" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/EXTREME_e6f6ff.png" group-title="VIP SPORTS FHD",EXTREME
+http://api.353505.xyz:80/live/123/123/2858.m3u8
+#EXTINF:-1 tvg-id="BEKSports" tvg-name="BEK Sports" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/BEK_Sports_b2026c.png" group-title="VIP SPORTS FHD",BEK Sports
+http://api.353505.xyz:80/live/123/123/2876.m3u8
+#EXTINF:-1 tvg-id="OmanSports" tvg-name="Oman Sports" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Oman_Sports_e6902b.png" group-title="VIP SPORTS FHD",Oman Sports
+http://api.353505.xyz:80/live/123/123/2879.m3u8
+#EXTINF:-1 tvg-id="BBCTopGear" tvg-name="BBC Top Gear" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/BBC_Top_Gear_feab74.png" group-title="VIP SPORTS FHD",BBC Top Gear
+http://api.353505.xyz:80/live/123/123/2881.m3u8
+#EXTINF:-1 tvg-id="XSTREAM" tvg-name="X STREAM" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/X_STREAM_8162c5.webp" group-title="VIP SPORTS FHD",X STREAM
+http://api.353505.xyz:80/live/123/123/2883.m3u8
+#EXTINF:-1 tvg-id="TUDUNSPORTS" tvg-name="TUDUN SPORTS" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/logo.png" group-title="VIP SPORTS FHD",TUDUN SPORTS
+http://api.353505.xyz:80/live/123/123/2884.m3u8
+#EXTINF:-1 tvg-id="TRACESPORTS" tvg-name="TRACE SPORTS" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/logo.png" group-title="VIP SPORTS FHD",TRACE SPORTS
+http://api.353505.xyz:80/live/123/123/2887.m3u8
+
+
+# ==============================
+# Sports HD
+# ==============================
+
+#EXTINF:-1 tvg-id="CanalSport1HDPL" tvg-name="Canal+ Sport 1 HD PL" tvg-logo="http://epg.one/img/3129.png" group-title="VIP SPORTS FHD",Canal+ Sport 1 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus.m3u8
+#EXTINF:-1 tvg-id="CanalSport5HDPL" tvg-name="Canal+ Sport 5 HD PL" tvg-logo="http://epg.one/img/3129.png" group-title="VIP SPORTS FHD",Canal+ Sport 5 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus3.m3u8
+#EXTINF:-1 tvg-id="CanalSport4HDPL" tvg-name="Canal+ Sport 4 HD PL" tvg-logo="http://epg.one/img/3129.png" group-title="VIP SPORTS FHD",Canal+ Sport 4 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus4.m3u8
+#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 3 HD" tvg-logo="http://epg.one/img/11418.png" group-title="VIP SPORTS FHD",DAZN 3 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn3.m3u8
+#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 4 HD" tvg-logo="http://epg.one/img/11419.png" group-title="VIP SPORTS FHD",DAZN 4 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn4.m3u8
+#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 5 FHD" tvg-logo="http://epg.one/img/2919.png" group-title="VIP SPORTS FHD",DAZN 5 FHD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn5.m3u8
+#EXTINF:-1 tvg-id="2909" tvg-name="Sport TV 1 HD PT" tvg-logo="http://epg.one/img/2909.png" group-title="VIP SPORTS FHD",Sport TV 1 HD PT
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv1.m3u8
+#EXTINF:-1 tvg-id="2910" tvg-name="Sport TV 2 HD PT" tvg-logo="http://epg.one/img/2910.png" group-title="VIP SPORTS FHD",Sport TV 2 HD PT
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv2.m3u8
+#EXTINF:-1 tvg-id="2911" tvg-name="Sport TV 3 HD PT" tvg-logo="http://epg.one/img/2911.png" group-title="VIP SPORTS FHD",Sport TV 3 HD PT
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv3.m3u8
+#EXTINF:-1 tvg-id="2912" tvg-name="Sport TV 4 HD PT" tvg-logo="http://epg.one/img/2912.png" group-title="VIP SPORTS FHD",Sport TV 4 HD PT
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv4.m3u8
+#EXTINF:-1 tvg-id="2913" tvg-name="Sport TV 5 HD PT" tvg-logo="http://epg.one/img/2913.png" group-title="VIP SPORTS FHD",Sport TV 5 HD PT
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv5.m3u8
+#EXTINF:-1 tvg-id="2889" tvg-name="TNT Sports 1 HD UK" tvg-logo="http://epg.one/img/2889.png" group-title="VIP SPORTS FHD",TNT Sports 1 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
+#EXTINF:-1 tvg-id="2890" tvg-name="TNT Sports 2 HD UK" tvg-logo="http://epg.one/img/2890.png" group-title="VIP SPORTS FHD",TNT Sports 2 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
+#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 3 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="VIP SPORTS FHD",TNT Sports 3 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
+#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 4 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="VIP SPORTS FHD",TNT Sports 4 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
+#EXTINF:-1 tvg-id="3664" tvg-name="TSN 1 HD CA" tvg-logo="http://epg.one/img2/3663.png" group-title="VIP SPORTS FHD",TSN 1 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn1.m3u8
+#EXTINF:-1 tvg-id="3664" tvg-name="TSN 2 HD CA" tvg-logo="http://epg.one/img2/3635.png" group-title="VIP SPORTS FHD",TSN 2 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn2.m3u8
+#EXTINF:-1 tvg-id="3663" tvg-name="TSN 3 HD CA" tvg-logo="http://epg.one/img2/3664.png" group-title="VIP SPORTS FHD",TSN 3 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn3.m3u8
+#EXTINF:-1 tvg-id="3664" tvg-name="TSN 4 HD CA" tvg-logo="http://epg.one/img2/3588.png" group-title="VIP SPORTS FHD",TSN 4 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn4.m3u8
+#EXTINF:-1 tvg-id="3664" tvg-name="TSN 5 HD CA" tvg-logo="http://epg.one/img2/88030.png" group-title="VIP SPORTS FHD",TSN 5 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn5.m3u8
+#EXTINF:-1 tvg-id="6685" tvg-name="ESPN 1 HD NL" tvg-logo="http://epg.one/img/6685.png" group-title="VIP SPORTS FHD",ESPN 1 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn1.m3u8
+#EXTINF:-1 tvg-id="6688" tvg-name="ESPN 4 HD NL" tvg-logo="http://epg.one/img/6688.png" group-title="VIP SPORTS FHD",ESPN 4 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn5.m3u8
+#EXTINF:-1 tvg-id="2940" tvg-name="Nova Sport 2 HD CZ" tvg-logo="http://epg.one/img/2940.png" group-title="VIP SPORTS FHD",Nova Sport 2 HD CZ
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport2.m3u8
+#EXTINF:-1 tvg-id="9243" tvg-name="Nova Sport 3 HD CZ" tvg-logo="http://epg.one/img/9243.png" group-title="VIP SPORTS FHD",Nova Sport 3 HD CZ
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport3.m3u8
+#EXTINF:-1 tvg-id="9244" tvg-name="Nova Sport 5 HD CZ" tvg-logo="http://epg.one/img/9244.png" group-title="VIP SPORTS FHD",Nova Sport 5 HD CZ
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport5.m3u8
+#EXTINF:-1 tvg-id="2944" tvg-name="Ziggo Sport 1 HD NL" tvg-logo="http://epg.one/img/2944.png" group-title="VIP SPORTS FHD",Ziggo Sport 1 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ziggosport1.m3u8
+#EXTINF:-1 tvg-id="2944" tvg-name="Ziggo Sport 3 HD NL" tvg-logo="http://epg.one/img/2944.png" group-title="VIP SPORTS FHD",Ziggo Sport 3 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ziggosport3.m3u8
+#EXTINF:-1 tvg-id="9051" tvg-name="Sky Sports News HD 50 (UK)" tvg-logo="http://epg.one/img/9051.png" group-title="VIP SPORTS FHD",Sky Sports News HD 50 (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportnw.m3u8
+#EXTINF:-1 tvg-id="4569" tvg-name="Sky Sports Premier League HD (UK)" tvg-logo="http://epg.one/img/4569.png" group-title="VIP SPORTS FHD",Sky Sports Premier League HD (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportp.m3u8
+#EXTINF:-1 tvg-id="4570" tvg-name="Sky Sports Football HD  (UK)" tvg-logo="http://epg.one/img/4570.png" group-title="VIP SPORTS FHD",Sky Sports Football HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportf.m3u8
+#EXTINF:-1 tvg-id="4571" tvg-name="Sky Sports Main Event HD  (UK)" tvg-logo="http://epg.one/img/4571.png" group-title="VIP SPORTS FHD",Sky Sports Main Event HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportm.m3u8
+#EXTINF:-1 tvg-id="4573" tvg-name="Sky Sports Mix HD  (UK)" tvg-logo="http://epg.one/img/4573.png" group-title="VIP SPORTS FHD",Sky Sports Mix HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportmix.m3u8
+#EXTINF:-1 tvg-id="4579" tvg-name="Sky Sports Action HD  (UK)" tvg-logo="http://epg.one/img/4579.png" group-title="VIP SPORTS FHD",Sky Sports Action HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysport%2B.m3u8
+#EXTINF:-1 tvg-id="4575" tvg-name="Sky Sports Racing HD  (UK)" tvg-logo="http://epg.one/img/4575.png" group-title="VIP SPORTS FHD",Sky Sports Racing HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportrc.m3u8
+#EXTINF:-1 tvg-id="4576" tvg-name="Sky Sports F1 HD  (UK)" tvg-logo="http://epg.one/img/4576.png" group-title="VIP SPORTS FHD",Sky Sports F1 HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportf1.m3u8
+#EXTINF:-1 tvg-id="3553" tvg-name="Premier Sports 1 HD UK" tvg-logo="http://epg.one/img/3553.png" group-title="VIP SPORTS FHD",Premier Sports 1 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/premier.m3u8
+#EXTINF:-1 tvg-id="3553" tvg-name="Premier Sports21 HD UK" tvg-logo="http://epg.one/img/3553.png" group-title="VIP SPORTS FHD",Premier Sports21 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/premier2.m3u8
+#EXTINF:-1 tvg-id="SportsNet2HD" tvg-name="Sports Net 2 HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportnet.png" group-title="VIP SPORTS FHD",Sports Net 2 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportnet2.m3u8
+#EXTINF:-1 tvg-id="4536" tvg-name="Sport Klub 1 HD HR" tvg-logo="http://epg.one/img/4536.png" group-title="VIP SPORTS FHD",Sport Klub 1 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub.m3u8
+#EXTINF:-1 tvg-id="4537" tvg-name="Sport Klub 2 HD HR" tvg-logo="http://epg.one/img/4537.png" group-title="VIP SPORTS FHD",Sport Klub 2 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub2.m3u8
+#EXTINF:-1 tvg-id="4538" tvg-name="Sport Klub 3 HD HR" tvg-logo="http://epg.one/img/4538.png" group-title="VIP SPORTS FHD",Sport Klub 3 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub3.m3u8
+#EXTINF:-1 tvg-id="4539" tvg-name="Sport Klub 4 HD HR" tvg-logo="http://epg.one/img/4539.png" group-title="VIP SPORTS FHD",Sport Klub 4 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub4.m3u8
+#EXTINF:-1 tvg-id="4540" tvg-name="Sport Klub 5 HD HR" tvg-logo="http://epg.one/img/4540.png" group-title="VIP SPORTS FHD",Sport Klub 5 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub5.m3u8
+#EXTINF:-1 tvg-id="4541" tvg-name="Sport Klub 6 HD HR" tvg-logo="http://epg.one/img/4541.png" group-title="VIP SPORTS FHD",Sport Klub 6 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub6.m3u8
+#EXTINF:-1 tvg-id="4542" tvg-name="Sport Klub 7 HD HR" tvg-logo="http://epg.one/img/4542.png" group-title="VIP SPORTS FHD",Sport Klub 7 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub7.m3u8
+#EXTINF:-1 tvg-id="4543" tvg-name="Sport Klub 8 HD HR" tvg-logo="http://epg.one/img/4543.png" group-title="VIP SPORTS FHD",Sport Klub 8 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub8.m3u8
+#EXTINF:-1 tvg-id="4545" tvg-name="Sport Klub Fight HD HR" tvg-logo="http://epg.one/img/4545.png" group-title="VIP SPORTS FHD",Sport Klub Fight HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub10.m3u8
+#EXTINF:-1 tvg-id="2944" tvg-name="S-Sport 1 HD TR" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Ssports.png" group-title="VIP SPORTS FHD",S-Sport 1 HD TR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports.m3u8
+#EXTINF:-1 tvg-id="2944" tvg-name="S-Sport 3 HD TR" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Ssports.png" group-title="VIP SPORTS FHD",S-Sport 3 HD TR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports3.m3u8
+
 
 # ==============================
 # LOCAL TV
@@ -1403,155 +1550,6 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://e.siar.us/live/tvmu.m3u8
 
 # ==============================
-# All Sports
-# ==============================
-
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="ASTRO AWANI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="Malaysia",ASTRO AWANI
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
-#EXTINF:-1 tvg-id="TrVPNSPORT1" tvg-name="Tr VPN SPORT 1" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Tr_VPN_SPORT_1_0f8474.png" group-title="All Sports",Tr VPN SPORT 1
-http://api.353505.xyz:80/live/123/123/2852.m3u8
-#EXTINF:-1 tvg-id="Sportv2" tvg-name="Sportv 2" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Sportv_2_923a7d.png" group-title="All Sports",Sportv 2
-http://api.353505.xyz:80/live/123/123/2878.m3u8
-#EXTINF:-1 tvg-id="beINSPORTS2HD" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/beIN_SPORTS_2_HD_f56cec.png" group-title="All Sports",beIN SPORTS 2 HD
-http://api.353505.xyz:80/live/123/123/2826.m3u8
-#EXTINF:-1 tvg-id="TrVPNSPORT2" tvg-name="Tr VPN SPORT 2" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Tr_VPN_SPORT_2_57a96d.png" group-title="All Sports",Tr VPN SPORT 2
-http://api.353505.xyz:80/live/123/123/2853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Матч ТВ" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/logo_c4f23f.png" group-title="All Sports",Матч ТВ
-http://api.353505.xyz:80/live/123/123/2892.m3u8
-#EXTINF:-1 tvg-id="GameToon" tvg-name="Game Toon" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Game_Toon_e2daeb.png" group-title="All Sports",Game Toon
-http://api.353505.xyz:80/live/123/123/2830.m3u8
-#EXTINF:-1 tvg-id="BeinSportsespaa" tvg-name="BeinSports españa" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/BeinSports_espa_a_53e057.png" group-title="All Sports",BeinSports españa
-http://api.353505.xyz:80/live/123/123/2831.m3u8
-#EXTINF:-1 tvg-id="MotorVision" tvg-name="Motor Vision" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Motor_Vision_f30547.png" group-title="All Sports",Motor Vision
-http://api.353505.xyz:80/live/123/123/2835.m3u8
-#EXTINF:-1 tvg-id="CanalMotor" tvg-name="Canal Motor" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Canal_Motor_61cc05.png" group-title="All Sports",Canal Motor
-http://api.353505.xyz:80/live/123/123/2836.m3u8
-#EXTINF:-1 tvg-id="RealMadrid" tvg-name="Real Madrid" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Real_Madrid_f55b3a.png" group-title="All Sports",Real Madrid
-http://api.353505.xyz:80/live/123/123/2838.m3u8
-#EXTINF:-1 tvg-id="HORSE" tvg-name="HORSE" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/HORSE_0ef523.png" group-title="All Sports",HORSE
-http://api.353505.xyz:80/live/123/123/2854.m3u8
-#EXTINF:-1 tvg-id="GarageTVLatinAmerica" tvg-name="Garage TV Latin America" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Garage_TV_Latin_America_91d05d.png" group-title="All Sports",Garage TV Latin America
-http://api.353505.xyz:80/live/123/123/2856.m3u8
-#EXTINF:-1 tvg-id="EXTREME" tvg-name="EXTREME" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/EXTREME_e6f6ff.png" group-title="All Sports",EXTREME
-http://api.353505.xyz:80/live/123/123/2858.m3u8
-#EXTINF:-1 tvg-id="BEKSports" tvg-name="BEK Sports" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/BEK_Sports_b2026c.png" group-title="All Sports",BEK Sports
-http://api.353505.xyz:80/live/123/123/2876.m3u8
-#EXTINF:-1 tvg-id="OmanSports" tvg-name="Oman Sports" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/Oman_Sports_e6902b.png" group-title="All Sports",Oman Sports
-http://api.353505.xyz:80/live/123/123/2879.m3u8
-#EXTINF:-1 tvg-id="BBCTopGear" tvg-name="BBC Top Gear" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/BBC_Top_Gear_feab74.png" group-title="All Sports",BBC Top Gear
-http://api.353505.xyz:80/live/123/123/2881.m3u8
-#EXTINF:-1 tvg-id="XSTREAM" tvg-name="X STREAM" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/X_STREAM_8162c5.webp" group-title="All Sports",X STREAM
-http://api.353505.xyz:80/live/123/123/2883.m3u8
-#EXTINF:-1 tvg-id="TUDUNSPORTS" tvg-name="TUDUN SPORTS" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/logo.png" group-title="All Sports",TUDUN SPORTS
-http://api.353505.xyz:80/live/123/123/2884.m3u8
-#EXTINF:-1 tvg-id="TRACESPORTS" tvg-name="TRACE SPORTS" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/logo.png" group-title="All Sports",TRACE SPORTS
-http://api.353505.xyz:80/live/123/123/2887.m3u8
-
-
-# ==============================
-# Sports HD
-# ==============================
-
-#EXTINF:-1 tvg-id="CanalSport1HDPL" tvg-name="Canal+ Sport 1 HD PL" tvg-logo="http://epg.one/img/3129.png" group-title="Sports HD",Canal+ Sport 1 HD PL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus.m3u8
-#EXTINF:-1 tvg-id="CanalSport5HDPL" tvg-name="Canal+ Sport 5 HD PL" tvg-logo="http://epg.one/img/3129.png" group-title="Sports HD",Canal+ Sport 5 HD PL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus3.m3u8
-#EXTINF:-1 tvg-id="CanalSport4HDPL" tvg-name="Canal+ Sport 4 HD PL" tvg-logo="http://epg.one/img/3129.png" group-title="Sports HD",Canal+ Sport 4 HD PL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus4.m3u8
-#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 3 HD" tvg-logo="http://epg.one/img/11418.png" group-title="Sports HD",DAZN 3 HD
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn3.m3u8
-#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 4 HD" tvg-logo="http://epg.one/img/11419.png" group-title="Sports HD",DAZN 4 HD
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn4.m3u8
-#EXTINF:-1 tvg-id="6501" tvg-name="DAZN 5 FHD" tvg-logo="http://epg.one/img/2919.png" group-title="Sports HD",DAZN 5 FHD
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn5.m3u8
-#EXTINF:-1 tvg-id="2909" tvg-name="Sport TV 1 HD PT" tvg-logo="http://epg.one/img/2909.png" group-title="Sports HD",Sport TV 1 HD PT
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv1.m3u8
-#EXTINF:-1 tvg-id="2910" tvg-name="Sport TV 2 HD PT" tvg-logo="http://epg.one/img/2910.png" group-title="Sports HD",Sport TV 2 HD PT
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv2.m3u8
-#EXTINF:-1 tvg-id="2911" tvg-name="Sport TV 3 HD PT" tvg-logo="http://epg.one/img/2911.png" group-title="Sports HD",Sport TV 3 HD PT
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv3.m3u8
-#EXTINF:-1 tvg-id="2912" tvg-name="Sport TV 4 HD PT" tvg-logo="http://epg.one/img/2912.png" group-title="Sports HD",Sport TV 4 HD PT
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv4.m3u8
-#EXTINF:-1 tvg-id="2913" tvg-name="Sport TV 5 HD PT" tvg-logo="http://epg.one/img/2913.png" group-title="Sports HD",Sport TV 5 HD PT
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv5.m3u8
-#EXTINF:-1 tvg-id="2889" tvg-name="TNT Sports 1 HD UK" tvg-logo="http://epg.one/img/2889.png" group-title="Sports HD",TNT Sports 1 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
-#EXTINF:-1 tvg-id="2890" tvg-name="TNT Sports 2 HD UK" tvg-logo="http://epg.one/img/2890.png" group-title="Sports HD",TNT Sports 2 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
-#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 3 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="Sports HD",TNT Sports 3 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
-#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 4 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="Sports HD",TNT Sports 4 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
-#EXTINF:-1 tvg-id="3664" tvg-name="TSN 1 HD CA" tvg-logo="http://epg.one/img2/3663.png" group-title="Sports HD",TSN 1 HD CA
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn1.m3u8
-#EXTINF:-1 tvg-id="3664" tvg-name="TSN 2 HD CA" tvg-logo="http://epg.one/img2/3635.png" group-title="Sports HD",TSN 2 HD CA
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn2.m3u8
-#EXTINF:-1 tvg-id="3663" tvg-name="TSN 3 HD CA" tvg-logo="http://epg.one/img2/3664.png" group-title="Sports HD",TSN 3 HD CA
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn3.m3u8
-#EXTINF:-1 tvg-id="3664" tvg-name="TSN 4 HD CA" tvg-logo="http://epg.one/img2/3588.png" group-title="Sports HD",TSN 4 HD CA
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn4.m3u8
-#EXTINF:-1 tvg-id="3664" tvg-name="TSN 5 HD CA" tvg-logo="http://epg.one/img2/88030.png" group-title="Sports HD",TSN 5 HD CA
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn5.m3u8
-#EXTINF:-1 tvg-id="6685" tvg-name="ESPN 1 HD NL" tvg-logo="http://epg.one/img/6685.png" group-title="Sports HD",ESPN 1 HD NL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn1.m3u8
-#EXTINF:-1 tvg-id="6688" tvg-name="ESPN 4 HD NL" tvg-logo="http://epg.one/img/6688.png" group-title="Sports HD",ESPN 4 HD NL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn5.m3u8
-#EXTINF:-1 tvg-id="2940" tvg-name="Nova Sport 2 HD CZ" tvg-logo="http://epg.one/img/2940.png" group-title="Sports HD",Nova Sport 2 HD CZ
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport2.m3u8
-#EXTINF:-1 tvg-id="9243" tvg-name="Nova Sport 3 HD CZ" tvg-logo="http://epg.one/img/9243.png" group-title="Sports HD",Nova Sport 3 HD CZ
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport3.m3u8
-#EXTINF:-1 tvg-id="9244" tvg-name="Nova Sport 5 HD CZ" tvg-logo="http://epg.one/img/9244.png" group-title="Sports HD",Nova Sport 5 HD CZ
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport5.m3u8
-#EXTINF:-1 tvg-id="2944" tvg-name="Ziggo Sport 1 HD NL" tvg-logo="http://epg.one/img/2944.png" group-title="Sports HD",Ziggo Sport 1 HD NL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ziggosport1.m3u8
-#EXTINF:-1 tvg-id="2944" tvg-name="Ziggo Sport 3 HD NL" tvg-logo="http://epg.one/img/2944.png" group-title="Sports HD",Ziggo Sport 3 HD NL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ziggosport3.m3u8
-#EXTINF:-1 tvg-id="9051" tvg-name="Sky Sports News HD 50 (UK)" tvg-logo="http://epg.one/img/9051.png" group-title="Sports HD",Sky Sports News HD 50 (UK)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportnw.m3u8
-#EXTINF:-1 tvg-id="4569" tvg-name="Sky Sports Premier League HD (UK)" tvg-logo="http://epg.one/img/4569.png" group-title="Sports HD",Sky Sports Premier League HD (UK)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportp.m3u8
-#EXTINF:-1 tvg-id="4570" tvg-name="Sky Sports Football HD  (UK)" tvg-logo="http://epg.one/img/4570.png" group-title="Sports HD",Sky Sports Football HD  (UK)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportf.m3u8
-#EXTINF:-1 tvg-id="4571" tvg-name="Sky Sports Main Event HD  (UK)" tvg-logo="http://epg.one/img/4571.png" group-title="Sports HD",Sky Sports Main Event HD  (UK)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportm.m3u8
-#EXTINF:-1 tvg-id="4573" tvg-name="Sky Sports Mix HD  (UK)" tvg-logo="http://epg.one/img/4573.png" group-title="Sports HD",Sky Sports Mix HD  (UK)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportmix.m3u8
-#EXTINF:-1 tvg-id="4579" tvg-name="Sky Sports Action HD  (UK)" tvg-logo="http://epg.one/img/4579.png" group-title="Sports HD",Sky Sports Action HD  (UK)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysport%2B.m3u8
-#EXTINF:-1 tvg-id="4575" tvg-name="Sky Sports Racing HD  (UK)" tvg-logo="http://epg.one/img/4575.png" group-title="Sports HD",Sky Sports Racing HD  (UK)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportrc.m3u8
-#EXTINF:-1 tvg-id="4576" tvg-name="Sky Sports F1 HD  (UK)" tvg-logo="http://epg.one/img/4576.png" group-title="Sports HD",Sky Sports F1 HD  (UK)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportf1.m3u8
-#EXTINF:-1 tvg-id="3553" tvg-name="Premier Sports 1 HD UK" tvg-logo="http://epg.one/img/3553.png" group-title="Sports HD",Premier Sports 1 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/premier.m3u8
-#EXTINF:-1 tvg-id="3553" tvg-name="Premier Sports21 HD UK" tvg-logo="http://epg.one/img/3553.png" group-title="Sports HD",Premier Sports21 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/premier2.m3u8
-#EXTINF:-1 tvg-id="SportsNet2HD" tvg-name="Sports Net 2 HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportnet.png" group-title="Sports HD",Sports Net 2 HD
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportnet2.m3u8
-#EXTINF:-1 tvg-id="4536" tvg-name="Sport Klub 1 HD HR" tvg-logo="http://epg.one/img/4536.png" group-title="Sports HD",Sport Klub 1 HD HR
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub.m3u8
-#EXTINF:-1 tvg-id="4537" tvg-name="Sport Klub 2 HD HR" tvg-logo="http://epg.one/img/4537.png" group-title="Sports HD",Sport Klub 2 HD HR
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub2.m3u8
-#EXTINF:-1 tvg-id="4538" tvg-name="Sport Klub 3 HD HR" tvg-logo="http://epg.one/img/4538.png" group-title="Sports HD",Sport Klub 3 HD HR
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub3.m3u8
-#EXTINF:-1 tvg-id="4539" tvg-name="Sport Klub 4 HD HR" tvg-logo="http://epg.one/img/4539.png" group-title="Sports HD",Sport Klub 4 HD HR
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub4.m3u8
-#EXTINF:-1 tvg-id="4540" tvg-name="Sport Klub 5 HD HR" tvg-logo="http://epg.one/img/4540.png" group-title="Sports HD",Sport Klub 5 HD HR
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub5.m3u8
-#EXTINF:-1 tvg-id="4541" tvg-name="Sport Klub 6 HD HR" tvg-logo="http://epg.one/img/4541.png" group-title="Sports HD",Sport Klub 6 HD HR
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub6.m3u8
-#EXTINF:-1 tvg-id="4542" tvg-name="Sport Klub 7 HD HR" tvg-logo="http://epg.one/img/4542.png" group-title="Sports HD",Sport Klub 7 HD HR
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub7.m3u8
-#EXTINF:-1 tvg-id="4543" tvg-name="Sport Klub 8 HD HR" tvg-logo="http://epg.one/img/4543.png" group-title="Sports HD",Sport Klub 8 HD HR
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub8.m3u8
-#EXTINF:-1 tvg-id="4545" tvg-name="Sport Klub Fight HD HR" tvg-logo="http://epg.one/img/4545.png" group-title="Sports HD",Sport Klub Fight HD HR
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub10.m3u8
-#EXTINF:-1 tvg-id="2944" tvg-name="S-Sport 1 HD TR" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Ssports.png" group-title="Sports HD",S-Sport 1 HD TR
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports.m3u8
-#EXTINF:-1 tvg-id="2944" tvg-name="S-Sport 3 HD TR" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Ssports.png" group-title="Sports HD",S-Sport 3 HD TR
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports3.m3u8
-
-# ==============================
 # [UEFA] Champions League
 # ==============================
 
@@ -1589,76 +1587,89 @@ http://31.43.191.125:8080/08072024LC/08072024LC/253
 http://31.43.191.125:8080/08072024LC/08072024LC/254
 
 
-
-
 # ==============================
-# ES | DEPORTES VIP
+# ES | DEPORTES & DAZN ACB VIP
 # ==============================
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (HD REPUESTO) DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: (HD REPUESTO) DAZN F1
 http://31.43.191.125:8080/08072024LC/08072024LC/97147
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (FHD) DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: (FHD) DAZN F1
 http://31.43.191.125:8080/08072024LC/08072024LC/251
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (FHD REPUESTO) DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: (FHD REPUESTO) DAZN F1
 http://31.43.191.125:8080/08072024LC/08072024LC/97194
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES VIP",ES: (FHD) DAZN 1
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: (FHD) DAZN 1
 http://31.43.191.125:8080/08072024LC/08072024LC/247
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES VIP",ES: (HD) DAZN 1
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: (HD) DAZN 1
 http://31.43.191.125:8080/08072024LC/08072024LC/128935
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES VIP",ES: DAZN 3
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: DAZN 3
 http://31.43.191.125:8080/08072024LC/08072024LC/249
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES VIP",ES: DAZN 4
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: DAZN 4
 http://31.43.191.125:8080/08072024LC/08072024LC/250
-#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ DEPORTES
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: (FHD) M+ DEPORTES
 http://31.43.191.125:8080/08072024LC/08072024LC/286
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 5
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: M+ DEPORTES 5
 http://31.43.191.125:8080/08072024LC/08072024LC/291
-#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 7
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: M+ DEPORTES 7
 http://31.43.191.125:8080/08072024LC/08072024LC/293
-
-
-# ==============================
-# ES | DAZN ACB VIP
-# ==============================
-
-#EXTINF:-1 tvg-id="ESACBEvento01" tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB VIP",ES: ACB Evento 01
+#EXTINF:-1 tvg-id="ESACBEvento01" tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: ACB Evento 01
 http://31.43.191.125:8080/08072024LC/08072024LC/147272
-#EXTINF:-1 tvg-id="ESACBEvento02" tvg-name="ES: ACB Evento 02" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB VIP",ES: ACB Evento 02
+#EXTINF:-1 tvg-id="ESACBEvento02" tvg-name="ES: ACB Evento 02" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: ACB Evento 02
 http://31.43.191.125:8080/08072024LC/08072024LC/147273
-#EXTINF:-1 tvg-id="ESACBEvento03" tvg-name="ES: ACB Evento 03" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB VIP",ES: ACB Evento 03
+#EXTINF:-1 tvg-id="ESACBEvento03" tvg-name="ES: ACB Evento 03" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: ACB Evento 03
+http://31.43.191.125:8080/08072024LC/08072024LC/147274
+#EXTINF:-1 tvg-id="ESACBEvento01" tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: ACB Evento 01
+http://31.43.191.125:8080/08072024LC/08072024LC/147272
+#EXTINF:-1 tvg-id="ESACBEvento02" tvg-name="ES: ACB Evento 02" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: ACB Evento 02
+http://31.43.191.125:8080/08072024LC/08072024LC/147273
+#EXTINF:-1 tvg-id="ESACBEvento03" tvg-name="ES: ACB Evento 03" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DEPORTES & DAZN ACB VIP",ES: ACB Evento 03
 http://31.43.191.125:8080/08072024LC/08072024LC/147274
 
 # ==============================
-# FR | SPORT VIP
+# FR | SPORT VIP & NL| NEDERLAND 4K
 # ==============================
 
-#EXTM3U
-#EXTINF:-1 tvg-id="ESTVCanaria" tvg-name="ES: TV Canaria" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="FR | SPORT VIP",ES: TV Canaria
+#EXTINF:-1 tvg-id="ESTVCanaria" tvg-name="ES: TV Canaria" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",ES: TV Canaria
 http://31.43.191.125:8080/08072024LC/08072024LC/154466
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="FR | SPORT VIP",FR: CANAL+ FOOT
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: CANAL+ FOOT
 http://31.43.191.125:8080/08072024LC/08072024LC/369
-#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 1
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: BEIN SPORTS 1
 http://31.43.191.125:8080/08072024LC/08072024LC/373
-#EXTINF:-1 tvg-id="FRBEINSPORTS1HD" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="FRBEINSPORTS1HD" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: BEIN SPORTS 1 HD
 http://31.43.191.125:8080/08072024LC/08072024LC/128979
-#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 2
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: BEIN SPORTS 2
 http://31.43.191.125:8080/08072024LC/08072024LC/374
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 4
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: BEIN SPORT MAX 4
 http://31.43.191.125:8080/08072024LC/08072024LC/376
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 5
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: BEIN SPORT MAX 5
 http://31.43.191.125:8080/08072024LC/08072024LC/377
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 6
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: BEIN SPORT MAX 6
 http://31.43.191.125:8080/08072024LC/08072024LC/378
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 8
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: BEIN SPORT MAX 8
 http://31.43.191.125:8080/08072024LC/08072024LC/380
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 10
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: BEIN SPORT MAX 10
 http://31.43.191.125:8080/08072024LC/08072024LC/382
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="FR: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_2.png" group-title="FR | SPORT VIP",FR: EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="FR: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_2.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: EUROSPORT 2
 http://31.43.191.125:8080/08072024LC/08072024LC/384
-#EXTINF:-1 tvg-id="FREUROSPORT3601" tvg-name="FR: EUROSPORT 360 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT VIP",FR: EUROSPORT 360 1
+#EXTINF:-1 tvg-id="FREUROSPORT3601" tvg-name="FR: EUROSPORT 360 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: EUROSPORT 360 1
 http://31.43.191.125:8080/08072024LC/08072024LC/385
-#EXTINF:-1 tvg-id="RMC SPORT 2" tvg-name="FR: RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="FR | SPORT VIP",FR: RMC SPORT 2
+#EXTINF:-1 tvg-id="RMC SPORT 2" tvg-name="FR: RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",FR: RMC SPORT 2
 http://31.43.191.125:8080/08072024LC/08072024LC/389
+#EXTINF:-1 tvg-id="ESPN2.nl" tvg-name="|NL| ESPN 2 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",|NL| ESPN 2 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580802
+#EXTINF:-1 tvg-id="ESPN3.nl" tvg-name="|NL| ESPN 3 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",|NL| ESPN 3 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580803
+#EXTINF:-1 tvg-id="ESPN4.nl" tvg-name="|NL| ESPN 4 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",|NL| ESPN 4 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580804
+#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-name="|NL| EUROSPORT 1 4K" tvg-logo="http://logo.ottcst.info/EUROSPORT1.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",|NL| EUROSPORT 1 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580812
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="|NL| ZIGGO SPORT 4 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTRACING.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",|NL| ZIGGO SPORT 4 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580808
+#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-name="|NL| ZIGGO SPORT 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORT.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",|NL| ZIGGO SPORT 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580805
+#EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-name="|NL| ZIGGO SPORT 5 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTDOCU.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",|NL| ZIGGO SPORT 5 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580809
+#EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="|NL| ZIGGO SPORT 6 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTTENNIS.png" group-title="FR | SPORT VIP & NL| NEDERLAND 4K"& NL| NEDERLAND 4K",|NL| ZIGGO SPORT 6 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580810
 
 
 # ==============================
@@ -1733,30 +1744,6 @@ http://31.43.191.125:8080/08072024LC/08072024LC/142257
 http://31.43.191.125:8080/08072024LC/08072024LC/142258
 #EXTINF:-1 tvg-id="FRLIGUE110" tvg-name="FR: LIGUE1+ 10" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png" group-title="[FR] Ligue 1",FR: LIGUE1+ 10
 http://31.43.191.125:8080/08072024LC/08072024LC/142259
-
-
-
-# ==============================
-# NL| NEDERLAND 4K
-# ==============================
-
-#EXTINF:-1 tvg-id="ESPN2.nl" tvg-name="|NL| ESPN 2 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="NL| NEDERLAND 4K",|NL| ESPN 2 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580802
-#EXTINF:-1 tvg-id="ESPN3.nl" tvg-name="|NL| ESPN 3 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="NL| NEDERLAND 4K",|NL| ESPN 3 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580803
-#EXTINF:-1 tvg-id="ESPN4.nl" tvg-name="|NL| ESPN 4 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="NL| NEDERLAND 4K",|NL| ESPN 4 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580804
-#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-name="|NL| EUROSPORT 1 4K" tvg-logo="http://logo.ottcst.info/EUROSPORT1.png" group-title="NL| NEDERLAND 4K",|NL| EUROSPORT 1 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580812
-#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="|NL| ZIGGO SPORT 4 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTRACING.png" group-title="NL| NEDERLAND 4K",|NL| ZIGGO SPORT 4 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580808
-#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-name="|NL| ZIGGO SPORT 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORT.png" group-title="NL| NEDERLAND 4K",|NL| ZIGGO SPORT 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580805
-#EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-name="|NL| ZIGGO SPORT 5 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTDOCU.png" group-title="NL| NEDERLAND 4K",|NL| ZIGGO SPORT 5 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580809
-#EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="|NL| ZIGGO SPORT 6 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTTENNIS.png" group-title="NL| NEDERLAND 4K",|NL| ZIGGO SPORT 6 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580810
-
 
 # ==============================
 # EXYU SPORTS
@@ -2111,675 +2098,665 @@ https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 
 
 # ==============================
-# USA TV
+# USA TV & CANADA TV
 # ==============================
 
-#EXTINF:-1 tvg-id="2057" tvg-name="Food Network HD US" tvg-logo="http://epg.one/img/2057.png" group-title="USA TV",Food Network HD US
+#EXTINF:-1 tvg-id="2057" tvg-name="Food Network HD US" tvg-logo="http://epg.one/img/2057.png" group-title="USA TV & CANADA TV"& CANADA TV",Food Network HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1107/index.m3u8
-#EXTINF:-1 tvg-id="88028" tvg-name="Cinemax Hits HD US" tvg-logo="http://epg.one/img/88028.png" group-title="USA TV",Cinemax Hits HD US
+#EXTINF:-1 tvg-id="88028" tvg-name="Cinemax Hits HD US" tvg-logo="http://epg.one/img/88028.png" group-title="USA TV & CANADA TV"& CANADA TV",Cinemax Hits HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6152/index.m3u8
-#EXTINF:-1 tvg-id="4562" tvg-name="NHL Network US" tvg-logo="http://epg.one/img/4562.png" group-title="USA TV",NHL Network US
+#EXTINF:-1 tvg-id="4562" tvg-name="NHL Network US" tvg-logo="http://epg.one/img/4562.png" group-title="USA TV & CANADA TV"& CANADA TV",NHL Network US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7225/index.m3u8
-#EXTINF:-1 tvg-id="4587" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="USA TV",NBA TV HD US
+#EXTINF:-1 tvg-id="4587" tvg-name="NBA TV HD US" tvg-logo="http://epg.one/img/4587.png" group-title="USA TV & CANADA TV"& CANADA TV",NBA TV HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7226/index.m3u8
-#EXTINF:-1 tvg-id="2252" tvg-name="ION Television HD US" tvg-logo="http://epg.one/img/2252.png" group-title="USA TV",ION Television HD US
+#EXTINF:-1 tvg-id="2252" tvg-name="ION Television HD US" tvg-logo="http://epg.one/img/2252.png" group-title="USA TV & CANADA TV"& CANADA TV",ION Television HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/901/index.m3u8
-#EXTINF:-1 tvg-id="2374" tvg-name="Hallmark Mystery HD US" tvg-logo="http://epg.one/img/2374.png" group-title="USA TV",Hallmark Mystery HD US
+#EXTINF:-1 tvg-id="2374" tvg-name="Hallmark Mystery HD US" tvg-logo="http://epg.one/img/2374.png" group-title="USA TV & CANADA TV"& CANADA TV",Hallmark Mystery HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1075/index.m3u8
-#EXTINF:-1 tvg-id="2257" tvg-name="Telemundo HD US" tvg-logo="http://epg.one/img/2257.png" group-title="USA TV",Telemundo HD US
+#EXTINF:-1 tvg-id="2257" tvg-name="Telemundo HD US" tvg-logo="http://epg.one/img/2257.png" group-title="USA TV & CANADA TV"& CANADA TV",Telemundo HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1080/index.m3u8
-#EXTINF:-1 tvg-id="2258" tvg-name="NBC New York HD US" tvg-logo="http://epg.one/img/2258.png" group-title="USA TV",NBC New York HD US
+#EXTINF:-1 tvg-id="2258" tvg-name="NBC New York HD US" tvg-logo="http://epg.one/img/2258.png" group-title="USA TV & CANADA TV"& CANADA TV",NBC New York HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1081/index.m3u8
-#EXTINF:-1 tvg-id="2375" tvg-name="Disney XD HD US" tvg-logo="http://epg.one/img/2375.png" group-title="USA TV",Disney XD HD US
+#EXTINF:-1 tvg-id="2375" tvg-name="Disney XD HD US" tvg-logo="http://epg.one/img/2375.png" group-title="USA TV & CANADA TV"& CANADA TV",Disney XD HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1082/index.m3u8
-#EXTINF:-1 tvg-id="2376" tvg-name="AMC HD US" tvg-logo="http://epg.one/img/2376.png" group-title="USA TV",AMC HD US
+#EXTINF:-1 tvg-id="2376" tvg-name="AMC HD US" tvg-logo="http://epg.one/img/2376.png" group-title="USA TV & CANADA TV"& CANADA TV",AMC HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1083/index.m3u8
-#EXTINF:-1 tvg-id="3305" tvg-name="HGTV HD" tvg-logo="http://epg.one/img/3305.png" group-title="USA TV",HGTV HD
+#EXTINF:-1 tvg-id="3305" tvg-name="HGTV HD" tvg-logo="http://epg.one/img/3305.png" group-title="USA TV & CANADA TV"& CANADA TV",HGTV HD
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1084/index.m3u8
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD US" tvg-logo="http://epg.one/img/2327.png" group-title="USA TV",ABC HD US
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD US" tvg-logo="http://epg.one/img/2327.png" group-title="USA TV & CANADA TV"& CANADA TV",ABC HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1087/index.m3u8
-#EXTINF:-1 tvg-id="2329" tvg-name="MY9 New Jersey HD US" tvg-logo="http://epg.one/img/2329.png" group-title="USA TV",MY9 New Jersey HD US
+#EXTINF:-1 tvg-id="2329" tvg-name="MY9 New Jersey HD US" tvg-logo="http://epg.one/img/2329.png" group-title="USA TV & CANADA TV"& CANADA TV",MY9 New Jersey HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1088/index.m3u8
-#EXTINF:-1 tvg-id="2333" tvg-name="WPIX HD US" tvg-logo="http://epg.one/img/2333.png" group-title="USA TV",WPIX HD US
+#EXTINF:-1 tvg-id="2333" tvg-name="WPIX HD US" tvg-logo="http://epg.one/img/2333.png" group-title="USA TV & CANADA TV"& CANADA TV",WPIX HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1090/index.m3u8
-#EXTINF:-1 tvg-id="2334" tvg-name="Thirteen HD US" tvg-logo="http://epg.one/img/2334.png" group-title="USA TV",Thirteen HD US
+#EXTINF:-1 tvg-id="2334" tvg-name="Thirteen HD US" tvg-logo="http://epg.one/img/2334.png" group-title="USA TV & CANADA TV"& CANADA TV",Thirteen HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1093/index.m3u8
-#EXTINF:-1 tvg-id="2335" tvg-name="WLIW HD US" tvg-logo="http://epg.one/img/2335.png" group-title="USA TV",WLIW HD US
+#EXTINF:-1 tvg-id="2335" tvg-name="WLIW HD US" tvg-logo="http://epg.one/img/2335.png" group-title="USA TV & CANADA TV"& CANADA TV",WLIW HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1094/index.m3u8
-#EXTINF:-1 tvg-id="2336" tvg-name="New Jersey PBS HD US" tvg-logo="http://epg.one/img/2336.png" group-title="USA TV",New Jersey PBS HD US
+#EXTINF:-1 tvg-id="2336" tvg-name="New Jersey PBS HD US" tvg-logo="http://epg.one/img/2336.png" group-title="USA TV & CANADA TV"& CANADA TV",New Jersey PBS HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1095/index.m3u8
-#EXTINF:-1 tvg-id="11651" tvg-name="Estrella TV US" tvg-logo="http://epg.one/img/11651.png" group-title="USA TV",Estrella TV US
+#EXTINF:-1 tvg-id="11651" tvg-name="Estrella TV US" tvg-logo="http://epg.one/img/11651.png" group-title="USA TV & CANADA TV"& CANADA TV",Estrella TV US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1098/index.m3u8
-#EXTINF:-1 tvg-id="2340" tvg-name="Univision HD US" tvg-logo="http://epg.one/img/2340.png" group-title="USA TV",Univision HD US
+#EXTINF:-1 tvg-id="2340" tvg-name="Univision HD US" tvg-logo="http://epg.one/img/2340.png" group-title="USA TV & CANADA TV"& CANADA TV",Univision HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1099/index.m3u8
-#EXTINF:-1 tvg-id="2341" tvg-name="UniMás HD US" tvg-logo="http://epg.one/img/2341.png" group-title="USA TV",UniMás HD US
+#EXTINF:-1 tvg-id="2341" tvg-name="UniMás HD US" tvg-logo="http://epg.one/img/2341.png" group-title="USA TV & CANADA TV"& CANADA TV",UniMás HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1100/index.m3u8
-#EXTINF:-1 tvg-id="2342" tvg-name="USA HD US" tvg-logo="http://epg.one/img/2342.png" group-title="USA TV",USA HD US
+#EXTINF:-1 tvg-id="2342" tvg-name="USA HD US" tvg-logo="http://epg.one/img/2342.png" group-title="USA TV & CANADA TV"& CANADA TV",USA HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1101/index.m3u8
-#EXTINF:-1 tvg-id="2343" tvg-name="TNT HD US" tvg-logo="http://epg.one/img/2343.png" group-title="USA TV",TNT HD US
+#EXTINF:-1 tvg-id="2343" tvg-name="TNT HD US" tvg-logo="http://epg.one/img/2343.png" group-title="USA TV & CANADA TV"& CANADA TV",TNT HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1102/index.m3u8
-#EXTINF:-1 tvg-id="2344" tvg-name="TBS US" tvg-logo="http://epg.one/img/2344.png" group-title="USA TV",TBS US
+#EXTINF:-1 tvg-id="2344" tvg-name="TBS US" tvg-logo="http://epg.one/img/2344.png" group-title="USA TV & CANADA TV"& CANADA TV",TBS US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1103/index.m3u8
-#EXTINF:-1 tvg-id="2345" tvg-name="TLC HD US" tvg-logo="http://epg.one/img/2345.png" group-title="USA TV",TLC HD US
+#EXTINF:-1 tvg-id="2345" tvg-name="TLC HD US" tvg-logo="http://epg.one/img/2345.png" group-title="USA TV & CANADA TV"& CANADA TV",TLC HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1105/index.m3u8
-#EXTINF:-1 tvg-id="2346" tvg-name="FXM Retro HD US" tvg-logo="http://epg.one/img/2346.png" group-title="USA TV",FXM Retro HD US
+#EXTINF:-1 tvg-id="2346" tvg-name="FXM Retro HD US" tvg-logo="http://epg.one/img/2346.png" group-title="USA TV & CANADA TV"& CANADA TV",FXM Retro HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1106/index.m3u8
-#EXTINF:-1 tvg-id="2347" tvg-name="A&E US" tvg-logo="http://epg.one/img/2347.png" group-title="USA TV",A&E US
+#EXTINF:-1 tvg-id="2347" tvg-name="A&E US" tvg-logo="http://epg.one/img/2347.png" group-title="USA TV & CANADA TV"& CANADA TV",A&E US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/1108/index.m3u8
-#EXTINF:-1 tvg-id="2128" tvg-name="CNBC HD US" tvg-logo="http://epg.one/img/2128.png" group-title="USA TV",CNBC HD US
+#EXTINF:-1 tvg-id="2128" tvg-name="CNBC HD US" tvg-logo="http://epg.one/img/2128.png" group-title="USA TV & CANADA TV"& CANADA TV",CNBC HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/962/index.m3u8
-#EXTINF:-1 tvg-id="4558" tvg-name="Fox Sports 1 HD US" tvg-logo="http://epg.one/img/4558.png" group-title="USA TV",Fox Sports 1 HD US
+#EXTINF:-1 tvg-id="4558" tvg-name="Fox Sports 1 HD US" tvg-logo="http://epg.one/img/4558.png" group-title="USA TV & CANADA TV"& CANADA TV",Fox Sports 1 HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7322/index.m3u8
-#EXTINF:-1 tvg-id="8407" tvg-name="Fox Sports 2 HD US" tvg-logo="http://epg.one/img/8407.png" group-title="USA TV",Fox Sports 2 HD US
+#EXTINF:-1 tvg-id="8407" tvg-name="Fox Sports 2 HD US" tvg-logo="http://epg.one/img/8407.png" group-title="USA TV & CANADA TV"& CANADA TV",Fox Sports 2 HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7323/index.m3u8
-#EXTINF:-1 tvg-id="4560" tvg-name="CBS Sports Network HD US" tvg-logo="http://epg.one/img/4560.png" group-title="USA TV",CBS Sports Network HD US
+#EXTINF:-1 tvg-id="4560" tvg-name="CBS Sports Network HD US" tvg-logo="http://epg.one/img/4560.png" group-title="USA TV & CANADA TV"& CANADA TV",CBS Sports Network HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7324/index.m3u8
-#EXTINF:-1 tvg-id="4588" tvg-name="MSG HD US" tvg-logo="http://epg.one/img/4588.png" group-title="USA TV",MSG HD US
+#EXTINF:-1 tvg-id="4588" tvg-name="MSG HD US" tvg-logo="http://epg.one/img/4588.png" group-title="USA TV & CANADA TV"& CANADA TV",MSG HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7325/index.m3u8
-#EXTINF:-1 tvg-id="4589" tvg-name="MSG 2 HD US" tvg-logo="http://epg.one/img/4589.png" group-title="USA TV",MSG 2 HD US
+#EXTINF:-1 tvg-id="4589" tvg-name="MSG 2 HD US" tvg-logo="http://epg.one/img/4589.png" group-title="USA TV & CANADA TV"& CANADA TV",MSG 2 HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7326/index.m3u8
-#EXTINF:-1 tvg-id="4561" tvg-name="NBC Sports Network HD US" tvg-logo="http://epg.one/img/4561.png" group-title="USA TV",NBC Sports Network HD US
+#EXTINF:-1 tvg-id="4561" tvg-name="NBC Sports Network HD US" tvg-logo="http://epg.one/img/4561.png" group-title="USA TV & CANADA TV"& CANADA TV",NBC Sports Network HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7327/index.m3u8
-#EXTINF:-1 tvg-id="4562" tvg-name="NHL Network HD US" tvg-logo="http://epg.one/img/4562.png" group-title="USA TV",NHL Network HD US
+#EXTINF:-1 tvg-id="4562" tvg-name="NHL Network HD US" tvg-logo="http://epg.one/img/4562.png" group-title="USA TV & CANADA TV"& CANADA TV",NHL Network HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7328/index.m3u8
-#EXTINF:-1 tvg-id="4801" tvg-name="SportsNet New York HD US" tvg-logo="http://epg.one/img/4801.png" group-title="USA TV",SportsNet New York HD US
+#EXTINF:-1 tvg-id="4801" tvg-name="SportsNet New York HD US" tvg-logo="http://epg.one/img/4801.png" group-title="USA TV & CANADA TV"& CANADA TV",SportsNet New York HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/11107/index.m3u8
-#EXTINF:-1 tvg-id="4802" tvg-name="Spectrum SportsNet HD US" tvg-logo="http://epg.one/img/4802.png" group-title="USA TV",Spectrum SportsNet HD US
+#EXTINF:-1 tvg-id="4802" tvg-name="Spectrum SportsNet HD US" tvg-logo="http://epg.one/img/4802.png" group-title="USA TV & CANADA TV"& CANADA TV",Spectrum SportsNet HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/11108/index.m3u8
-#EXTINF:-1 tvg-id="4803" tvg-name="NESN HD US" tvg-logo="http://epg.one/img/4803.png" group-title="USA TV",NESN HD US
+#EXTINF:-1 tvg-id="4803" tvg-name="NESN HD US" tvg-logo="http://epg.one/img/4803.png" group-title="USA TV & CANADA TV"& CANADA TV",NESN HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/11109/index.m3u8
-#EXTINF:-1 tvg-id="2347" tvg-name="A&E HD US" tvg-logo="http://epg.one/img/2347.png" group-title="USA TV",A&E HD US
+#EXTINF:-1 tvg-id="2347" tvg-name="A&E HD US" tvg-logo="http://epg.one/img/2347.png" group-title="USA TV & CANADA TV"& CANADA TV",A&E HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30001/index.m3u8
-#EXTINF:-1 tvg-id="8336" tvg-name="American Heroes Channel HD US" tvg-logo="http://epg.one/img/8336.png" group-title="USA TV",American Heroes Channel HD US
+#EXTINF:-1 tvg-id="8336" tvg-name="American Heroes Channel HD US" tvg-logo="http://epg.one/img/8336.png" group-title="USA TV & CANADA TV"& CANADA TV",American Heroes Channel HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30007/index.m3u8
-#EXTINF:-1 tvg-id="8340" tvg-name="AXS TV HD US" tvg-logo="http://epg.one/img/8340.png" group-title="USA TV",AXS TV HD US
+#EXTINF:-1 tvg-id="8340" tvg-name="AXS TV HD US" tvg-logo="http://epg.one/img/8340.png" group-title="USA TV & CANADA TV"& CANADA TV",AXS TV HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30011/index.m3u8
-#EXTINF:-1 tvg-id="8341" tvg-name="BabyFirst TV HD US" tvg-logo="http://epg.one/img/8341.png" group-title="USA TV",BabyFirst TV HD US
+#EXTINF:-1 tvg-id="8341" tvg-name="BabyFirst TV HD US" tvg-logo="http://epg.one/img/8341.png" group-title="USA TV & CANADA TV"& CANADA TV",BabyFirst TV HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30012/index.m3u8
-#EXTINF:-1 tvg-id="8344" tvg-name="beIN Sports En Español HD US" tvg-logo="http://epg.one/img/8344.png" group-title="USA TV",beIN Sports En Español HD US
+#EXTINF:-1 tvg-id="8344" tvg-name="beIN Sports En Español HD US" tvg-logo="http://epg.one/img/8344.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports En Español HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30015/index.m3u8
-#EXTINF:-1 tvg-id="8347" tvg-name="BET Her HD US" tvg-logo="http://epg.one/img/8347.png" group-title="USA TV",BET Her HD US
+#EXTINF:-1 tvg-id="8347" tvg-name="BET Her HD US" tvg-logo="http://epg.one/img/8347.png" group-title="USA TV & CANADA TV"& CANADA TV",BET Her HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30018/index.m3u8
-#EXTINF:-1 tvg-id="8353" tvg-name="Bravo HD US" tvg-logo="http://epg.one/img/8353.png" group-title="USA TV",Bravo HD US
+#EXTINF:-1 tvg-id="8353" tvg-name="Bravo HD US" tvg-logo="http://epg.one/img/8353.png" group-title="USA TV & CANADA TV"& CANADA TV",Bravo HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30024/index.m3u8
-#EXTINF:-1 tvg-id="8355" tvg-name="C-SPAN 2 HD US" tvg-logo="http://epg.one/img/8355.png" group-title="USA TV",C-SPAN 2 HD US
+#EXTINF:-1 tvg-id="8355" tvg-name="C-SPAN 2 HD US" tvg-logo="http://epg.one/img/8355.png" group-title="USA TV & CANADA TV"& CANADA TV",C-SPAN 2 HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30026/index.m3u8
-#EXTINF:-1 tvg-id="8356" tvg-name="C-SPAN 3 HD US" tvg-logo="http://epg.one/img/8356.png" group-title="USA TV",C-SPAN 3 HD US
+#EXTINF:-1 tvg-id="8356" tvg-name="C-SPAN 3 HD US" tvg-logo="http://epg.one/img/8356.png" group-title="USA TV & CANADA TV"& CANADA TV",C-SPAN 3 HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30027/index.m3u8
-#EXTINF:-1 tvg-id="8364" tvg-name="Cheddar News HD US" tvg-logo="http://epg.one/img/8364.png" group-title="USA TV",Cheddar News HD US
+#EXTINF:-1 tvg-id="8364" tvg-name="Cheddar News HD US" tvg-logo="http://epg.one/img/8364.png" group-title="USA TV & CANADA TV"& CANADA TV",Cheddar News HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30035/index.m3u8
-#EXTINF:-1 tvg-id="8373" tvg-name="Comedy Central HD US" tvg-logo="http://epg.one/img/8373.png" group-title="USA TV",Comedy Central HD US
+#EXTINF:-1 tvg-id="8373" tvg-name="Comedy Central HD US" tvg-logo="http://epg.one/img/8373.png" group-title="USA TV & CANADA TV"& CANADA TV",Comedy Central HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30044/index.m3u8
-#EXTINF:-1 tvg-id="8374" tvg-name="Cooking Channel HD US" tvg-logo="http://epg.one/img/8374.png" group-title="USA TV",Cooking Channel HD US
+#EXTINF:-1 tvg-id="8374" tvg-name="Cooking Channel HD US" tvg-logo="http://epg.one/img/8374.png" group-title="USA TV & CANADA TV"& CANADA TV",Cooking Channel HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30045/index.m3u8
-#EXTINF:-1 tvg-id="8375" tvg-name="Crime + Investigation HD US" tvg-logo="http://epg.one/img/8375.png" group-title="USA TV",Crime + Investigation HD US
+#EXTINF:-1 tvg-id="8375" tvg-name="Crime + Investigation HD US" tvg-logo="http://epg.one/img/8375.png" group-title="USA TV & CANADA TV"& CANADA TV",Crime + Investigation HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30046/index.m3u8
-#EXTINF:-1 tvg-id="8380" tvg-name="Destination America HD US" tvg-logo="http://epg.one/img/8380.png" group-title="USA TV",Destination America HD US
+#EXTINF:-1 tvg-id="8380" tvg-name="Destination America HD US" tvg-logo="http://epg.one/img/8380.png" group-title="USA TV & CANADA TV"& CANADA TV",Destination America HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30051/index.m3u8
-#EXTINF:-1 tvg-id="8381" tvg-name="Discovery Channel HD US" tvg-logo="http://epg.one/img/8381.png" group-title="USA TV",Discovery Channel HD US
+#EXTINF:-1 tvg-id="8381" tvg-name="Discovery Channel HD US" tvg-logo="http://epg.one/img/8381.png" group-title="USA TV & CANADA TV"& CANADA TV",Discovery Channel HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30052/index.m3u8
-#EXTINF:-1 tvg-id="8384" tvg-name="Discovery Family HD US" tvg-logo="http://epg.one/img/8384.png" group-title="USA TV",Discovery Family HD US
+#EXTINF:-1 tvg-id="8384" tvg-name="Discovery Family HD US" tvg-logo="http://epg.one/img/8384.png" group-title="USA TV & CANADA TV"& CANADA TV",Discovery Family HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30055/index.m3u8
-#EXTINF:-1 tvg-id="8385" tvg-name="Discovery Life HD US" tvg-logo="http://epg.one/img/8385.png" group-title="USA TV",Discovery Life HD US
+#EXTINF:-1 tvg-id="8385" tvg-name="Discovery Life HD US" tvg-logo="http://epg.one/img/8385.png" group-title="USA TV & CANADA TV"& CANADA TV",Discovery Life HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30056/index.m3u8
-#EXTINF:-1 tvg-id="8389" tvg-name="E! HD US" tvg-logo="http://epg.one/img/8389.png" group-title="USA TV",E! HD US
+#EXTINF:-1 tvg-id="8389" tvg-name="E! HD US" tvg-logo="http://epg.one/img/8389.png" group-title="USA TV & CANADA TV"& CANADA TV",E! HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30060/index.m3u8
-#EXTINF:-1 tvg-id="8392" tvg-name="ESPN Deportes HD US" tvg-logo="http://epg.one/img/8392.png" group-title="USA TV",ESPN Deportes HD US
+#EXTINF:-1 tvg-id="8392" tvg-name="ESPN Deportes HD US" tvg-logo="http://epg.one/img/8392.png" group-title="USA TV & CANADA TV"& CANADA TV",ESPN Deportes HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30063/index.m3u8
-#EXTINF:-1 tvg-id="6580" tvg-name="ESPNews HD US" tvg-logo="http://epg.one/img/6580.png" group-title="USA TV",ESPNews HD US
+#EXTINF:-1 tvg-id="6580" tvg-name="ESPNews HD US" tvg-logo="http://epg.one/img/6580.png" group-title="USA TV & CANADA TV"& CANADA TV",ESPNews HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30066/index.m3u8
-#EXTINF:-1 tvg-id="8396" tvg-name="ESPNU HD US" tvg-logo="http://epg.one/img/8396.png" group-title="USA TV",ESPNU HD US
+#EXTINF:-1 tvg-id="8396" tvg-name="ESPNU HD US" tvg-logo="http://epg.one/img/8396.png" group-title="USA TV & CANADA TV"& CANADA TV",ESPNU HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30067/index.m3u8
-#EXTINF:-1 tvg-id="8404" tvg-name="Fox Deportes HD US" tvg-logo="http://epg.one/img/8404.png" group-title="USA TV",Fox Deportes HD US
+#EXTINF:-1 tvg-id="8404" tvg-name="Fox Deportes HD US" tvg-logo="http://epg.one/img/8404.png" group-title="USA TV & CANADA TV"& CANADA TV",Fox Deportes HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30075/index.m3u8
-#EXTINF:-1 tvg-id="6683" tvg-name="Fox News HD US" tvg-logo="http://epg.one/img/6683.png" group-title="USA TV",Fox News HD US
+#EXTINF:-1 tvg-id="6683" tvg-name="Fox News HD US" tvg-logo="http://epg.one/img/6683.png" group-title="USA TV & CANADA TV"& CANADA TV",Fox News HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30076/index.m3u8
-#EXTINF:-1 tvg-id="8407" tvg-name="Fox Sports 2 US" tvg-logo="http://epg.one/img/8407.png" group-title="USA TV",Fox Sports 2 US
+#EXTINF:-1 tvg-id="8407" tvg-name="Fox Sports 2 US" tvg-logo="http://epg.one/img/8407.png" group-title="USA TV & CANADA TV"& CANADA TV",Fox Sports 2 US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30078/index.m3u8
-#EXTINF:-1 tvg-id="8410" tvg-name="Fuse HD US" tvg-logo="http://epg.one/img/8410.png" group-title="USA TV",Fuse HD US
+#EXTINF:-1 tvg-id="8410" tvg-name="Fuse HD US" tvg-logo="http://epg.one/img/8410.png" group-title="USA TV & CANADA TV"& CANADA TV",Fuse HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30081/index.m3u8
-#EXTINF:-1 tvg-id="8414" tvg-name="FYI HD US" tvg-logo="http://epg.one/img/8414.png" group-title="USA TV",FYI HD US
+#EXTINF:-1 tvg-id="8414" tvg-name="FYI HD US" tvg-logo="http://epg.one/img/8414.png" group-title="USA TV & CANADA TV"& CANADA TV",FYI HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30085/index.m3u8
-#EXTINF:-1 tvg-id="8418" tvg-name="Golf Channel HD US" tvg-logo="http://epg.one/img/8418.png" group-title="USA TV",Golf Channel HD US
+#EXTINF:-1 tvg-id="8418" tvg-name="Golf Channel HD US" tvg-logo="http://epg.one/img/8418.png" group-title="USA TV & CANADA TV"& CANADA TV",Golf Channel HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30089/index.m3u8
-#EXTINF:-1 tvg-id="8431" tvg-name="HDNet Movies HD US" tvg-logo="http://epg.one/img/8431.png" group-title="USA TV",HDNet Movies HD US
+#EXTINF:-1 tvg-id="8431" tvg-name="HDNet Movies HD US" tvg-logo="http://epg.one/img/8431.png" group-title="USA TV & CANADA TV"& CANADA TV",HDNet Movies HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30102/index.m3u8
-#EXTINF:-1 tvg-id="8434" tvg-name="History HD US" tvg-logo="http://epg.one/img/8434.png" group-title="USA TV",History HD US
+#EXTINF:-1 tvg-id="8434" tvg-name="History HD US" tvg-logo="http://epg.one/img/8434.png" group-title="USA TV & CANADA TV"& CANADA TV",History HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30105/index.m3u8
-#EXTINF:-1 tvg-id="8439" tvg-name="HSN2 HD US" tvg-logo="http://epg.one/img/8439.png" group-title="USA TV",HSN2 HD US
+#EXTINF:-1 tvg-id="8439" tvg-name="HSN2 HD US" tvg-logo="http://epg.one/img/8439.png" group-title="USA TV & CANADA TV"& CANADA TV",HSN2 HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30110/index.m3u8
-#EXTINF:-1 tvg-id="8440" tvg-name="i24 News HD US" tvg-logo="http://epg.one/img/8440.png" group-title="USA TV",i24 News HD US
+#EXTINF:-1 tvg-id="8440" tvg-name="i24 News HD US" tvg-logo="http://epg.one/img/8440.png" group-title="USA TV & CANADA TV"& CANADA TV",i24 News HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30111/index.m3u8
-#EXTINF:-1 tvg-id="8449" tvg-name="Justice Central.TV HD US" tvg-logo="http://epg.one/img/8449.png" group-title="USA TV",Justice Central.TV HD US
+#EXTINF:-1 tvg-id="8449" tvg-name="Justice Central.TV HD US" tvg-logo="http://epg.one/img/8449.png" group-title="USA TV & CANADA TV"& CANADA TV",Justice Central.TV HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30120/index.m3u8
-#EXTINF:-1 tvg-id="8451" tvg-name="Lifetime HD US" tvg-logo="http://epg.one/img/8451.png" group-title="USA TV",Lifetime HD US
+#EXTINF:-1 tvg-id="8451" tvg-name="Lifetime HD US" tvg-logo="http://epg.one/img/8451.png" group-title="USA TV & CANADA TV"& CANADA TV",Lifetime HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30122/index.m3u8
-#EXTINF:-1 tvg-id="8471" tvg-name="Movieplex HD US" tvg-logo="http://epg.one/img/8471.png" group-title="USA TV",Movieplex HD US
+#EXTINF:-1 tvg-id="8471" tvg-name="Movieplex HD US" tvg-logo="http://epg.one/img/8471.png" group-title="USA TV & CANADA TV"& CANADA TV",Movieplex HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30142/index.m3u8
-#EXTINF:-1 tvg-id="9188" tvg-name="Altitude Sports HD US" tvg-logo="http://epg.one/img/9188.png" group-title="USA TV",Altitude Sports HD US
+#EXTINF:-1 tvg-id="9188" tvg-name="Altitude Sports HD US" tvg-logo="http://epg.one/img/9188.png" group-title="USA TV & CANADA TV"& CANADA TV",Altitude Sports HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31000/index.m3u8
-#EXTINF:-1 tvg-id="8481" tvg-name="MTV2 HD US" tvg-logo="http://epg.one/img/8481.png" group-title="USA TV",MTV2 HD US
+#EXTINF:-1 tvg-id="8481" tvg-name="MTV2 HD US" tvg-logo="http://epg.one/img/8481.png" group-title="USA TV & CANADA TV"& CANADA TV",MTV2 HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31002/index.m3u8
-#EXTINF:-1 tvg-id="8488" tvg-name="Newsmax TV HD US" tvg-logo="http://epg.one/img/8488.png" group-title="USA TV",Newsmax TV HD US
+#EXTINF:-1 tvg-id="8488" tvg-name="Newsmax TV HD US" tvg-logo="http://epg.one/img/8488.png" group-title="USA TV & CANADA TV"& CANADA TV",Newsmax TV HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31009/index.m3u8
-#EXTINF:-1 tvg-id="8490" tvg-name="NFL Network US" tvg-logo="http://epg.one/img/8490.png" group-title="USA TV",NFL Network US
+#EXTINF:-1 tvg-id="8490" tvg-name="NFL Network US" tvg-logo="http://epg.one/img/8490.png" group-title="USA TV & CANADA TV"& CANADA TV",NFL Network US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31011/index.m3u8
-#EXTINF:-1 tvg-id="8491" tvg-name="NFL RedZone HD US" tvg-logo="http://epg.one/img/8491.png" group-title="USA TV",NFL RedZone HD US
+#EXTINF:-1 tvg-id="8491" tvg-name="NFL RedZone HD US" tvg-logo="http://epg.one/img/8491.png" group-title="USA TV & CANADA TV"& CANADA TV",NFL RedZone HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31012/index.m3u8
-#EXTINF:-1 tvg-id="9206" tvg-name="FanDuel Sports Southwest US" tvg-logo="http://epg.one/img/9206.png" group-title="USA TV",FanDuel Sports Southwest US
+#EXTINF:-1 tvg-id="9206" tvg-name="FanDuel Sports Southwest US" tvg-logo="http://epg.one/img/9206.png" group-title="USA TV & CANADA TV"& CANADA TV",FanDuel Sports Southwest US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31013/index.m3u8
-#EXTINF:-1 tvg-id="8493" tvg-name="Nick Jr. HD US" tvg-logo="http://epg.one/img/8493.png" group-title="USA TV",Nick Jr. HD US
+#EXTINF:-1 tvg-id="8493" tvg-name="Nick Jr. HD US" tvg-logo="http://epg.one/img/8493.png" group-title="USA TV & CANADA TV"& CANADA TV",Nick Jr. HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31014/index.m3u8
-#EXTINF:-1 tvg-id="9197" tvg-name="FanDuel Sports New Orleans HD US" tvg-logo="http://epg.one/img/9197.png" group-title="USA TV",FanDuel Sports New Orleans HD US
+#EXTINF:-1 tvg-id="9197" tvg-name="FanDuel Sports New Orleans HD US" tvg-logo="http://epg.one/img/9197.png" group-title="USA TV & CANADA TV"& CANADA TV",FanDuel Sports New Orleans HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31015/index.m3u8
-#EXTINF:-1 tvg-id="8495" tvg-name="NickToons HD US" tvg-logo="http://epg.one/img/8495.png" group-title="USA TV",NickToons HD US
+#EXTINF:-1 tvg-id="8495" tvg-name="NickToons HD US" tvg-logo="http://epg.one/img/8495.png" group-title="USA TV & CANADA TV"& CANADA TV",NickToons HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31016/index.m3u8
-#EXTINF:-1 tvg-id="322" tvg-name="Outdoor Channel US" tvg-logo="http://epg.one/img/322.png" group-title="USA TV",Outdoor Channel US
+#EXTINF:-1 tvg-id="322" tvg-name="Outdoor Channel US" tvg-logo="http://epg.one/img/322.png" group-title="USA TV & CANADA TV"& CANADA TV",Outdoor Channel US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31018/index.m3u8
-#EXTINF:-1 tvg-id="9199" tvg-name="FanDuel Sports Ohio HD US" tvg-logo="http://epg.one/img/9199.png" group-title="USA TV",FanDuel Sports Ohio HD US
+#EXTINF:-1 tvg-id="9199" tvg-name="FanDuel Sports Ohio HD US" tvg-logo="http://epg.one/img/9199.png" group-title="USA TV & CANADA TV"& CANADA TV",FanDuel Sports Ohio HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31019/index.m3u8
-#EXTINF:-1 tvg-id="8500" tvg-name="OWN HD US" tvg-logo="http://epg.one/img/8500.png" group-title="USA TV",OWN HD US
+#EXTINF:-1 tvg-id="8500" tvg-name="OWN HD US" tvg-logo="http://epg.one/img/8500.png" group-title="USA TV & CANADA TV"& CANADA TV",OWN HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31021/index.m3u8
-#EXTINF:-1 tvg-id="8508" tvg-name="Paramount Network HD US" tvg-logo="http://epg.one/img/8508.png" group-title="USA TV",Paramount Network HD US
+#EXTINF:-1 tvg-id="8508" tvg-name="Paramount Network HD US" tvg-logo="http://epg.one/img/8508.png" group-title="USA TV & CANADA TV"& CANADA TV",Paramount Network HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31029/index.m3u8
-#EXTINF:-1 tvg-id="9204" tvg-name="FanDuel Sports SoCal HD US" tvg-logo="http://epg.one/img/9204.png" group-title="USA TV",FanDuel Sports SoCal HD US
+#EXTINF:-1 tvg-id="9204" tvg-name="FanDuel Sports SoCal HD US" tvg-logo="http://epg.one/img/9204.png" group-title="USA TV & CANADA TV"& CANADA TV",FanDuel Sports SoCal HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31034/index.m3u8
-#EXTINF:-1 tvg-id="9205" tvg-name="FanDuel Sports Southeast HD US" tvg-logo="http://epg.one/img/9205.png" group-title="USA TV",FanDuel Sports Southeast HD US
+#EXTINF:-1 tvg-id="9205" tvg-name="FanDuel Sports Southeast HD US" tvg-logo="http://epg.one/img/9205.png" group-title="USA TV & CANADA TV"& CANADA TV",FanDuel Sports Southeast HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31035/index.m3u8
-#EXTINF:-1 tvg-id="6576" tvg-name="FanDuel Sports Sun HD US" tvg-logo="http://epg.one/img/6576.png" group-title="USA TV",FanDuel Sports Sun HD US
+#EXTINF:-1 tvg-id="6576" tvg-name="FanDuel Sports Sun HD US" tvg-logo="http://epg.one/img/6576.png" group-title="USA TV & CANADA TV"& CANADA TV",FanDuel Sports Sun HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31041/index.m3u8
-#EXTINF:-1 tvg-id="8521" tvg-name="Retroplex HD US" tvg-logo="http://epg.one/img/8521.png" group-title="USA TV",Retroplex HD US
+#EXTINF:-1 tvg-id="8521" tvg-name="Retroplex HD US" tvg-logo="http://epg.one/img/8521.png" group-title="USA TV & CANADA TV"& CANADA TV",Retroplex HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31042/index.m3u8
-#EXTINF:-1 tvg-id="9209" tvg-name="FanDuel Sports West HD US" tvg-logo="http://epg.one/img/9209.png" group-title="USA TV",FanDuel Sports West HD US
+#EXTINF:-1 tvg-id="9209" tvg-name="FanDuel Sports West HD US" tvg-logo="http://epg.one/img/9209.png" group-title="USA TV & CANADA TV"& CANADA TV",FanDuel Sports West HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31043/index.m3u8
-#EXTINF:-1 tvg-id="9211" tvg-name="FanDuel Sports Wisconsin HD US" tvg-logo="http://epg.one/img/9211.png" group-title="USA TV",FanDuel Sports Wisconsin HD US
+#EXTINF:-1 tvg-id="9211" tvg-name="FanDuel Sports Wisconsin HD US" tvg-logo="http://epg.one/img/9211.png" group-title="USA TV & CANADA TV"& CANADA TV",FanDuel Sports Wisconsin HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31046/index.m3u8
-#EXTINF:-1 tvg-id="9212" tvg-name="FanDuel Sports Wisconsin Plus HD US" tvg-logo="http://epg.one/img/9212.png" group-title="USA TV",FanDuel Sports Wisconsin Plus HD US
+#EXTINF:-1 tvg-id="9212" tvg-name="FanDuel Sports Wisconsin Plus HD US" tvg-logo="http://epg.one/img/9212.png" group-title="USA TV & CANADA TV"& CANADA TV",FanDuel Sports Wisconsin Plus HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31047/index.m3u8
-#EXTINF:-1 tvg-id="9213" tvg-name="beIN Sports US" tvg-logo="http://epg.one/img/9213.png" group-title="USA TV",beIN Sports US
+#EXTINF:-1 tvg-id="9213" tvg-name="beIN Sports US" tvg-logo="http://epg.one/img/9213.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31048/index.m3u8
-#EXTINF:-1 tvg-id="9216" tvg-name="beIN Sports 4 US" tvg-logo="http://epg.one/img/9216.png" group-title="USA TV",beIN Sports 4 US
+#EXTINF:-1 tvg-id="9216" tvg-name="beIN Sports 4 US" tvg-logo="http://epg.one/img/9216.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports 4 US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31051/index.m3u8
-#EXTINF:-1 tvg-id="9217" tvg-name="beIN Sports 5 US" tvg-logo="http://epg.one/img/9217.png" group-title="USA TV",beIN Sports 5 US
+#EXTINF:-1 tvg-id="9217" tvg-name="beIN Sports 5 US" tvg-logo="http://epg.one/img/9217.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports 5 US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31052/index.m3u8
-#EXTINF:-1 tvg-id="9218" tvg-name="beIN Sports 6 US" tvg-logo="http://epg.one/img/9218.png" group-title="USA TV",beIN Sports 6 US
+#EXTINF:-1 tvg-id="9218" tvg-name="beIN Sports 6 US" tvg-logo="http://epg.one/img/9218.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports 6 US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31053/index.m3u8
-#EXTINF:-1 tvg-id="9221" tvg-name="Monumental Sports Network HD US" tvg-logo="http://epg.one/img/9221.png" group-title="USA TV",Monumental Sports Network HD US
+#EXTINF:-1 tvg-id="9221" tvg-name="Monumental Sports Network HD US" tvg-logo="http://epg.one/img/9221.png" group-title="USA TV & CANADA TV"& CANADA TV",Monumental Sports Network HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31056/index.m3u8
-#EXTINF:-1 tvg-id="8540" tvg-name="Smithsonian Channel HD US" tvg-logo="http://epg.one/img/8540.png" group-title="USA TV",Smithsonian Channel HD US
+#EXTINF:-1 tvg-id="8540" tvg-name="Smithsonian Channel HD US" tvg-logo="http://epg.one/img/8540.png" group-title="USA TV & CANADA TV"& CANADA TV",Smithsonian Channel HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31061/index.m3u8
-#EXTINF:-1 tvg-id="2344" tvg-name="TBS HD US" tvg-logo="http://epg.one/img/2344.png" group-title="USA TV",TBS HD US
+#EXTINF:-1 tvg-id="2344" tvg-name="TBS HD US" tvg-logo="http://epg.one/img/2344.png" group-title="USA TV & CANADA TV"& CANADA TV",TBS HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31083/index.m3u8
-#EXTINF:-1 tvg-id="8563" tvg-name="TCM HD US" tvg-logo="http://epg.one/img/8563.png" group-title="USA TV",TCM HD US
+#EXTINF:-1 tvg-id="8563" tvg-name="TCM HD US" tvg-logo="http://epg.one/img/8563.png" group-title="USA TV & CANADA TV"& CANADA TV",TCM HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31084/index.m3u8
-#EXTINF:-1 tvg-id="2345" tvg-name="TLC US" tvg-logo="http://epg.one/img/2345.png" group-title="USA TV",TLC US
+#EXTINF:-1 tvg-id="2345" tvg-name="TLC US" tvg-logo="http://epg.one/img/2345.png" group-title="USA TV & CANADA TV"& CANADA TV",TLC US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31098/index.m3u8
-#EXTINF:-1 tvg-id="8582" tvg-name="TUDN HD US" tvg-logo="http://epg.one/img/8582.png" group-title="USA TV",TUDN HD US
+#EXTINF:-1 tvg-id="8582" tvg-name="TUDN HD US" tvg-logo="http://epg.one/img/8582.png" group-title="USA TV & CANADA TV"& CANADA TV",TUDN HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31103/index.m3u8
-#EXTINF:-1 tvg-id="8589" tvg-name="FanDuel TV HD US" tvg-logo="http://epg.one/img/8589.png" group-title="USA TV",FanDuel TV HD US
+#EXTINF:-1 tvg-id="8589" tvg-name="FanDuel TV HD US" tvg-logo="http://epg.one/img/8589.png" group-title="USA TV & CANADA TV"& CANADA TV",FanDuel TV HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31110/index.m3u8
-#EXTINF:-1 tvg-id="8599" tvg-name="Universo HD US" tvg-logo="http://epg.one/img/8599.png" group-title="USA TV",Universo HD US
+#EXTINF:-1 tvg-id="8599" tvg-name="Universo HD US" tvg-logo="http://epg.one/img/8599.png" group-title="USA TV & CANADA TV"& CANADA TV",Universo HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31120/index.m3u8
-#EXTINF:-1 tvg-id="2342" tvg-name="USA US" tvg-logo="http://epg.one/img/2342.png" group-title="USA TV",USA US
+#EXTINF:-1 tvg-id="2342" tvg-name="USA US" tvg-logo="http://epg.one/img/2342.png" group-title="USA TV & CANADA TV"& CANADA TV",USA US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31124/index.m3u8
-#EXTINF:-1 tvg-id="8610" tvg-name="Willow HD US" tvg-logo="http://epg.one/img/8610.png" group-title="USA TV",Willow HD US
+#EXTINF:-1 tvg-id="8610" tvg-name="Willow HD US" tvg-logo="http://epg.one/img/8610.png" group-title="USA TV & CANADA TV"& CANADA TV",Willow HD US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31131/index.m3u8
-#EXTINF:-1 tvg-id="4558" tvg-name="Fox Sports 1 US" tvg-logo="http://epg.one/img/4558.png" group-title="USA TV",Fox Sports 1 US
+#EXTINF:-1 tvg-id="4558" tvg-name="Fox Sports 1 US" tvg-logo="http://epg.one/img/4558.png" group-title="USA TV & CANADA TV"& CANADA TV",Fox Sports 1 US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32033/index.m3u8
-#EXTINF:-1 tvg-id="6513" tvg-name="ESPN US" tvg-logo="http://epg.one/img/6513.png" group-title="USA TV",ESPN US
+#EXTINF:-1 tvg-id="6513" tvg-name="ESPN US" tvg-logo="http://epg.one/img/6513.png" group-title="USA TV & CANADA TV"& CANADA TV",ESPN US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32034/index.m3u8
-#EXTINF:-1 tvg-id="2270" tvg-name="CNN International Europe HD" tvg-logo="http://epg.one/img/2270.png" group-title="USA TV",CNN International Europe HD
+#EXTINF:-1 tvg-id="2270" tvg-name="CNN International Europe HD" tvg-logo="http://epg.one/img/2270.png" group-title="USA TV & CANADA TV"& CANADA TV",CNN International Europe HD
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32068/index.m3u8
-#EXTINF:-1 tvg-id="2270" tvg-name="CNN US" tvg-logo="http://epg.one/img/2270.png" group-title="USA TV",CNN US
+#EXTINF:-1 tvg-id="2270" tvg-name="CNN US" tvg-logo="http://epg.one/img/2270.png" group-title="USA TV & CANADA TV"& CANADA TV",CNN US
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32073/index.m3u8
-
-# ==============================
-# Canada
-# ==============================
-
-#EXTINF:-1 tvg-id="2347" tvg-name="A&E CA" tvg-logo="http://epg.one/img/2347.png" group-title="Canada",A&E CA
+#EXTINF:-1 tvg-id="2347" tvg-name="A&E CA" tvg-logo="http://epg.one/img/2347.png" group-title="USA TV & CANADA TV"& CANADA TV",A&E CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6419/index.m3u8
-#EXTINF:-1 tvg-id="3566" tvg-name="CBC Gem (St. John's) CA" tvg-logo="http://epg.one/img/3566.png" group-title="Canada",CBC Gem (St. John's) CA
+#EXTINF:-1 tvg-id="3566" tvg-name="CBC Gem (St. John's) CA" tvg-logo="http://epg.one/img/3566.png" group-title="USA TV & CANADA TV"& CANADA TV",CBC Gem (St. John's) CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6422/index.m3u8
-#EXTINF:-1 tvg-id="3567" tvg-name="CTV 2 CA" tvg-logo="http://epg.one/img/3567.png" group-title="Canada",CTV 2 CA
+#EXTINF:-1 tvg-id="3567" tvg-name="CTV 2 CA" tvg-logo="http://epg.one/img/3567.png" group-title="USA TV & CANADA TV"& CANADA TV",CTV 2 CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6423/index.m3u8
-#EXTINF:-1 tvg-id="3568" tvg-name="NFL Network CA" tvg-logo="http://epg.one/img/3568.png" group-title="Canada",NFL Network CA
+#EXTINF:-1 tvg-id="3568" tvg-name="NFL Network CA" tvg-logo="http://epg.one/img/3568.png" group-title="USA TV & CANADA TV"& CANADA TV",NFL Network CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6424/index.m3u8
-#EXTINF:-1 tvg-id="3569" tvg-name="ICI RDI HD CA" tvg-logo="http://epg.one/img/3569.png" group-title="Canada",ICI RDI HD CA
+#EXTINF:-1 tvg-id="3569" tvg-name="ICI RDI HD CA" tvg-logo="http://epg.one/img/3569.png" group-title="USA TV & CANADA TV"& CANADA TV",ICI RDI HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6425/index.m3u8
-#EXTINF:-1 tvg-id="3571" tvg-name="Global Toronto HD CA" tvg-logo="http://epg.one/img/3571.png" group-title="Canada",Global Toronto HD CA
+#EXTINF:-1 tvg-id="3571" tvg-name="Global Toronto HD CA" tvg-logo="http://epg.one/img/3571.png" group-title="USA TV & CANADA TV"& CANADA TV",Global Toronto HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6427/index.m3u8
-#EXTINF:-1 tvg-id="3572" tvg-name="OMNI.1 HD CA" tvg-logo="http://epg.one/img/3572.png" group-title="Canada",OMNI.1 HD CA
+#EXTINF:-1 tvg-id="3572" tvg-name="OMNI.1 HD CA" tvg-logo="http://epg.one/img/3572.png" group-title="USA TV & CANADA TV"& CANADA TV",OMNI.1 HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6428/index.m3u8
-#EXTINF:-1 tvg-id="3573" tvg-name="City TV Toronto HD CA" tvg-logo="http://epg.one/img/3573.png" group-title="Canada",City TV Toronto HD CA
+#EXTINF:-1 tvg-id="3573" tvg-name="City TV Toronto HD CA" tvg-logo="http://epg.one/img/3573.png" group-title="USA TV & CANADA TV"& CANADA TV",City TV Toronto HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6429/index.m3u8
-#EXTINF:-1 tvg-id="3574" tvg-name="Yes TV HD CA" tvg-logo="http://epg.one/img/3574.png" group-title="Canada",Yes TV HD CA
+#EXTINF:-1 tvg-id="3574" tvg-name="Yes TV HD CA" tvg-logo="http://epg.one/img/3574.png" group-title="USA TV & CANADA TV"& CANADA TV",Yes TV HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6431/index.m3u8
-#EXTINF:-1 tvg-id="3575" tvg-name="CHCH HD CA" tvg-logo="http://epg.one/img/3575.png" group-title="Canada",CHCH HD CA
+#EXTINF:-1 tvg-id="3575" tvg-name="CHCH HD CA" tvg-logo="http://epg.one/img/3575.png" group-title="USA TV & CANADA TV"& CANADA TV",CHCH HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6432/index.m3u8
-#EXTINF:-1 tvg-id="3576" tvg-name="TFO HD CA" tvg-logo="http://epg.one/img/3576.png" group-title="Canada",TFO HD CA
+#EXTINF:-1 tvg-id="3576" tvg-name="TFO HD CA" tvg-logo="http://epg.one/img/3576.png" group-title="USA TV & CANADA TV"& CANADA TV",TFO HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6433/index.m3u8
-#EXTINF:-1 tvg-id="3577" tvg-name="OMNI.2 HD CA" tvg-logo="http://epg.one/img/3577.png" group-title="Canada",OMNI.2 HD CA
+#EXTINF:-1 tvg-id="3577" tvg-name="OMNI.2 HD CA" tvg-logo="http://epg.one/img/3577.png" group-title="USA TV & CANADA TV"& CANADA TV",OMNI.2 HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6434/index.m3u8
-#EXTINF:-1 tvg-id="3578" tvg-name="FX HD CA" tvg-logo="http://epg.one/img/3578.png" group-title="Canada",FX HD CA
+#EXTINF:-1 tvg-id="3578" tvg-name="FX HD CA" tvg-logo="http://epg.one/img/3578.png" group-title="USA TV & CANADA TV"& CANADA TV",FX HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6435/index.m3u8
-#EXTINF:-1 tvg-id="3567" tvg-name="CTV 2 HD CA" tvg-logo="http://epg.one/img/3567.png" group-title="Canada",CTV 2 HD CA
+#EXTINF:-1 tvg-id="3567" tvg-name="CTV 2 HD CA" tvg-logo="http://epg.one/img/3567.png" group-title="USA TV & CANADA TV"& CANADA TV",CTV 2 HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6437/index.m3u8
-#EXTINF:-1 tvg-id="3581" tvg-name="Sportsnet ONE HD CA" tvg-logo="http://epg.one/img/3581.png" group-title="Canada",Sportsnet ONE HD CA
+#EXTINF:-1 tvg-id="3581" tvg-name="Sportsnet ONE HD CA" tvg-logo="http://epg.one/img/3581.png" group-title="USA TV & CANADA TV"& CANADA TV",Sportsnet ONE HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6438/index.m3u8
-#EXTINF:-1 tvg-id="3582" tvg-name="Sportsnet Ontario HD CA" tvg-logo="http://epg.one/img/3582.png" group-title="Canada",Sportsnet Ontario HD CA
+#EXTINF:-1 tvg-id="3582" tvg-name="Sportsnet Ontario HD CA" tvg-logo="http://epg.one/img/3582.png" group-title="USA TV & CANADA TV"& CANADA TV",Sportsnet Ontario HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6439/index.m3u8
-#EXTINF:-1 tvg-id="3584" tvg-name="YTV HD CA" tvg-logo="http://epg.one/img/3584.png" group-title="Canada",YTV HD CA
+#EXTINF:-1 tvg-id="3584" tvg-name="YTV HD CA" tvg-logo="http://epg.one/img/3584.png" group-title="USA TV & CANADA TV"& CANADA TV",YTV HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6441/index.m3u8
-#EXTINF:-1 tvg-id="3585" tvg-name="CBC News Network HD CA" tvg-logo="http://epg.one/img/3585.png" group-title="Canada",CBC News Network HD CA
+#EXTINF:-1 tvg-id="3585" tvg-name="CBC News Network HD CA" tvg-logo="http://epg.one/img/3585.png" group-title="USA TV & CANADA TV"& CANADA TV",CBC News Network HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6442/index.m3u8
-#EXTINF:-1 tvg-id="3586" tvg-name="W Network HD CA" tvg-logo="http://epg.one/img/3586.png" group-title="Canada",W Network HD CA
+#EXTINF:-1 tvg-id="3586" tvg-name="W Network HD CA" tvg-logo="http://epg.one/img/3586.png" group-title="USA TV & CANADA TV"& CANADA TV",W Network HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6443/index.m3u8
-#EXTINF:-1 tvg-id="3588" tvg-name="TSN 4 HD CA" tvg-logo="http://epg.one/img/3588.png" group-title="Canada",TSN 4 HD CA
+#EXTINF:-1 tvg-id="3588" tvg-name="TSN 4 HD CA" tvg-logo="http://epg.one/img/3588.png" group-title="USA TV & CANADA TV"& CANADA TV",TSN 4 HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6445/index.m3u8
-#EXTINF:-1 tvg-id="3666" tvg-name="TLC HD CA" tvg-logo="http://epg.one/img/3666.png" group-title="Canada",TLC HD CA
+#EXTINF:-1 tvg-id="3666" tvg-name="TLC HD CA" tvg-logo="http://epg.one/img/3666.png" group-title="USA TV & CANADA TV"& CANADA TV",TLC HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6446/index.m3u8
-#EXTINF:-1 tvg-id="3590" tvg-name="OLN HD CA" tvg-logo="http://epg.one/img/3590.png" group-title="Canada",OLN HD CA
+#EXTINF:-1 tvg-id="3590" tvg-name="OLN HD CA" tvg-logo="http://epg.one/img/3590.png" group-title="USA TV & CANADA TV"& CANADA TV",OLN HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6447/index.m3u8
-#EXTINF:-1 tvg-id="3591" tvg-name="CMT Canada CA" tvg-logo="http://epg.one/img/3591.png" group-title="Canada",CMT Canada CA
+#EXTINF:-1 tvg-id="3591" tvg-name="CMT Canada CA" tvg-logo="http://epg.one/img/3591.png" group-title="USA TV & CANADA TV"& CANADA TV",CMT Canada CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6448/index.m3u8
-#EXTINF:-1 tvg-id="3592" tvg-name="Showcase HD CA" tvg-logo="http://epg.one/img/3592.png" group-title="Canada",Showcase HD CA
+#EXTINF:-1 tvg-id="3592" tvg-name="Showcase HD CA" tvg-logo="http://epg.one/img/3592.png" group-title="USA TV & CANADA TV"& CANADA TV",Showcase HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6449/index.m3u8
-#EXTINF:-1 tvg-id="3593" tvg-name="CTV Drama HD CA" tvg-logo="http://epg.one/img/3593.png" group-title="Canada",CTV Drama HD CA
+#EXTINF:-1 tvg-id="3593" tvg-name="CTV Drama HD CA" tvg-logo="http://epg.one/img/3593.png" group-title="USA TV & CANADA TV"& CANADA TV",CTV Drama HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6450/index.m3u8
-#EXTINF:-1 tvg-id="3594" tvg-name="Slice HD CA" tvg-logo="http://epg.one/img/3594.png" group-title="Canada",Slice HD CA
+#EXTINF:-1 tvg-id="3594" tvg-name="Slice HD CA" tvg-logo="http://epg.one/img/3594.png" group-title="USA TV & CANADA TV"& CANADA TV",Slice HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6451/index.m3u8
-#EXTINF:-1 tvg-id="3595" tvg-name="Discovery Channel HD CA" tvg-logo="http://epg.one/img/325.png" group-title="Canada",Discovery Channel HD CA
+#EXTINF:-1 tvg-id="3595" tvg-name="Discovery Channel HD CA" tvg-logo="http://epg.one/img/325.png" group-title="USA TV & CANADA TV"& CANADA TV",Discovery Channel HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6452/index.m3u8
-#EXTINF:-1 tvg-id="3596" tvg-name="History HD CA" tvg-logo="http://epg.one/img/3596.png" group-title="Canada",History HD CA
+#EXTINF:-1 tvg-id="3596" tvg-name="History HD CA" tvg-logo="http://epg.one/img/3596.png" group-title="USA TV & CANADA TV"& CANADA TV",History HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6453/index.m3u8
-#EXTINF:-1 tvg-id="3597" tvg-name="CTV Comedy HD CA" tvg-logo="http://epg.one/img/3597.png" group-title="Canada",CTV Comedy HD CA
+#EXTINF:-1 tvg-id="3597" tvg-name="CTV Comedy HD CA" tvg-logo="http://epg.one/img/3597.png" group-title="USA TV & CANADA TV"& CANADA TV",CTV Comedy HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6454/index.m3u8
-#EXTINF:-1 tvg-id="3598" tvg-name="Teletoon HD CA" tvg-logo="http://epg.one/img/3598.png" group-title="Canada",Teletoon HD CA
+#EXTINF:-1 tvg-id="3598" tvg-name="Teletoon HD CA" tvg-logo="http://epg.one/img/3598.png" group-title="USA TV & CANADA TV"& CANADA TV",Teletoon HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6455/index.m3u8
-#EXTINF:-1 tvg-id="3600" tvg-name="Peachtree TV HD CA" tvg-logo="http://epg.one/img/3600.png" group-title="Canada",Peachtree TV HD CA
+#EXTINF:-1 tvg-id="3600" tvg-name="Peachtree TV HD CA" tvg-logo="http://epg.one/img/3600.png" group-title="USA TV & CANADA TV"& CANADA TV",Peachtree TV HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6457/index.m3u8
-#EXTINF:-1 tvg-id="3601" tvg-name="TCM HD CA" tvg-logo="http://epg.one/img/3601.png" group-title="Canada",TCM HD CA
+#EXTINF:-1 tvg-id="3601" tvg-name="TCM HD CA" tvg-logo="http://epg.one/img/3601.png" group-title="USA TV & CANADA TV"& CANADA TV",TCM HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6458/index.m3u8
-#EXTINF:-1 tvg-id="3602" tvg-name="CTV SCI-FI HD CA" tvg-logo="http://epg.one/img/3602.png" group-title="Canada",CTV SCI-FI HD CA
+#EXTINF:-1 tvg-id="3602" tvg-name="CTV SCI-FI HD CA" tvg-logo="http://epg.one/img/3602.png" group-title="USA TV & CANADA TV"& CANADA TV",CTV SCI-FI HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6459/index.m3u8
-#EXTINF:-1 tvg-id="3605" tvg-name="Sportsnet 360 HD CA" tvg-logo="http://epg.one/img/3605.png" group-title="Canada",Sportsnet 360 HD CA
+#EXTINF:-1 tvg-id="3605" tvg-name="Sportsnet 360 HD CA" tvg-logo="http://epg.one/img/3605.png" group-title="USA TV & CANADA TV"& CANADA TV",Sportsnet 360 HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6462/index.m3u8
-#EXTINF:-1 tvg-id="3607" tvg-name="Food Network HD CA" tvg-logo="http://epg.one/img/3607.png" group-title="Canada",Food Network HD CA
+#EXTINF:-1 tvg-id="3607" tvg-name="Food Network HD CA" tvg-logo="http://epg.one/img/3607.png" group-title="USA TV & CANADA TV"& CANADA TV",Food Network HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6464/index.m3u8
-#EXTINF:-1 tvg-id="3608" tvg-name="BNN Bloomberg HD CA" tvg-logo="http://epg.one/img/3608.png" group-title="Canada",BNN Bloomberg HD CA
+#EXTINF:-1 tvg-id="3608" tvg-name="BNN Bloomberg HD CA" tvg-logo="http://epg.one/img/3608.png" group-title="USA TV & CANADA TV"& CANADA TV",BNN Bloomberg HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6465/index.m3u8
-#EXTINF:-1 tvg-id="3610" tvg-name="Vision TV CA" tvg-logo="http://epg.one/img/3610.png" group-title="Canada",Vision TV CA
+#EXTINF:-1 tvg-id="3610" tvg-name="Vision TV CA" tvg-logo="http://epg.one/img/3610.png" group-title="USA TV & CANADA TV"& CANADA TV",Vision TV CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6467/index.m3u8
-#EXTINF:-1 tvg-id="3611" tvg-name="CTV News Channel HD CA" tvg-logo="http://epg.one/img/3611.png" group-title="Canada",CTV News Channel HD CA
+#EXTINF:-1 tvg-id="3611" tvg-name="CTV News Channel HD CA" tvg-logo="http://epg.one/img/3611.png" group-title="USA TV & CANADA TV"& CANADA TV",CTV News Channel HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6468/index.m3u8
-#EXTINF:-1 tvg-id="3612" tvg-name="E! HD CA" tvg-logo="http://epg.one/img/3612.png" group-title="Canada",E! HD CA
+#EXTINF:-1 tvg-id="3612" tvg-name="E! HD CA" tvg-logo="http://epg.one/img/3612.png" group-title="USA TV & CANADA TV"& CANADA TV",E! HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6469/index.m3u8
-#EXTINF:-1 tvg-id="3613" tvg-name="FXX HDTV CA" tvg-logo="http://epg.one/img/3613.png" group-title="Canada",FXX HDTV CA
+#EXTINF:-1 tvg-id="3613" tvg-name="FXX HDTV CA" tvg-logo="http://epg.one/img/3613.png" group-title="USA TV & CANADA TV"& CANADA TV",FXX HDTV CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6470/index.m3u8
-#EXTINF:-1 tvg-id="3614" tvg-name="Treehouse HD CA" tvg-logo="http://epg.one/img/3614.png" group-title="Canada",Treehouse HD CA
+#EXTINF:-1 tvg-id="3614" tvg-name="Treehouse HD CA" tvg-logo="http://epg.one/img/3614.png" group-title="USA TV & CANADA TV"& CANADA TV",Treehouse HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6471/index.m3u8
-#EXTINF:-1 tvg-id="3618" tvg-name="OWN HD CA" tvg-logo="http://epg.one/img/3618.png" group-title="Canada",OWN HD CA
+#EXTINF:-1 tvg-id="3618" tvg-name="OWN HD CA" tvg-logo="http://epg.one/img/3618.png" group-title="USA TV & CANADA TV"& CANADA TV",OWN HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6475/index.m3u8
-#EXTINF:-1 tvg-id="3619" tvg-name="Game TV CA" tvg-logo="http://epg.one/img/3619.png" group-title="Canada",Game TV CA
+#EXTINF:-1 tvg-id="3619" tvg-name="Game TV CA" tvg-logo="http://epg.one/img/3619.png" group-title="USA TV & CANADA TV"& CANADA TV",Game TV CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6476/index.m3u8
-#EXTINF:-1 tvg-id="3620" tvg-name="Sportsnet East HD CA" tvg-logo="http://epg.one/img/3620.png" group-title="Canada",Sportsnet East HD CA
+#EXTINF:-1 tvg-id="3620" tvg-name="Sportsnet East HD CA" tvg-logo="http://epg.one/img/3620.png" group-title="USA TV & CANADA TV"& CANADA TV",Sportsnet East HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6477/index.m3u8
-#EXTINF:-1 tvg-id="3621" tvg-name="Sportsnet West HD CA" tvg-logo="http://epg.one/img/3621.png" group-title="Canada",Sportsnet West HD CA
+#EXTINF:-1 tvg-id="3621" tvg-name="Sportsnet West HD CA" tvg-logo="http://epg.one/img/3621.png" group-title="USA TV & CANADA TV"& CANADA TV",Sportsnet West HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6478/index.m3u8
-#EXTINF:-1 tvg-id="3622" tvg-name="Sportsnet Pacific HD CA" tvg-logo="http://epg.one/img/3622.png" group-title="Canada",Sportsnet Pacific HD CA
+#EXTINF:-1 tvg-id="3622" tvg-name="Sportsnet Pacific HD CA" tvg-logo="http://epg.one/img/3622.png" group-title="USA TV & CANADA TV"& CANADA TV",Sportsnet Pacific HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6479/index.m3u8
-#EXTINF:-1 tvg-id="3624" tvg-name="Golf Channel HD CA" tvg-logo="http://epg.one/img/3624.png" group-title="Canada",Golf Channel HD CA
+#EXTINF:-1 tvg-id="3624" tvg-name="Golf Channel HD CA" tvg-logo="http://epg.one/img/3624.png" group-title="USA TV & CANADA TV"& CANADA TV",Golf Channel HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6481/index.m3u8
-#EXTINF:-1 tvg-id="3625" tvg-name="CNBC Canada CA" tvg-logo="http://epg.one/img/3625.png" group-title="Canada",CNBC Canada CA
+#EXTINF:-1 tvg-id="3625" tvg-name="CNBC Canada CA" tvg-logo="http://epg.one/img/3625.png" group-title="USA TV & CANADA TV"& CANADA TV",CNBC Canada CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6482/index.m3u8
-#EXTINF:-1 tvg-id="3627" tvg-name="Lifetime HD CA" tvg-logo="http://epg.one/img/3627.png" group-title="Canada",Lifetime HD CA
+#EXTINF:-1 tvg-id="3627" tvg-name="Lifetime HD CA" tvg-logo="http://epg.one/img/3627.png" group-title="USA TV & CANADA TV"& CANADA TV",Lifetime HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6484/index.m3u8
-#EXTINF:-1 tvg-id="3629" tvg-name="MovieTime HD CA" tvg-logo="http://epg.one/img/3629.png" group-title="Canada",MovieTime HD CA
+#EXTINF:-1 tvg-id="3629" tvg-name="MovieTime HD CA" tvg-logo="http://epg.one/img/3629.png" group-title="USA TV & CANADA TV"& CANADA TV",MovieTime HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6486/index.m3u8
-#EXTINF:-1 tvg-id="8457" tvg-name="Magnolia Network CA" tvg-logo="http://epg.one/img/8457.png" group-title="Canada",Magnolia Network CA
+#EXTINF:-1 tvg-id="8457" tvg-name="Magnolia Network CA" tvg-logo="http://epg.one/img/8457.png" group-title="USA TV & CANADA TV"& CANADA TV",Magnolia Network CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6488/index.m3u8
-#EXTINF:-1 tvg-id="3633" tvg-name="Disney Channel HD CA" tvg-logo="http://epg.one/img/3633.png" group-title="Canada",Disney Channel HD CA
+#EXTINF:-1 tvg-id="3633" tvg-name="Disney Channel HD CA" tvg-logo="http://epg.one/img/3633.png" group-title="USA TV & CANADA TV"& CANADA TV",Disney Channel HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6490/index.m3u8
-#EXTINF:-1 tvg-id="3634" tvg-name="NBA TV Canada CA" tvg-logo="http://epg.one/img/3634.png" group-title="Canada",NBA TV Canada CA
+#EXTINF:-1 tvg-id="3634" tvg-name="NBA TV Canada CA" tvg-logo="http://epg.one/img/3634.png" group-title="USA TV & CANADA TV"& CANADA TV",NBA TV Canada CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6491/index.m3u8
-#EXTINF:-1 tvg-id="3635" tvg-name="TSN 2 HD CA" tvg-logo="http://epg.one/img/3635.png" group-title="Canada",TSN 2 HD CA
+#EXTINF:-1 tvg-id="3635" tvg-name="TSN 2 HD CA" tvg-logo="http://epg.one/img/3635.png" group-title="USA TV & CANADA TV"& CANADA TV",TSN 2 HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6492/index.m3u8
-#EXTINF:-1 tvg-id="3637" tvg-name="CPAC English CA" tvg-logo="http://epg.one/img/3637.png" group-title="Canada",CPAC English CA
+#EXTINF:-1 tvg-id="3637" tvg-name="CPAC English CA" tvg-logo="http://epg.one/img/3637.png" group-title="USA TV & CANADA TV"& CANADA TV",CPAC English CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6494/index.m3u8
-#EXTINF:-1 tvg-id="3638" tvg-name="Makeful CA" tvg-logo="http://epg.one/img/3638.png" group-title="Canada",Makeful CA
+#EXTINF:-1 tvg-id="3638" tvg-name="Makeful CA" tvg-logo="http://epg.one/img/3638.png" group-title="USA TV & CANADA TV"& CANADA TV",Makeful CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6495/index.m3u8
-#EXTINF:-1 tvg-id="3639" tvg-name="CTV Toronto CA" tvg-logo="http://epg.one/img/3639.png" group-title="Canada",CTV Toronto CA
+#EXTINF:-1 tvg-id="3639" tvg-name="CTV Toronto CA" tvg-logo="http://epg.one/img/3639.png" group-title="USA TV & CANADA TV"& CANADA TV",CTV Toronto CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6496/index.m3u8
-#EXTINF:-1 tvg-id="3640" tvg-name="CBC Toronto CA" tvg-logo="http://epg.one/img/3640.png" group-title="Canada",CBC Toronto CA
+#EXTINF:-1 tvg-id="3640" tvg-name="CBC Toronto CA" tvg-logo="http://epg.one/img/3640.png" group-title="USA TV & CANADA TV"& CANADA TV",CBC Toronto CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6497/index.m3u8
-#EXTINF:-1 tvg-id="3641" tvg-name="CNN CA" tvg-logo="http://epg.one/img/3641.png" group-title="Canada",CNN CA
+#EXTINF:-1 tvg-id="3641" tvg-name="CNN CA" tvg-logo="http://epg.one/img/3641.png" group-title="USA TV & CANADA TV"& CANADA TV",CNN CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6499/index.m3u8
-#EXTINF:-1 tvg-id="3642" tvg-name="HLN CA" tvg-logo="http://epg.one/img/3642.png" group-title="Canada",HLN CA
+#EXTINF:-1 tvg-id="3642" tvg-name="HLN CA" tvg-logo="http://epg.one/img/3642.png" group-title="USA TV & CANADA TV"& CANADA TV",HLN CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6500/index.m3u8
-#EXTINF:-1 tvg-id="3643" tvg-name="CP 24 CA" tvg-logo="http://epg.one/img/3643.png" group-title="Canada",CP 24 CA
+#EXTINF:-1 tvg-id="3643" tvg-name="CP 24 CA" tvg-logo="http://epg.one/img/3643.png" group-title="USA TV & CANADA TV"& CANADA TV",CP 24 CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6501/index.m3u8
-#EXTINF:-1 tvg-id="3644" tvg-name="Treehouse TV CA" tvg-logo="http://epg.one/img/3644.png" group-title="Canada",Treehouse TV CA
+#EXTINF:-1 tvg-id="3644" tvg-name="Treehouse TV CA" tvg-logo="http://epg.one/img/3644.png" group-title="USA TV & CANADA TV"& CANADA TV",Treehouse TV CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6502/index.m3u8
-#EXTINF:-1 tvg-id="3645" tvg-name="Disney XD CA" tvg-logo="http://epg.one/img/3645.png" group-title="Canada",Disney XD CA
+#EXTINF:-1 tvg-id="3645" tvg-name="Disney XD CA" tvg-logo="http://epg.one/img/3645.png" group-title="USA TV & CANADA TV"& CANADA TV",Disney XD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6503/index.m3u8
-#EXTINF:-1 tvg-id="3646" tvg-name="Nickelodeon CA" tvg-logo="http://epg.one/img/3646.png" group-title="Canada",Nickelodeon CA
+#EXTINF:-1 tvg-id="3646" tvg-name="Nickelodeon CA" tvg-logo="http://epg.one/img/3646.png" group-title="USA TV & CANADA TV"& CANADA TV",Nickelodeon CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6504/index.m3u8
-#EXTINF:-1 tvg-id="3649" tvg-name="WKBW-TV (ABC) HD CA" tvg-logo="http://epg.one/img/3649.png" group-title="Canada",WKBW-TV (ABC) HD CA
+#EXTINF:-1 tvg-id="3649" tvg-name="WKBW-TV (ABC) HD CA" tvg-logo="http://epg.one/img/3649.png" group-title="USA TV & CANADA TV"& CANADA TV",WKBW-TV (ABC) HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6507/index.m3u8
-#EXTINF:-1 tvg-id="3648" tvg-name="Crime + Investigation CA" tvg-logo="http://epg.one/img/3648.png" group-title="Canada",Crime + Investigation CA
+#EXTINF:-1 tvg-id="3648" tvg-name="Crime + Investigation CA" tvg-logo="http://epg.one/img/3648.png" group-title="USA TV & CANADA TV"& CANADA TV",Crime + Investigation CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6506/index.m3u8
-#EXTINF:-1 tvg-id="3650" tvg-name="Cartoon Network CA" tvg-logo="http://epg.one/img/3650.png" group-title="Canada",Cartoon Network CA
+#EXTINF:-1 tvg-id="3650" tvg-name="Cartoon Network CA" tvg-logo="http://epg.one/img/3650.png" group-title="USA TV & CANADA TV"& CANADA TV",Cartoon Network CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6508/index.m3u8
-#EXTINF:-1 tvg-id="3652" tvg-name="AMC CA" tvg-logo="http://epg.one/img/3652.png" group-title="Canada",AMC CA
+#EXTINF:-1 tvg-id="3652" tvg-name="AMC CA" tvg-logo="http://epg.one/img/3652.png" group-title="USA TV & CANADA TV"& CANADA TV",AMC CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6510/index.m3u8
-#EXTINF:-1 tvg-id="3651" tvg-name="TCM CA" tvg-logo="http://epg.one/img/3651.png" group-title="Canada",TCM CA
+#EXTINF:-1 tvg-id="3651" tvg-name="TCM CA" tvg-logo="http://epg.one/img/3651.png" group-title="USA TV & CANADA TV"& CANADA TV",TCM CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6509/index.m3u8
-#EXTINF:-1 tvg-id="3654" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="Canada",MLB Network HD CA
+#EXTINF:-1 tvg-id="3654" tvg-name="MLB Network HD CA" tvg-logo="http://epg.one/img/3654.png" group-title="USA TV & CANADA TV"& CANADA TV",MLB Network HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6512/index.m3u8
-#EXTINF:-1 tvg-id="3640" tvg-name="CBC Toronto HD CA" tvg-logo="http://epg.one/img/3640.png" group-title="Canada",CBC Toronto HD CA
+#EXTINF:-1 tvg-id="3640" tvg-name="CBC Toronto HD CA" tvg-logo="http://epg.one/img/3640.png" group-title="USA TV & CANADA TV"& CANADA TV",CBC Toronto HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6513/index.m3u8
-#EXTINF:-1 tvg-id="3657" tvg-name="ICI Radio-Canada Télé CA" tvg-logo="http://epg.one/img/3657.png" group-title="Canada",ICI Radio-Canada Télé CA
+#EXTINF:-1 tvg-id="3657" tvg-name="ICI Radio-Canada Télé CA" tvg-logo="http://epg.one/img/3657.png" group-title="USA TV & CANADA TV"& CANADA TV",ICI Radio-Canada Télé CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6515/index.m3u8
-#EXTINF:-1 tvg-id="1031" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="Canada",FX
+#EXTINF:-1 tvg-id="1031" tvg-name="FX" tvg-logo="http://epg.one/img/1031.png" group-title="USA TV & CANADA TV"& CANADA TV",FX
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6516/index.m3u8
-#EXTINF:-1 tvg-id="88030" tvg-name="TSN 5 HD CA" tvg-logo="http://epg.one/img/88030.png" group-title="Canada",TSN 5 HD CA
+#EXTINF:-1 tvg-id="88030" tvg-name="TSN 5 HD CA" tvg-logo="http://epg.one/img/88030.png" group-title="USA TV & CANADA TV"& CANADA TV",TSN 5 HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6517/index.m3u8
-#EXTINF:-1 tvg-id="3662" tvg-name="History CA" tvg-logo="http://epg.one/img/3662.png" group-title="Canada",History CA
+#EXTINF:-1 tvg-id="3662" tvg-name="History CA" tvg-logo="http://epg.one/img/3662.png" group-title="USA TV & CANADA TV"& CANADA TV",History CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6520/index.m3u8
-#EXTINF:-1 tvg-id="3663" tvg-name="TSN 1 HD CA" tvg-logo="http://epg.one/img/3663.png" group-title="Canada",TSN 1 HD CA
+#EXTINF:-1 tvg-id="3663" tvg-name="TSN 1 HD CA" tvg-logo="http://epg.one/img/3663.png" group-title="USA TV & CANADA TV"& CANADA TV",TSN 1 HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6521/index.m3u8
-#EXTINF:-1 tvg-id="3664" tvg-name="TSN 3 HD CA" tvg-logo="http://epg.one/img/3664.png" group-title="Canada",TSN 3 HD CA
+#EXTINF:-1 tvg-id="3664" tvg-name="TSN 3 HD CA" tvg-logo="http://epg.one/img/3664.png" group-title="USA TV & CANADA TV"& CANADA TV",TSN 3 HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6522/index.m3u8
-#EXTINF:-1 tvg-id="3665" tvg-name="CPAC French CA" tvg-logo="http://epg.one/img/3665.png" group-title="Canada",CPAC French CA
+#EXTINF:-1 tvg-id="3665" tvg-name="CPAC French CA" tvg-logo="http://epg.one/img/3665.png" group-title="USA TV & CANADA TV"& CANADA TV",CPAC French CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6523/index.m3u8
-#EXTINF:-1 tvg-id="3666" tvg-name="TLC CA" tvg-logo="http://epg.one/img/3666.png" group-title="Canada",TLC CA
+#EXTINF:-1 tvg-id="3666" tvg-name="TLC CA" tvg-logo="http://epg.one/img/3666.png" group-title="USA TV & CANADA TV"& CANADA TV",TLC CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6524/index.m3u8
-#EXTINF:-1 tvg-id="3668" tvg-name="Showcase CA" tvg-logo="http://epg.one/img/3668.png" group-title="Canada",Showcase CA
+#EXTINF:-1 tvg-id="3668" tvg-name="Showcase CA" tvg-logo="http://epg.one/img/3668.png" group-title="USA TV & CANADA TV"& CANADA TV",Showcase CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6526/index.m3u8
-#EXTINF:-1 tvg-id="3674" tvg-name="Unis TV HD CA" tvg-logo="http://epg.one/img/3674.png" group-title="Canada",Unis TV HD CA
+#EXTINF:-1 tvg-id="3674" tvg-name="Unis TV HD CA" tvg-logo="http://epg.one/img/3674.png" group-title="USA TV & CANADA TV"& CANADA TV",Unis TV HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6532/index.m3u8
-#EXTINF:-1 tvg-id="3679" tvg-name="FOX Buffalo HD CA" tvg-logo="http://epg.one/img/3679.png" group-title="Canada",FOX Buffalo HD CA
+#EXTINF:-1 tvg-id="3679" tvg-name="FOX Buffalo HD CA" tvg-logo="http://epg.one/img/3679.png" group-title="USA TV & CANADA TV"& CANADA TV",FOX Buffalo HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6537/index.m3u8
-#EXTINF:-1 tvg-id="3641" tvg-name="CNN HD CA" tvg-logo="http://epg.one/img/3641.png" group-title="Canada",CNN HD CA
+#EXTINF:-1 tvg-id="3641" tvg-name="CNN HD CA" tvg-logo="http://epg.one/img/3641.png" group-title="USA TV & CANADA TV"& CANADA TV",CNN HD CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6538/index.m3u8
-#EXTINF:-1 tvg-id="8344" tvg-name="beIN Sports CA" tvg-logo="http://epg.one/img/8344.png" group-title="Canada",beIN Sports CA
+#EXTINF:-1 tvg-id="8344" tvg-name="beIN Sports CA" tvg-logo="http://epg.one/img/8344.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32043/index.m3u8
-#EXTINF:-1 tvg-id="3641" tvg-name="One Soccer CA" tvg-logo="https://www.mppglobal.com/wp-content/uploads/2019/04/One-Soccer-1.png" group-title="Canada",One Soccer CA
+#EXTINF:-1 tvg-id="3641" tvg-name="One Soccer CA" tvg-logo="https://www.mppglobal.com/wp-content/uploads/2019/04/One-Soccer-1.png" group-title="USA TV & CANADA TV"& CANADA TV",One Soccer CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32044/index.m3u8
-#EXTINF:-1 tvg-id="3641" tvg-name="BBC Earth CA" tvg-logo="http://epg.one/img/5089.png" group-title="Canada",BBC Earth CA
+#EXTINF:-1 tvg-id="3641" tvg-name="BBC Earth CA" tvg-logo="http://epg.one/img/5089.png" group-title="USA TV & CANADA TV"& CANADA TV",BBC Earth CA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32077/index.m3u8
 
 # ==============================
-# Premium Movies
+# Premium Movies & Indo Movies
 # ==============================
 
-#EXTINF:-1 tvg-id="MyCinemaEurope.ch@SD" tvg-name="My Cinema Europe" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/My_Cinema_Europe_HD_1.jpg" group-title="Premium Movies",My Cinema Europe
+#EXTINF:-1 tvg-id="MyCinemaEurope.ch@SD" tvg-name="My Cinema Europe" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/My_Cinema_Europe_HD_1.jpg" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNowHD" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/63c6e6919e9ed0aa7a6fc1a3cffd5243.png" group-title="Premium Movies",Movies Now HD
+#EXTINF:-1 tvg-id="MoviesNowHD" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/63c6e6919e9ed0aa7a6fc1a3cffd5243.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="Rock Action (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rockaction.png" group-title="Premium Movies",Rock Action (V+)
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="Rock Action (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rockaction.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Rock Action (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
-#EXTINF:-1 tvg-id="HITS" tvg-name="Hits (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hits.png" group-title="Premium Movies",Hits (V+)
+#EXTINF:-1 tvg-id="HITS" tvg-name="Hits (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hits.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Hits (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
-#EXTINF:-1 tvg-id="HITS Movies" tvg-name="Hits Movies (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hitsmovies.png" group-title="Premium Movies",Hits Movies (V+)
+#EXTINF:-1 tvg-id="HITS Movies" tvg-name="Hits Movies (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hitsmovies.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Hits Movies (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/stuv.png" group-title="Premium Movies",STUDIO UNIVERSAL (V+)
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/stuv.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",STUDIO UNIVERSAL (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/axn.png" group-title="Premium Movies",AXN (V+)
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/axn.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",AXN (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
-#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/galaxy.png" group-title="Premium Movies",Galaxy (V+)
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/galaxy.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Galaxy (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
-#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/galaxypremium.png" group-title="Premium Movies",Galaxy Premium (V+)
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/galaxypremium.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Galaxy Premium (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kix.png" group-title="Premium Movies",KIX (V+)
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kix.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",KIX (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thriil (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/thril.png" group-title="Premium Movies",Thriil (V+)
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thriil (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/thril.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Thriil (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
-#EXTINF:-1 tvg-id="Celestial Movies Indonesia" tvg-name="Celestial Movies (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/celestial.png" group-title="Premium Movies",Celestial Movies (V+)
+#EXTINF:-1 tvg-id="Celestial Movies Indonesia" tvg-name="Celestial Movies (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/celestial.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Celestial Movies (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
-#EXTINF:-1 tvg-id="Celestial Classic Movies" tvg-name="Celestial Classic Movies (V+)" tvg-logo="https://www.visionplus.id/images/repository/779/522779-LOGO-m.png" group-title="Premium Movies",Celestial Classic Movies (V+)
+#EXTINF:-1 tvg-id="Celestial Classic Movies" tvg-name="Celestial Classic Movies (V+)" tvg-logo="https://www.visionplus.id/images/repository/779/522779-LOGO-m.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Celestial Classic Movies (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
-#EXTINF:-1 tvg-id="Originals" tvg-name="Originals (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/original.png" group-title="Premium Movies",Originals (V+)
+#EXTINF:-1 tvg-id="Originals" tvg-name="Originals (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/original.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Originals (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-#EXTINF:-1 tvg-id="Buddy Star" tvg-name="Buddy Star (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/buddyster.png" group-title="Premium Movies",Buddy Star (V+)
+#EXTINF:-1 tvg-id="Buddy Star" tvg-name="Buddy Star (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/buddyster.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Buddy Star (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-#EXTINF:-1 tvg-id="Cineedge" tvg-name="Cineedge (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cineedge.png" group-title="Premium Movies",Cineedge (V+)
+#EXTINF:-1 tvg-id="Cineedge" tvg-name="Cineedge (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cineedge.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Cineedge (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-#EXTINF:-1 tvg-id="Superrix" tvg-name="SUPERRIX (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/superix.png" group-title="Premium Movies",SUPERRIX (V+)
+#EXTINF:-1 tvg-id="Superrix" tvg-name="SUPERRIX (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/superix.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",SUPERRIX (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
-#EXTINF:-1 tvg-id="RomedyNow" tvg-name="Romedy Now" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/romedy.png" group-title="Premium Movies",Romedy Now
+#EXTINF:-1 tvg-id="RomedyNow" tvg-name="Romedy Now" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/romedy.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
-#EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO 1" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png" group-title="Premium Movies",HBO 1
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO 1" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",HBO 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
-#EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png" group-title="Premium Movies",HBO 2
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",HBO 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
-#EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO Comedy" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-comedy.png" group-title="Premium Movies",HBO Comedy
+#EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO Comedy" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-comedy.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",HBO Comedy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=440df5a5f7730c64f005eec9b12a9b52:dcad08b714e246f92cb9748f9e2e7e1e
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
-#EXTINF:-1 tvg-id="HBOLatino" tvg-name="HBO Latino" tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="Premium Movies",HBO Latino
+#EXTINF:-1 tvg-id="HBOLatino" tvg-name="HBO Latino" tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",HBO Latino
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
-#EXTINF:-1 tvg-id="HBOZone" tvg-name="HBO Zone" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-zone.png" group-title="Premium Movies",HBO Zone
+#EXTINF:-1 tvg-id="HBOZone" tvg-name="HBO Zone" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-zone.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",HBO Zone
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
-#EXTINF:-1 tvg-id="StarMAXEast" tvg-name="StarMAX East" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies",StarMAX East
+#EXTINF:-1 tvg-id="StarMAXEast" tvg-name="StarMAX East" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",StarMAX East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
-#EXTINF:-1 tvg-id="ActionMAXHDEast" tvg-name="Action MAX HD East" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies",Action MAX HD East
+#EXTINF:-1 tvg-id="ActionMAXHDEast" tvg-name="Action MAX HD East" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Action MAX HD East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
-#EXTINF:-1 tvg-id="MoreMAXHDEast" tvg-name="More MAX HD East" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies",More MAX HD East
+#EXTINF:-1 tvg-id="MoreMAXHDEast" tvg-name="More MAX HD East" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",More MAX HD East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
-#EXTINF:-1 tvg-id="5StarMAXEast" tvg-name="5Star MAX East" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies",5Star MAX East
+#EXTINF:-1 tvg-id="5StarMAXEast" tvg-name="5Star MAX East" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",5Star MAX East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
-#EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="Cinemax HD East" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png" group-title="Premium Movies",Cinemax HD East
+#EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="Cinemax HD East" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Cinemax HD East
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9d47d7a5b1875534d1acb2d154d3a30:5ffb5cb49e64eba2309d18b781a8825d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
-#EXTINF:-1 tvg-id="AmazonMovies" tvg-name="Amazon Movies" tvg-logo="https://i0.wp.com/www.seogroupbuy.io/wp-content/uploads/2023/05/primevideo-group-buy.png?w=1200&ssl=1" group-title="Premium Movies",Amazon Movies
+#EXTINF:-1 tvg-id="AmazonMovies" tvg-name="Amazon Movies" tvg-logo="https://i0.wp.com/www.seogroupbuy.io/wp-content/uploads/2023/05/primevideo-group-buy.png?w=1200&ssl=1" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Amazon Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
-#EXTINF:-1 tvg-id="DE4000002I3" tvg-name="Moviesphere" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="Premium Movies",Moviesphere
+#EXTINF:-1 tvg-id="DE4000002I3" tvg-name="Moviesphere" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Moviesphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://static.wikia.nocookie.net/20th-century-studios-fanmade/images/a/ae/135-1358497_universal-logo-universal-pictures-logo-png.png/revision/latest/scale-to-width-down/1457?cb=20220109042451" group-title="Premium Movies",Universal Movies
+#EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://static.wikia.nocookie.net/20th-century-studios-fanmade/images/a/ae/135-1358497_universal-logo-universal-pictures-logo-png.png/revision/latest/scale-to-width-down/1457?cb=20220109042451" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo__rottentomatoesrttv_ssai_cro&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=&ads._fw_vcid2=512116:&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
-#EXTINF:-1 tvg-id="USAMCFast" tvg-name="US | AMC Fast" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amc.png" group-title="Premium Movies",US | AMC Fast
+#EXTINF:-1 tvg-id="USAMCFast" tvg-name="US | AMC Fast" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amc.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",US | AMC Fast
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="LaRuntimeAccion" tvg-name="La | Runtime Accion" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",La | Runtime Accion
+#EXTINF:-1 tvg-id="LaRuntimeAccion" tvg-name="La | Runtime Accion" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",La | Runtime Accion
 https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
-#EXTINF:-1 tvg-id="LARuntimePeliculas" tvg-name="LA | Runtime Peliculas" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",LA | Runtime Peliculas
+#EXTINF:-1 tvg-id="LARuntimePeliculas" tvg-name="LA | Runtime Peliculas" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",LA | Runtime Peliculas
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
-#EXTINF:-1 tvg-id="LARuntimeComedia" tvg-name="LA | Runtime Comedia" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",LA | Runtime Comedia
+#EXTINF:-1 tvg-id="LARuntimeComedia" tvg-name="LA | Runtime Comedia" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",LA | Runtime Comedia
 https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
-#EXTINF:-1 tvg-id="LARuntimeCrimen" tvg-name="LA | Runtime Crimen" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",LA | Runtime Crimen
+#EXTINF:-1 tvg-id="LARuntimeCrimen" tvg-name="LA | Runtime Crimen" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",LA | Runtime Crimen
 https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
-#EXTINF:-1 tvg-id="LaRuntimeRomance" tvg-name="La | Runtime Romance" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",La | Runtime Romance
+#EXTINF:-1 tvg-id="LaRuntimeRomance" tvg-name="La | Runtime Romance" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",La | Runtime Romance
 https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
-#EXTINF:-1 tvg-id="LARuntimeFamilia" tvg-name="LA | Runtime Familia" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",LA | Runtime Familia
+#EXTINF:-1 tvg-id="LARuntimeFamilia" tvg-name="LA | Runtime Familia" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",LA | Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
-#EXTINF:-1 tvg-id="LARuntimeTerror" tvg-name="LA | Runtime Terror" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",LA | Runtime Terror
+#EXTINF:-1 tvg-id="LARuntimeTerror" tvg-name="LA | Runtime Terror" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies"& Indo Movies",LA | Runtime Terror
 https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
-
-# ==============================
-# Indo Movies
-# ==============================
-
-#EXTINF:-1 tvg-id="MN" tvg-name="MN+" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Indo Movies",MN+
+#EXTINF:-1 tvg-id="MN" tvg-name="MN+" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",MN+
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-#EXTINF:-1 tvg-id="WeDoTvMovies" tvg-name="WeDoTv Movies" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-movies183x174@3x.jpg" group-title="Indo Movies",WeDoTv Movies
+#EXTINF:-1 tvg-id="WeDoTvMovies" tvg-name="WeDoTv Movies" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-movies183x174@3x.jpg" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",WeDoTv Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h70/wedotv_movie.m3u8
-#EXTINF:-1 tvg-id="IMC" tvg-name="Indonesia Movie Channel (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/imc.png" group-title="Indo Movies",Indonesia Movie Channel (V+)
+#EXTINF:-1 tvg-id="IMC" tvg-name="Indonesia Movie Channel (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/imc.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",Indonesia Movie Channel (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
-#EXTINF:-1 tvg-id="BioskopIndonesia" tvg-name="Bioskop Indonesia" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bioskopindo.png" group-title="Indo Movies",Bioskop Indonesia
+#EXTINF:-1 tvg-id="BioskopIndonesia" tvg-name="Bioskop Indonesia" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bioskopindo.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",Bioskop Indonesia
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
-#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-name="DensFood Channel" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dfc.png" group-title="Indo Movies",DensFood Channel
+#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-name="DensFood Channel" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dfc.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",DensFood Channel
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/index.m3u8
-#EXTINF:-1 tvg-id="Food Travel" tvg-name="Food Travel (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/foodtr.png" group-title="Indo Movies",Food Travel (V+)
+#EXTINF:-1 tvg-id="Food Travel" tvg-name="Food Travel (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/foodtr.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",Food Travel (V+)
 #KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
-#EXTINF:-1 tvg-id="Celebrities TV" tvg-name="CelebritiesTV (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/celebritis.png" group-title="Indo Movies",CelebritiesTV (V+)
+#EXTINF:-1 tvg-id="Celebrities TV" tvg-name="CelebritiesTV (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/celebritis.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",CelebritiesTV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvn.png" group-title="Indo Movies",TVN
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvn.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",TVN
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
-#EXTINF:-1 tvg-id="TVNMovies" tvg-name="TVN Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvnmovies.png" group-title="Indo Movies",TVN Movies
+#EXTINF:-1 tvg-id="TVNMovies" tvg-name="TVN Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvnmovies.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",TVN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="Rock Action (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rockactions.png" group-title="Indo Movies",Rock Action (V+)
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="Rock Action (V+)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rockactions.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",Rock Action (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
-#EXTINF:-1 tvg-id="FirstLifestyle" tvg-name="First Lifestyle" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/first.png" group-title="Indo Movies",First Lifestyle
+#EXTINF:-1 tvg-id="FirstLifestyle" tvg-name="First Lifestyle" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/first.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",First Lifestyle
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
-#EXTINF:-1 tvg-id="Tv5 monde" tvg-name="TV5 Monde Asie" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv5mon.png" group-title="Indo Movies",TV5 Monde Asie
+#EXTINF:-1 tvg-id="Tv5 monde" tvg-name="TV5 Monde Asie" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv5mon.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",TV5 Monde Asie
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mediampd/TV5Monde.mpd
-#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg" group-title="Indo Movies",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",Fashion TV
 http://stream.mcquack.net/288/index.m3u8
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Asia" tvg-logo="https://object.streamized.net/img/hgtv.webp" group-title="Indo Movies",HGTV Asia
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Asia" tvg-logo="https://object.streamized.net/img/hgtv.webp" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",HGTV Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hgtv.m3u8
-#EXTINF:-1 tvg-id="TLCHD" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tlc.png" group-title="Indo Movies",TLC HD
+#EXTINF:-1 tvg-id="TLCHD" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tlc.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",TLC HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="DENSPLAY Channel.id" tvg-name="Dens Play" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/densplay.png" group-title="Indo Movies",Dens Play
+#EXTINF:-1 tvg-id="DENSPLAY Channel.id" tvg-name="Dens Play" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/densplay.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",Dens Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
-#EXTINF:-1 tvg-id="DensLife and Style" tvg-name="DensLife and Style" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/lifestyle.png" group-title="Indo Movies",DensLife and Style
+#EXTINF:-1 tvg-id="DensLife and Style" tvg-name="DensLife and Style" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/lifestyle.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",DensLife and Style
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
-#EXTINF:-1 tvg-id="DENS Showbizz Channel.id" tvg-name="Dens ShowBiz" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/showbiz.png" group-title="Indo Movies",Dens ShowBiz
+#EXTINF:-1 tvg-id="DENS Showbizz Channel.id" tvg-name="Dens ShowBiz" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/showbiz.png" group-title="Premium Movies & Indo Movies"& Indo Movies"& Indo Movies",Dens ShowBiz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lite&chname=DensShowBiz
