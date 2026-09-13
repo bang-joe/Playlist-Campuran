@@ -2760,6 +2760,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lite&chname=DensShowBiz
+#EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-name="CCTV-6 (1080p)" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Premium Movies",CCTV-6 (1080p)
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="CCTVStormTheater.cn@HD" tvg-name="CCTV-Storm Theater (1080p)" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="Premium Movies & Indo Movies",CCTV-Storm Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn@HD" tvg-name="CCTV-The First Theater (1080p)" tvg-logo="https://i.imgur.com/eFxD3hq.png" group-title="Premium Movies & Indo Movies",CCTV-The First Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 
 
 # ==============================
@@ -2780,8 +2786,6 @@ http://74.91.26.218:82/live/cctv3hd.m3u8
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-name="CCTV-4 Europe" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="[CH] TV China",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-name="CCTV-6 (1080p)" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Premium Movies",CCTV-6 (1080p)
-http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn@SD" tvg-name="CCTV-7 (720p)" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="[CH] TV China",CCTV-7 (720p)
 http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn@SD" tvg-name="CCTV-8 (720p)" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="[CH] TV China",CCTV-8 (720p)
@@ -2810,10 +2814,6 @@ http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVStormMusic.cn@HD" tvg-name="CCTV-Storm Music (1080p)" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="[CH] TV China",CCTV-Storm Music (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVStormTheater.cn@HD" tvg-name="CCTV-Storm Theater (1080p)" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="Premium Movies",CCTV-Storm Theater (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn@HD" tvg-name="CCTV-The First Theater (1080p)" tvg-logo="https://i.imgur.com/eFxD3hq.png" group-title="Premium Movies",CCTV-The First Theater (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn@HD" tvg-name="CCTV-Weapon & Technology (1080p)" tvg-logo="https://i.imgur.com/QlF96eS.png" group-title="[CH] TV China",CCTV-Weapon & Technology (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVWomensFashion.cn@SD" tvg-name="CCTV-Women's Fashion (1080p)" tvg-logo="https://i.imgur.com/FVbP0aP.png" group-title="[CH] TV China",CCTV-Women's Fashion (1080p)
