@@ -350,7 +350,7 @@ https://liveua.cdnfly.click/pt_elevensport3/index.m3u8
 https://liveua.cdnfly.click/pt_elevensport4/index.m3u8
 
 #EXTINF:-1 group-title="All Sports Liga Eropa",Elev5.m3u8
-##EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ffw8yk1773512280.png" group-title="TV SPORTS", DAZN 5
+##EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ffw8yk1773512280.png" group-title="All Sports Liga Eropa", DAZN 5
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="All Sports Liga Eropa",TNT SPORTS 1
