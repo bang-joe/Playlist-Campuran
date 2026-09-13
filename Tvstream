@@ -287,6 +287,56 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
+# ==============================
+# All Sports Liga Eropa
+# ==============================
+
+#EXTINF:-1 tvg-id="9271" tvg-name="Arena Premium 1 HD RS" tvg-logo="http://epg.one/img/9271.png" group-title="All Sports Liga Eropa",Arena Premium 1 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium1.m3u8
+#EXTINF:-1 tvg-id="9272" tvg-name="Arena Premium 2 HD RS" tvg-logo="http://epg.one/img/9272.png" group-title="All Sports Liga Eropa",Arena Premium 2 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium2.m3u8
+#EXTINF:-1 tvg-id="9273" tvg-name="Arena Premium 3 HD RS" tvg-logo="http://epg.one/img/9273.png" group-title="All Sports Liga Eropa",Arena Premium 3 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium3.m3u8
+#EXTINF:-1 tvg-id="9274" tvg-name="Arena Sport 1 HD RS" tvg-logo="http://epg.one/img/9274.png" group-title="All Sports Liga Eropa",Arena Sport 1 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport1.m3u8
+#EXTINF:-1 tvg-id="9283" tvg-name="Arena Sport 10 HD RS" tvg-logo="http://epg.one/img/9283.png" group-title="All Sports Liga Eropa",Arena Sport 10 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport10.m3u8
+#EXTINF:-1 tvg-id="4564" tvg-name="Arena Sport 2 FHD HR (2)" tvg-logo="http://epg.one/img/4564.png" group-title="All Sports Liga Eropa",Arena Sport 2 FHD HR (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport2.m3u8
+#EXTINF:-1 tvg-id="9275" tvg-name="Arena Sport 3 HD RS" tvg-logo="http://epg.one/img/9275.png" group-title="All Sports Liga Eropa",Arena Sport 3 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport3.m3u8
+#EXTINF:-1 tvg-id="9277" tvg-name="Arena Sport 4 HD RS (2)" tvg-logo="http://epg.one/img/9277.png" group-title="All Sports Liga Eropa",Arena Sport 4 HD RS (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport4.m3u8
+#EXTINF:-1 tvg-id="9278" tvg-name="Arena Sport 5 HD RS (2)" tvg-logo="http://epg.one/img/9278.png" group-title="All Sports Liga Eropa",Arena Sport 5 HD RS (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport5.m3u8
+#EXTINF:-1 tvg-id="9279" tvg-name="Arena Sport 6 HD RS (2)" tvg-logo="http://epg.one/img/9279.png" group-title="All Sports Liga Eropa",Arena Sport 6 HD RS (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport6.m3u8
+#EXTINF:-1 tvg-id="9280" tvg-name="Arena Sport 7 HD RS (2)" tvg-logo="http://epg.one/img/9280.png" group-title="All Sports Liga Eropa",Arena Sport 7 HD RS (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport7.m3u8
+#EXTINF:-1 tvg-id="9281" tvg-name="Arena Sport 8 HD RS (2)" tvg-logo="http://epg.one/img/9281.png" group-title="All Sports Liga Eropa",Arena Sport 8 HD RS (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport8.m3u8
+#EXTINF:-1 tvg-id="Xtv3-sport-3" tvg-name="TV3 Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" group-title="All Sports Liga Eropa",TV3 Sport 3 HD
+http://de.seetv.cc/play/6711/632F375BC8243BC/video.m3u8
+#EXTINF:-1 tvg-id="Xtvplay-sports" tvg-name="TV3 Sport HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" group-title="All Sports Liga Eropa",TV3 Sport HD
+http://de.seetv.cc/play/6709/632F375BC8243BC/video.m3u8
+
+#EXTINF:-1 tvg-id="BeiNARSports1" tvg-name="BeiN AR Sports 1" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="All Sports Liga Eropa",BeiN AR Sports 1
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar1.m3u8
+#EXTINF:-1 tvg-id="BeiNARSports2" tvg-name="BeiN AR Sports 2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="All Sports Liga Eropa",BeiN AR Sports 2
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar2.m3u8
+#EXTINF:-1 tvg-id="BeiNARSports3" tvg-name="BeiN AR Sports 3" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein3.png" group-title="All Sports Liga Eropa",BeiN AR Sports 3
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar3.m3u8
+#EXTINF:-1 tvg-id="BeiNARSports4" tvg-name="BeiN AR Sports 4" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax4.png" group-title="All Sports Liga Eropa",BeiN AR Sports 4
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar4.m3u8
+#EXTINF:-1 tvg-id="BeiNARSports5" tvg-name="BeiN AR Sports 5" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax5.png" group-title="All Sports Liga Eropa",BeiN AR Sports 5
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar5.m3u8
+#EXTINF:-1 tvg-id="BeiNFRSports1" tvg-name="BeiN FR Sports 1" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="All Sports Liga Eropa",BeiN FR Sports 1
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr1.m3u8
+#EXTINF:-1 tvg-id="BeiNFRSports2" tvg-name="BeiN FR Sports 2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="All Sports Liga Eropa",BeiN FR Sports 2
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr2.m3u8
+#EXTINF:-1 tvg-id="BeiNFRSports3" tvg-name="BeiN FR Sports 3" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein3.png" group-title="All Sports Liga Eropa",BeiN FR Sports 3
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr3.m3u8
+
 
 # ==============================
 # Vision+
@@ -1398,57 +1448,6 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMUHD" tvg-name="TVMU HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67qwW1u1F-sEku-oDwde7WLWIykjwyu3uOA&s" group-title="[ID] TV Religi & Budaya",TVMU HD
 https://e.siar.us/live/tvmu.m3u8
-
-
-# ==============================
-# All Sports Liga Eropa
-# ==============================
-
-#EXTINF:-1 tvg-id="9271" tvg-name="Arena Premium 1 HD RS" tvg-logo="http://epg.one/img/9271.png" group-title="All Sports Liga Eropa",Arena Premium 1 HD RS
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium1.m3u8
-#EXTINF:-1 tvg-id="9272" tvg-name="Arena Premium 2 HD RS" tvg-logo="http://epg.one/img/9272.png" group-title="All Sports Liga Eropa",Arena Premium 2 HD RS
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium2.m3u8
-#EXTINF:-1 tvg-id="9273" tvg-name="Arena Premium 3 HD RS" tvg-logo="http://epg.one/img/9273.png" group-title="All Sports Liga Eropa",Arena Premium 3 HD RS
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium3.m3u8
-#EXTINF:-1 tvg-id="9274" tvg-name="Arena Sport 1 HD RS" tvg-logo="http://epg.one/img/9274.png" group-title="All Sports Liga Eropa",Arena Sport 1 HD RS
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport1.m3u8
-#EXTINF:-1 tvg-id="9283" tvg-name="Arena Sport 10 HD RS" tvg-logo="http://epg.one/img/9283.png" group-title="All Sports Liga Eropa",Arena Sport 10 HD RS
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport10.m3u8
-#EXTINF:-1 tvg-id="4564" tvg-name="Arena Sport 2 FHD HR (2)" tvg-logo="http://epg.one/img/4564.png" group-title="All Sports Liga Eropa",Arena Sport 2 FHD HR (2)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport2.m3u8
-#EXTINF:-1 tvg-id="9275" tvg-name="Arena Sport 3 HD RS" tvg-logo="http://epg.one/img/9275.png" group-title="All Sports Liga Eropa",Arena Sport 3 HD RS
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport3.m3u8
-#EXTINF:-1 tvg-id="9277" tvg-name="Arena Sport 4 HD RS (2)" tvg-logo="http://epg.one/img/9277.png" group-title="All Sports Liga Eropa",Arena Sport 4 HD RS (2)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport4.m3u8
-#EXTINF:-1 tvg-id="9278" tvg-name="Arena Sport 5 HD RS (2)" tvg-logo="http://epg.one/img/9278.png" group-title="All Sports Liga Eropa",Arena Sport 5 HD RS (2)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport5.m3u8
-#EXTINF:-1 tvg-id="9279" tvg-name="Arena Sport 6 HD RS (2)" tvg-logo="http://epg.one/img/9279.png" group-title="All Sports Liga Eropa",Arena Sport 6 HD RS (2)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport6.m3u8
-#EXTINF:-1 tvg-id="9280" tvg-name="Arena Sport 7 HD RS (2)" tvg-logo="http://epg.one/img/9280.png" group-title="All Sports Liga Eropa",Arena Sport 7 HD RS (2)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport7.m3u8
-#EXTINF:-1 tvg-id="9281" tvg-name="Arena Sport 8 HD RS (2)" tvg-logo="http://epg.one/img/9281.png" group-title="All Sports Liga Eropa",Arena Sport 8 HD RS (2)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport8.m3u8
-#EXTINF:-1 tvg-id="Xtv3-sport-3" tvg-name="TV3 Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" group-title="All Sports Liga Eropa",TV3 Sport 3 HD
-http://de.seetv.cc/play/6711/632F375BC8243BC/video.m3u8
-#EXTINF:-1 tvg-id="Xtvplay-sports" tvg-name="TV3 Sport HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" group-title="All Sports Liga Eropa",TV3 Sport HD
-http://de.seetv.cc/play/6709/632F375BC8243BC/video.m3u8
-
-#EXTINF:-1 tvg-id="BeiNARSports1" tvg-name="BeiN AR Sports 1" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="All Sports Liga Eropa",BeiN AR Sports 1
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar1.m3u8
-#EXTINF:-1 tvg-id="BeiNARSports2" tvg-name="BeiN AR Sports 2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="All Sports Liga Eropa",BeiN AR Sports 2
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar2.m3u8
-#EXTINF:-1 tvg-id="BeiNARSports3" tvg-name="BeiN AR Sports 3" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein3.png" group-title="All Sports Liga Eropa",BeiN AR Sports 3
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar3.m3u8
-#EXTINF:-1 tvg-id="BeiNARSports4" tvg-name="BeiN AR Sports 4" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax4.png" group-title="All Sports Liga Eropa",BeiN AR Sports 4
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar4.m3u8
-#EXTINF:-1 tvg-id="BeiNARSports5" tvg-name="BeiN AR Sports 5" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax5.png" group-title="All Sports Liga Eropa",BeiN AR Sports 5
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar5.m3u8
-#EXTINF:-1 tvg-id="BeiNFRSports1" tvg-name="BeiN FR Sports 1" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="All Sports Liga Eropa",BeiN FR Sports 1
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr1.m3u8
-#EXTINF:-1 tvg-id="BeiNFRSports2" tvg-name="BeiN FR Sports 2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="All Sports Liga Eropa",BeiN FR Sports 2
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr2.m3u8
-#EXTINF:-1 tvg-id="BeiNFRSports3" tvg-name="BeiN FR Sports 3" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein3.png" group-title="All Sports Liga Eropa",BeiN FR Sports 3
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr3.m3u8
 
 # ==============================
 # All Sports
