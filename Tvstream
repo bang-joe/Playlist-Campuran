@@ -1,41 +1,5 @@
 #EXTM3U
 # === VIDIO CHANNELS START ===
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-name="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/0i2trvaiAnlwnK3a9RWJnIz4aLE=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png" group-title="VIDIO",Champions TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-name="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/0i2trvaiAnlwnK3a9RWJnIz4aLE=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png" group-title="VIDIO",Champions TV 1 (Server 2)
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://202.155.18.227:8080/live/championstv1.m3u8
-
-#EXTINF:-1 tvg-id="Champions TV 2" tvg-name="Champions TV 2" tvg-logo="https://thumbor.prod.vidiocdn.com/A8DgS8eYhBYDnUdM4ZkkzrFnI5w=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png" group-title="VIDIO",Champions TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17939&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17939&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 2" tvg-name="Champions TV 2" tvg-logo="https://thumbor.prod.vidiocdn.com/A8DgS8eYhBYDnUdM4ZkkzrFnI5w=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png" group-title="VIDIO",Champions TV 2 (Server 2)
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://202.155.18.227:8080/live/championstv2.m3u8
-
-#EXTINF:-1 tvg-id="Champions TV 3" tvg-name="Champions TV 3" tvg-logo="https://thumbor.prod.vidiocdn.com/meDW2eIx05Hx8_GNAIgyES04J84=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="VIDIO",Champions TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17940&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17940&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 3" tvg-name="Champions TV 3" tvg-logo="https://thumbor.prod.vidiocdn.com/meDW2eIx05Hx8_GNAIgyES04J84=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="VIDIO",Champions TV 3 (Server 2)
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://202.155.18.227:8080/live/championstv3.m3u8
-
 #EXTINF:-1 tvg-id="TVRI HD" tvg-name="TVRI HD" tvg-logo="https://thumbor.prod.vidiocdn.com/ot6wuFB7eQyb6RNLO6syHQKcAfU=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="VIDIO",TVRI HD
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -120,6 +84,26 @@ http://202.155.18.227:8080/live/dmitv.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://202.155.18.227:8080/live/uchanneltv.m3u8
+
+#EXTINF:-1 tvg-id="Citra Drama HD" tvg-name="Citra Drama HD" tvg-logo="https://thumbor.prod.vidiocdn.com/2x4BLTjI91danPP7cyvJGEpaTN8=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/21179/13c032.png" group-title="VIDIO",Citra Drama HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/citradrama.m3u8
+
+#EXTINF:-1 tvg-id="Citra Plus HD" tvg-name="Citra Plus HD" tvg-logo="https://thumbor.prod.vidiocdn.com/1DqHbHGTjj8rDTriqI7pvnUSjJY=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/21289/95b5b6.png" group-title="VIDIO",Citra Plus HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/citraplus.m3u8
+
+#EXTINF:-1 tvg-id="TVN HD" tvg-name="TVN HD" tvg-logo="https://thumbor.prod.vidiocdn.com/mC10k5ouItm5lJ-0hipaSw3FAs8=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png" group-title="VIDIO",TVN HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/tvn.m3u8
+
+#EXTINF:-1 tvg-id="Rock Action HD" tvg-name="Rock Action HD" tvg-logo="https://thumbor.prod.vidiocdn.com/BmgtNM-Chv9nhFT9Yk4j_k-VBHM=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png" group-title="VIDIO",Rock Action HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/rockaction.m3u8
 
 #EXTINF:-1 tvg-id="MUSICA HD" tvg-name="MUSICA HD" tvg-logo="https://thumbor.prod.vidiocdn.com/9p5kOs_udy6akoXFdYxoVwz4Itk=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title="VIDIO",MUSICA HD
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
