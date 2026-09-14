@@ -212,15 +212,8 @@ http://202.155.18.227:8080/live/arirang.m3u8
 
 #EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="LIGA 1 BRI", INDOSIAR FHD
 https://sw.run/CAMPWIKI-INDISIAR-FHD
-#EXTINF:-1 tvg-id="205" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="LIGA 1 BRI",Indosiar Vidio
-#EXTVLCOPT:http-referrer=android-app://com.vidio.android
-#EXTVLCOPT:http-user-agent=VidioPlayer/2608.2.7
-#EXTHTTP:{"User-Agent":"VidioPlayer/2608.2.7","Referer":"android-app://com.vidio.android"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gateway.rrlaundry.my.id/stream/trial/stream_vidio.php?id=205&type=drm
-https://gateway.rrlaundry.my.id/stream/trial/stream_vidio.php?id=205&type=compat
+#EXTINF:-1 xui-id="304" tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkROIzL4HtL9obxJPF2Un_bEcj5WnzhovJx3HzNhCPfgYM.png" group-title="-  VIP | SPORTS ID -",LIGA 1 BRI
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NgiYzTpotwz2ruDZrGkqfsxx
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -244,9 +237,6 @@ http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngi3Zvwmb1D
 #EXTINF:-1 xui-id="25428" tvg-id="" tvg-name="ASIAN GAMES 6" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 6
 http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngg5rbnZdbU-JSbTxGlmvKUq
 
-#EXTINF:-1 tvg-id="Indosiar Sd" tvg-name="Indosiar SD" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="Indonesia",Indosiar SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://ogietv.biz.id:443/Livetv/234/1325.m3u8
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rcti.png" group-title="Indonesia",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -259,6 +249,9 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
 http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
+#EXTINF:-1 tvg-id="Indosiar Sd" tvg-name="Indosiar SD" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="Indonesia",Indosiar SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://ogietv.biz.id:443/Livetv/234/1325.m3u8
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNC TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mnctv.png" group-title="Indonesia",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
