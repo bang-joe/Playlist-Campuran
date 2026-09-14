@@ -2,31 +2,76 @@ import os
 import re
 import requests
 
-# 100% Genuine Vidio Channels (Direct Akamai CDN via Jakarta VPS Proxy + Widevine DRM for Sports)
-# Semua logo adalah aset resmi circular PNG langsung dari Thumbor CDN Vidio (120x120)
-
-CHAMPIONS_CHANNELS = [
+# 100% Genuine Vidio Channels (Direct Akamai CDN via Jakarta VPS Proxy)
+# Semua logo adalah aset resmi circular PNG langsung dari Thumbor CDN Vidio
+VIDIO_CHANNELS = [
+    # --- Platinum Sports Suite & Asian Games ---
     {
         "id": "championstv1",
-        "worker_id": "17938",
         "name": "Champions TV 1",
         "logo": "https://thumbor.prod.vidiocdn.com/0i2trvaiAnlwnK3a9RWJnIz4aLE=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png"
     },
     {
         "id": "championstv2",
-        "worker_id": "17939",
         "name": "Champions TV 2",
         "logo": "https://thumbor.prod.vidiocdn.com/A8DgS8eYhBYDnUdM4ZkkzrFnI5w=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png"
     },
     {
         "id": "championstv3",
-        "worker_id": "17940",
         "name": "Champions TV 3",
         "logo": "https://thumbor.prod.vidiocdn.com/meDW2eIx05Hx8_GNAIgyES04J84=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png"
     },
-]
+    {
+        "id": "championstv5",
+        "name": "Champions TV 5",
+        "logo": "https://thumbor.prod.vidiocdn.com/r3ZDSFjLdonYGLkJlR_NzZ64Z_A=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png"
+    },
+    {
+        "id": "championstv6",
+        "name": "Champions TV 6",
+        "logo": "https://thumbor.prod.vidiocdn.com/3z2C6g21MiF4R8ydJjCLtswgYDg=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png"
+    },
+    {
+        "id": "championsfight",
+        "name": "Champions Fight",
+        "logo": "https://thumbor.prod.vidiocdn.com/jWCAr7aSuc4AvvQ-KJjq3xH1KaE=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/20216/1a9c41.png"
+    },
+    {
+        "id": "championsgolf1",
+        "name": "Champions Golf 1",
+        "logo": "https://thumbor.prod.vidiocdn.com/2i24vtPQkYadui6mr2t1biCDw4M=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18189/8180b2.png"
+    },
+    {
+        "id": "championsgolf2",
+        "name": "Champions Golf 2",
+        "logo": "https://thumbor.prod.vidiocdn.com/W0oo8NZ6NEYzpc62TjIbI-PloKU=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18190/541269.png"
+    },
+    {
+        "id": "asiangames1",
+        "name": "Asian Games 1",
+        "logo": "https://thumbor.prod.vidiocdn.com/XvINWTacMiKeNLBLqhq7DWBoN34=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/22246/1fc6da.png"
+    },
+    {
+        "id": "asiangames2",
+        "name": "Asian Games 2",
+        "logo": "https://thumbor.prod.vidiocdn.com/ejPracVxoiN6w97bGd-rRrGwfSg=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/22247/265f12.png"
+    },
+    {
+        "id": "brisuperleague",
+        "name": "BRI Super League (Liga 1)",
+        "logo": "https://thumbor.prod.vidiocdn.com/ALA36pT0DCHg3W4OjOIfwIiXqbE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22207/bri-super-league-bb2311.png"
+    },
+    {
+        "id": "laliga",
+        "name": "La Liga",
+        "logo": "https://thumbor.prod.vidiocdn.com/v3aCmT3Uy5FA0YsFKsgaWZfflbc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22057/laliga-157151.jpg"
+    },
+    {
+        "id": "wta",
+        "name": "WTA Tennis",
+        "logo": "https://thumbor.prod.vidiocdn.com/pebMa3aRNbIi4UhZaH9HHWVnDds=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20564/wta-60563e.png"
+    },
 
-VIDIO_CHANNELS = [
     # --- National & News (100% Genuine Vidio Akamai 24 Jam) ---
     {
         "id": "tvri",
@@ -116,6 +161,26 @@ VIDIO_CHANNELS = [
 
     # --- Entertainment, Movies & Music ---
     {
+        "id": "citradrama",
+        "name": "Citra Drama HD",
+        "logo": "https://thumbor.prod.vidiocdn.com/2x4BLTjI91danPP7cyvJGEpaTN8=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/21179/13c032.png"
+    },
+    {
+        "id": "citraplus",
+        "name": "Citra Plus HD",
+        "logo": "https://thumbor.prod.vidiocdn.com/1DqHbHGTjj8rDTriqI7pvnUSjJY=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/21289/95b5b6.png"
+    },
+    {
+        "id": "tvn",
+        "name": "TVN HD",
+        "logo": "https://thumbor.prod.vidiocdn.com/mC10k5ouItm5lJ-0hipaSw3FAs8=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png"
+    },
+    {
+        "id": "rockaction",
+        "name": "Rock Action HD",
+        "logo": "https://thumbor.prod.vidiocdn.com/BmgtNM-Chv9nhFT9Yk4j_k-VBHM=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png"
+    },
+    {
         "id": "musica",
         "name": "MUSICA HD",
         "logo": "https://thumbor.prod.vidiocdn.com/9p5kOs_udy6akoXFdYxoVwz4Itk=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png"
@@ -158,38 +223,6 @@ SERVER_URL = "http://202.155.18.227:8080/live"
 
 def generate():
     new_entries = []
-
-    # 1. Champions TV 1-3 with Widevine DRM & multi-server fallback
-    for ch in CHAMPIONS_CHANNELS:
-        ch_name = ch["name"]
-        ch_logo = ch["logo"]
-        wid = ch["worker_id"]
-        ch_id = ch["id"]
-        dash_url = f"https://sweet-night-1d1d.worst.workers.dev/play.mpd?id={wid}&type=dash"
-        license_url = f"https://sweet-night-1d1d.worst.workers.dev/play?id={wid}&type=drm"
-        vps_url = f"{SERVER_URL}/{ch_id}.m3u8"
-
-        # Primary DASH Widevine Entry (Bypass Datacenter & DRM)
-        entry_dash = (
-            f'#EXTINF:-1 tvg-id="{ch_name}" tvg-name="{ch_name}" tvg-logo="{ch_logo}" group-title="VIDIO",{ch_name}\n'
-            f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36\n'
-            f'#KODIPROP:inputstream.adaptive.manifest_type=dash\n'
-            f'#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n'
-            f'#KODIPROP:inputstream.adaptive.license_key={license_url}\n'
-            f'{dash_url}'
-        )
-        new_entries.append(entry_dash)
-
-        # Fallback VPS Stream Entry
-        entry_vps = (
-            f'#EXTINF:-1 tvg-id="{ch_name}" tvg-name="{ch_name}" tvg-logo="{ch_logo}" group-title="VIDIO",{ch_name} (Server 2)\n'
-            f'#EXTVLCOPT:http-referrer=https://www.vidio.com/\n'
-            f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36\n'
-            f'{vps_url}'
-        )
-        new_entries.append(entry_vps)
-
-    # 2. National & News (100% Genuine Vidio Akamai Live 24/7)
     for ch in VIDIO_CHANNELS:
         ch_id = ch["id"]
         ch_name = ch["name"]
@@ -227,7 +260,7 @@ def generate():
     with open(target_file, "w", encoding="utf-8") as f:
         f.write(updated_content)
 
-    print(f"Sukses memperbarui {target_file}! Terisi Champions TV 1-3 & saluran Vidio murni dengan logo bulat resmi.")
+    print(f"Sukses memperbarui {target_file}! Terisi {len(VIDIO_CHANNELS)} saluran Vidio murni dengan logo bulat resmi.")
 
 if __name__ == "__main__":
     generate()
