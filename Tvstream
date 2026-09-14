@@ -26,6 +26,15 @@ https://sw.run/CAMPWIKI-INDISIAR-FHD
 #KODIPROP:inputstream.adaptive.license_key=https://gateway.rrlaundry.my.id/stream/trial/stream_vidio.php?id=205&type=drm
 https://gateway.rrlaundry.my.id/stream/trial/stream_vidio.php?id=205&type=compat
 
+#EXTINF:-1 tvg-id="AFCChampionsLeagueLive1" tvg-name="AFC Champions League Live 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeoGtFhXRDtZSIuhtXlfuU8KoeQZmbcpEOCebOIWAsJw&s=10" group-title="AFC Champions League",AFC Champions League Live 1
+https://player.icanplay.my.id/?url=https://rctiplus.icanplay.my.id/rcti.m3u8
+
+#EXTINF:-1 tvg-id="AFCChampionsLeagueLive2" tvg-name="AFC Champions League Live 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeoGtFhXRDtZSIuhtXlfuU8KoeQZmbcpEOCebOIWAsJw&s=10" group-title="AFC Champions League",AFC Champions League Live 2
+https://player.icanplay.my.id/?url=https://rctiplus.icanplay.my.id/gtv.m3u8
+
+#EXTINF:-1 tvg-id="AFCChampionsLeagueLive3" tvg-name="AFC Champions League Live 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeoGtFhXRDtZSIuhtXlfuU8KoeQZmbcpEOCebOIWAsJw&s=10" group-title="AFC Champions League",AFC Champions League Live 3
+https://player.icanplay.my.id/?url=https://rctiplus.icanplay.my.id/inews.m3u8
+
 #EXTINF:-1 xui-id="25423" tvg-id="" tvg-name="ASIAN GAMES 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 1
 http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NggEPzBEx09U7FXB_S0xoV8I
 #EXTINF:-1 xui-id="25424" tvg-id="" tvg-name="ASIAN GAMES 2" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 2
