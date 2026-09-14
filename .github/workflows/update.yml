@@ -2,7 +2,7 @@ name: Auto Update VIDIO Channels
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Otomatis jalan setiap 6 jam sekali nonstop
+    - cron: '0 */3 * * *'  # Otomatis jalan setiap 3 jam sekali nonstop
   workflow_dispatch:        # Tombol manual jika ingin langsung update
 
 jobs:
@@ -17,17 +17,18 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Dependencies
+      - name: Install Streamlink
         run: |
-          pip install requests
+          pip install -r requirements.txt
 
-      - name: Run Generator
+      - name: Jalankan Generator
         run: |
           python generator.py
 
-      - name: Commit & Push Changes
+      - name: Simpan Perubahan ke Tvstream
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Tvstream
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Vidio channels [skip ci]" && git push)
+          git commit -m "Auto-update siaran VIDIO terbaru [skip ci]" || exit 0
+          git push
