@@ -1,6 +1,5 @@
 #EXTM3U
 # === VIDIO CHANNELS START ===
-# === VIDIO CHANNELS START ===
 #EXTINF:-1 tvg-id="Metro TV HD" tvg-name="Metro TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/metrotv.png" group-title="VIDIO",Metro TV HD
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -36,7 +35,6 @@ http://202.155.18.227:8080/live/garudatv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://202.155.18.227:8080/live/btv.m3u8
 # === VIDIO CHANNELS END ===
-# === VIDIO CHANNELS END ===
 
 # ==============================
 # Indonesia
@@ -54,6 +52,15 @@ https://sw.run/CAMPWIKI-INDISIAR-FHD
 #KODIPROP:inputstream.adaptive.license_key=https://gateway.rrlaundry.my.id/stream/trial/stream_vidio.php?id=205&type=drm
 https://gateway.rrlaundry.my.id/stream/trial/stream_vidio.php?id=205&type=compat
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="- ASIAN GAMES 26 -"  tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",CCTV 5 (CHINA)
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="- ASIAN GAMES 26 -" tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/04/Piala-Dunia-2026.jpg",CCTV 5+ (CHINA)
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 xui-id="25423" tvg-id="" tvg-name="ASIAN GAMES 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 1
 http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NggEPzBEx09U7FXB_S0xoV8I
 #EXTINF:-1 xui-id="25424" tvg-id="" tvg-name="ASIAN GAMES 2" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 2
