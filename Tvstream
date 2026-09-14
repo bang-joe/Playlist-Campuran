@@ -1,4 +1,14 @@
 #EXTM3U
+# === VIDIO CHANNELS START ===
+#EXTINF:-1 tvg-id="Metro TV HD" tvg-name="Metro TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/metrotv.png" group-title="VIDIO",Metro TV HD
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/777/res=1080p/file/master.m3u8?hdnts=exp=1789402587~acl=/stream/777/res=1080p/file/master.m3u8!/stream/777/file/*/aac/*!/stream/777/file/*/*-1080p/*!/stream/777/file/*/*-720p/*!/stream/777/file/*/*-480p/*!/stream/777/file/*/*-360p/*~id=allUsers~hmac=061ae80b71856067fe59e1daf883eb520c229dba15ec7f423bedccc86126d6aa
+#EXTINF:-1 tvg-id="TVRI HD" tvg-name="TVRI HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/tvri.png" group-title="VIDIO",TVRI HD
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/6441/res=1080p/file/master.m3u8?hdnts=exp=1789402590~acl=/stream/6441/res=1080p/file/master.m3u8!/stream/6441/file/*/aac/*!/stream/6441/file/*/*-1080p/*!/stream/6441/file/*/*-720p/*!/stream/6441/file/*/*-480p/*!/stream/6441/file/*/*-360p/*~id=allUsers~hmac=376369ef1cd085850d1853589b8816c0ba496a0b22a22e9b92ca85c64593d0f2
+#EXTINF:-1 tvg-id="Garuda TV HD" tvg-name="Garuda TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/garudatv.png" group-title="VIDIO",Garuda TV HD
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/18162/res=1080p/file/master.m3u8?hdnts=exp=1789402599~acl=/stream/18162/res=1080p/file/master.m3u8!/stream/18162/file/*/aac/*!/stream/18162/file/*/*-1080p/*!/stream/18162/file/*/*-720p/*!/stream/18162/file/*/*-480p/*!/stream/18162/file/*/*-360p/*~id=allUsers~hmac=250c4b0b055ff786bf56b1be0e2211c2b7077886f2a7180944b781c0a9151a59
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/btv.png" group-title="VIDIO",BTV HD
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/6165/res=1080p/file/master.m3u8?hdnts=exp=1789402603~acl=/stream/6165/res=1080p/file/master.m3u8!/stream/6165/file/*/aac/*!/stream/6165/file/*/*-1080p/*!/stream/6165/file/*/*-720p/*!/stream/6165/file/*/*-480p/*!/stream/6165/file/*/*-360p/*~id=allUsers~hmac=d4961cd02d479516972fa508843e2b49c036d290ea36696b532aa5c4f83f5d5a
+# === VIDIO CHANNELS END ===
 
 # ==============================
 # Indonesia
