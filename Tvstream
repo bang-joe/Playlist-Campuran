@@ -5,35 +5,120 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://202.155.18.227:8080/live/metrotv.m3u8
 
-#EXTINF:-1 tvg-id="TVRI HD" tvg-name="TVRI HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/tvri.png" group-title="VIDIO",TVRI HD
+#EXTINF:-1 tvg-id="Kompas TV HD" tvg-name="Kompas TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/kompastv.png" group-title="VIDIO",Kompas TV HD
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://202.155.18.227:8080/live/tvri.m3u8
+http://202.155.18.227:8080/live/kompastv.m3u8
 
-#EXTINF:-1 tvg-id="ANTV HD" tvg-name="ANTV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/antv.png" group-title="VIDIO",ANTV HD
+#EXTINF:-1 tvg-id="Indosiar HD" tvg-name="Indosiar HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/indosiar.png" group-title="VIDIO",Indosiar HD
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://202.155.18.227:8080/live/antv.m3u8
+http://202.155.18.227:8080/live/indosiar.m3u8
 
-#EXTINF:-1 tvg-id="tvOne HD" tvg-name="tvOne HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/tvone.png" group-title="VIDIO",tvOne HD
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/btv.png" group-title="VIDIO",BTV HD
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://202.155.18.227:8080/live/tvone.m3u8
-
-#EXTINF:-1 tvg-id="RTV HD" tvg-name="RTV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/rtv.png" group-title="VIDIO",RTV HD
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://202.155.18.227:8080/live/rtv.m3u8
+http://202.155.18.227:8080/live/btv.m3u8
 
 #EXTINF:-1 tvg-id="Garuda TV HD" tvg-name="Garuda TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/garudatv.png" group-title="VIDIO",Garuda TV HD
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://202.155.18.227:8080/live/garudatv.m3u8
 
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/btv.png" group-title="VIDIO",BTV HD
+#EXTINF:-1 tvg-id="Berita Satu HD" tvg-name="Berita Satu HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/beritasatu.png" group-title="VIDIO",Berita Satu HD
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://202.155.18.227:8080/live/btv.m3u8
+http://202.155.18.227:8080/live/beritasatu.m3u8
+
+#EXTINF:-1 tvg-id="Jak TV HD" tvg-name="Jak TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/jaktv.png" group-title="VIDIO",Jak TV HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/jaktv.m3u8
+
+#EXTINF:-1 tvg-id="Sin Po TV HD" tvg-name="Sin Po TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/sinpotv.png" group-title="VIDIO",Sin Po TV HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/sinpotv.m3u8
+
+#EXTINF:-1 tvg-id="DAAI TV HD" tvg-name="DAAI TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/daaitv.png" group-title="VIDIO",DAAI TV HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/daaitv.m3u8
+
+#EXTINF:-1 tvg-id="Nusantara TV HD" tvg-name="Nusantara TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/nusantaratv.png" group-title="VIDIO",Nusantara TV HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/nusantaratv.m3u8
+
+#EXTINF:-1 tvg-id="Ajwa TV HD" tvg-name="Ajwa TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/ajwatv.png" group-title="VIDIO",Ajwa TV HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/ajwatv.m3u8
+
+#EXTINF:-1 tvg-id="Magna TV HD" tvg-name="Magna TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/magnatv.png" group-title="VIDIO",Magna TV HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/magnatv.m3u8
+
+#EXTINF:-1 tvg-id="JTV HD" tvg-name="JTV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/jtv.png" group-title="VIDIO",JTV HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/jtv.m3u8
+
+#EXTINF:-1 tvg-id="Jawa Pos TV HD" tvg-name="Jawa Pos TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/jawapostv.png" group-title="VIDIO",Jawa Pos TV HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/jawapostv.m3u8
+
+#EXTINF:-1 tvg-id="Makkah TV HD" tvg-name="Makkah TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/makkahtv.png" group-title="VIDIO",Makkah TV HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/makkahtv.m3u8
+
+#EXTINF:-1 tvg-id="CNN Indonesia HD" tvg-name="CNN Indonesia HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/cnnindonesia.png" group-title="VIDIO",CNN Indonesia HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/cnnindonesia.m3u8
+
+#EXTINF:-1 tvg-id="CNBC Indonesia HD" tvg-name="CNBC Indonesia HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/cnbcindonesia.png" group-title="VIDIO",CNBC Indonesia HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/cnbcindonesia.m3u8
+
+#EXTINF:-1 tvg-id="CNA HD" tvg-name="CNA HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/cna.png" group-title="VIDIO",CNA HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/cna.m3u8
+
+#EXTINF:-1 tvg-id="Euronews HD" tvg-name="Euronews HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/euronews.png" group-title="VIDIO",Euronews HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/euronews.m3u8
+
+#EXTINF:-1 tvg-id="ABC Australia HD" tvg-name="ABC Australia HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/abcaustralia.png" group-title="VIDIO",ABC Australia HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/abcaustralia.m3u8
+
+#EXTINF:-1 tvg-id="NHK World Japan HD" tvg-name="NHK World Japan HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/nhkworld.png" group-title="VIDIO",NHK World Japan HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/nhkworld.m3u8
+
+#EXTINF:-1 tvg-id="DMI TV HD" tvg-name="DMI TV HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/dmitv.png" group-title="VIDIO",DMI TV HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/dmitv.m3u8
+
+#EXTINF:-1 tvg-id="Africanews HD" tvg-name="Africanews HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/africanews.png" group-title="VIDIO",Africanews HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/africanews.m3u8
+
+#EXTINF:-1 tvg-id="Arirang HD" tvg-name="Arirang HD" tvg-logo="https://raw.githubusercontent.com/AqFad2811/indonesia-iptv/refs/heads/main/logo/arirang.png" group-title="VIDIO",Arirang HD
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://202.155.18.227:8080/live/arirang.m3u8
 # === VIDIO CHANNELS END ===
 
 # ==============================
