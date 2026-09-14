@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-name="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/0i2trvaiAnlwnK3a9RWJnIz4aLE=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/a2ed39.png" group-title="VIDIO",Champions TV 1
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://202.155.18.227:8080/live/championstv1.m3u8
+http://202.155.18.227:8080/live/champions-tv-1.m3u8
 
 #EXTINF:-1 tvg-id="Champions TV 2" tvg-name="Champions TV 2" tvg-logo="https://thumbor.prod.vidiocdn.com/A8DgS8eYhBYDnUdM4ZkkzrFnI5w=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png" group-title="VIDIO",Champions TV 2
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
