@@ -10,12 +10,12 @@ http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NgiYzTpotwz
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="- ASIAN GAMES 26 -"  tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png",ASIAN GAMES 7
+#EXTINF:-1 group-title="- ASIAN GAMES 26 -"  tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png",ASIAN GAMES 6
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="- ASIAN GAMES 26 -" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png",ASIAN GAMES 8
+#EXTINF:-1 group-title="- ASIAN GAMES 26 -" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png",ASIAN GAMES 5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 xui-id="25423" tvg-id="" tvg-name="ASIAN GAMES 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 1
 http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NggEPzBEx09U7FXB_S0xoV8I
@@ -23,11 +23,7 @@ http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NggEPzBEx09
 http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngim0DVL5ZrkCfMz3lv9MLkF
 #EXTINF:-1 xui-id="25425" tvg-id="" tvg-name="ASIAN GAMES 3" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 3
 http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NgicatADFyfiCjjAeKqipHwV
-#EXTINF:-1 xui-id="25426" tvg-id="" tvg-name="ASIAN GAMES 4" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 4
-http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NggxDWLPEUAsrHOJ7Zn5Iyhv
-#EXTINF:-1 xui-id="25427" tvg-id="" tvg-name="ASIAN GAMES 5" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 5
-http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngi3Zvwmb1Dy37lnTT4_wmEQ
-#EXTINF:-1 xui-id="25428" tvg-id="" tvg-name="ASIAN GAMES 6" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 6
+#EXTINF:-1 xui-id="25428" tvg-id="" tvg-name="ASIAN GAMES 4" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 6
 http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngg5rbnZdbU-JSbTxGlmvKUq
 
 #EXTINF:-1 xui-id="11" tvg-id="" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/820/513820-LOGO-m.png" group-title="Indonesia",ANTV
