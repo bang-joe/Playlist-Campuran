@@ -654,9 +654,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 ============================
 FIFA ASEAN CUP 2026
 ============================
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" group-logo="https://i.imgur.com/mWqAo5K.png" tvg-logo="https://i.imgur.com/mWqAo5K.png", 25 SEPT - 03 OKTOBER 2026 👇👇
-https://shorter.me/sUSrF
-====================================
 #EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://i.imgur.com/mWqAo5K.png", 25 SEPT 16;00 WIB - BANGLADESH VS MALAYSIA |GBK JKT|
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 
@@ -697,7 +694,6 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4
 # VIP SPORTS FHD
 # ==============================
 
-#EXTM3U
 #EXTINF:-1 tvg-id="MOTOGP" tvg-name="MOTOGP+" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="VIP SPORTS FHD",MOTOGP+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
@@ -1325,38 +1321,57 @@ https://e.siar.us/live/tvmu.m3u8
 # [UEFA] Champions League
 # ==============================
 
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_1.png" group-title="[UEFA] Champions League",ES: M+ LIGA DE CAMPEONES 1
-http://31.43.191.125:8080/08072024LC/08072024LC/264
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="[UEFA] Champions League",ES: (HD) M+ LIGA DE CAMPEONES
-http://31.43.191.125:8080/08072024LC/08072024LC/264
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="[UEFA] Champions League",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
-http://31.43.191.125:8080/08072024LC/08072024LC/97195
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="[UEFA] Champions League",ES: (FHD) M+ LIGA DE CAMPEONES
-http://31.43.191.125:8080/08072024LC/08072024LC/265
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="[UEFA] Champions League",ES: (SD) M+ LIGA DE CAMPEONES
-http://31.43.191.125:8080/08072024LC/08072024LC/99051
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="[UEFA] Champions League",ES: (FHD) M+ LIGA DE CAMPEONES 2
-http://31.43.191.125:8080/08072024LC/08072024LC/266
-#EXTINF:-1 tvg-id="ESHDMLIGADECAMPEONES3" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="[UEFA] Champions League",ES: (HD) M+ LIGA DE CAMPEONES 3
-http://31.43.191.125:8080/08072024LC/08072024LC/129636
-#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="[UEFA] Champions League",ES: (FHD) M+ LIGA DE CAMPEONES 3
-http://31.43.191.125:8080/08072024LC/08072024LC/267
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD) DAZN LALIGA
-http://31.43.191.125:8080/08072024LC/08072024LC/243
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) DAZN LALIGA
-http://31.43.191.125:8080/08072024LC/08072024LC/244
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO2) DAZN LALIGA
-http://31.43.191.125:8080/08072024LC/08072024LC/147167
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (FHD) DAZN LALIGA
-http://31.43.191.125:8080/08072024LC/08072024LC/97138
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (FHD REPUESTO) DAZN LALIGA
-http://31.43.191.125:8080/08072024LC/08072024LC/97193
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (HD) M+ LALIGA
-http://31.43.191.125:8080/08072024LC/08072024LC/252
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) M+ LALIGA
-http://31.43.191.125:8080/08072024LC/08072024LC/253
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA
-http://31.43.191.125:8080/08072024LC/08072024LC/254
+#EXTINF:-1 xui-id="25400" tvg-id="" tvg-name="TNT 1 FHD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="✔️ LIVE UCL",TNT 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngjb1juQlbfTiLVDIvLUKs0J
+
+#EXTINF:-1 xui-id="25400" tvg-id="" tvg-name="TNT 1 FHD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="✔️ LIVE UCL",TNT 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngjb1juQlbfTiLVDIvLUKs0J
+
+#EXTINF:-1 xui-id="25401" tvg-id="" tvg-name="TNT 1 HD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="✔️ LIVE UCL",TNT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NggIQrECD9T6YjISAq4OvkFI
+
+#EXTINF:-1 xui-id="25402" tvg-id="" tvg-name="TNT 2 FHD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="✔️ LIVE UCL",TNT 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NgjjMz7BsIyJjAMoBEOCr0DH
+
+#EXTINF:-1 xui-id="25403" tvg-id="" tvg-name="TNT 2 HD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="✔️ LIVE UCL",TNT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngi4B2MaugyTDxtz7LQNAZwn
+
+#EXTINF:-1 xui-id="25404" tvg-id="" tvg-name="TNT 3 FHD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="✔️ LIVE UCL",TNT 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NgjbVnrzdB3ikK03pzZHiJyu
+
+#EXTINF:-1 xui-id="25416" tvg-id="" tvg-name="TNT 3 HD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="✔️ LIVE UCL",TNT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngh62e4sBYiil-zvCei0_Trx
+
+#EXTINF:-1 xui-id="25417" tvg-id="" tvg-name="TNT 4 FHD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="✔️ LIVE UCL",TNT 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NghypZwDz_fO8aFyI9XwzfPZ
+
+#EXTINF:-1 xui-id="25418" tvg-id="" tvg-name="TNT 4 HD" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="✔️ LIVE UCL",TNT 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NgiraNCVdtobptq-Cc35mzMK
+
+#EXTINF:-1 xui-id="25419" tvg-id="" tvg-name="UCL LIVE 1" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkpXE-522JvbmRt8iV3eKyGg.png" group-title="✔️ LIVE UCL",UCL LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NggZ9UMC6AVZ5bpPk5LjCDm5
+
+#EXTINF:-1 xui-id="25420" tvg-id="" tvg-name="UCL LIVE 2" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkpXE-522JvbmRt8iV3eKyGg.png" group-title="✔️ LIVE UCL",UCL LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NghK8Gy9zArE06z9nfyu45EX
+
+#EXTINF:-1 xui-id="25421" tvg-id="" tvg-name="UCL LIVE 3" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkpXE-522JvbmRt8iV3eKyGg.png" group-title="✔️ LIVE UCL",UCL LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NghQLGDAbJOOwL_Oxg90e37F
+
+#EXTINF:-1 xui-id="25422" tvg-id="" tvg-name="UCL LIVE 4" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkpXE-522JvbmRt8iV3eKyGg.png" group-title="✔️ LIVE UCL",UCL LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NggIuRZOsF4DTPiIA7ydUcGe
 
 
 # ==============================
