@@ -79,10 +79,8 @@ http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngi3Zvwmb1D
 #EXTINF:-1 xui-id="25428" tvg-id="" tvg-name="ASIAN GAMES 6" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png" group-title="- ASIAN GAMES 26 -",ASIAN GAMES 6
 http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngg5rbnZdbU-JSbTxGlmvKUq
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="" group-title="Indonesia",Test
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://ogietv.biz.id:443/Livetv/235/1326.m3u8
 #EXTINF:-1 xui-id="11" tvg-id="" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/820/513820-LOGO-m.png" group-title="Indonesia",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngi7e3XpTJCNhIKu4C1HbCbd
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rcti.png" group-title="Indonesia",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
