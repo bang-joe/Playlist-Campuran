@@ -968,6 +968,253 @@ http://api.353505.xyz:80/live/123/123/2884.m3u8
 #EXTINF:-1 tvg-id="TRACESPORTS" tvg-name="TRACE SPORTS" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/logo.png" group-title="VIP SPORTS FHD",TRACE SPORTS
 http://api.353505.xyz:80/live/123/123/2887.m3u8
 
+#EXTM3U
+
+----------------------------------------------------------------------------------------RCTI+----------------------------------------------------------------------------------------
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OHIJ0mq.jpeg" tvg-id="itzplay.id" group-title="RCTI+ & Transvision",RCTI  â–ŽRCTI+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+$EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jvfFLE7.jpeg" tvg-id="itzplay.id" group-title="RCTI+ & Transvision",MNCTV  â–ŽRCTI+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LnO8iZ.jpeg" tvg-id="itzplay.id" group-title="RCTI+ & Transvision",GTV  â–ŽRCTI+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o66RL3F.jpeg" tvg-id="itzplay.id" group-title="RCTI+ & Transvision",iNews  â–ŽRCTI+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaBCedP.jpeg" tvg-id="itzplay.id" group-title="RCTI+ & Transvision",MDTV  â–ŽTransVision
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtylD4X.jpeg" tvg-id="itzplay.id" group-title="RCTI+ & Transvision", Moji  â–ŽTransVision
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
+
+
+
+__________________________________________beIN Sports Arabia_________________________________________
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5kClAk.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQsnQpm.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 2
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GibgpKE.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 3
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22//BeinSportAR3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3PMXV5Y.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 4
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1HjohX.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 5
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifo0n1F.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 6
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOnI0o.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 7
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z914fFo.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 8
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fzqkpMd.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 9
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR9.m3u8
+
+
+__________________________________________beIN Sports Australia_________________________________________
+
+ #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5kClAk.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 1
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQsnQpm.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 2
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GibgpKE.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 3
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/1348103.m3u8
+
+__________________________________________beIN Sports USA_________________________________________
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7m1lLKh.jpeg" tvg-id="itzplay.id" group-title="beIN Sports", beIN Sports Xtra USA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+__________________________________________beIN Sports USA / En EspaÃ±ol_________________________________________
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrQmJYs.jpeg" tvg-id="itzplay.id" group-title="beIN Sports", beIN Sports Xtra Ã± USA / En EspaÃ±ol
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+
+
+////////////////////////////////////////////////////////////////////////////////////// Football Club Channel /////////////////////////////////////////////////////////////////////////////////////////////
+
+
+#EXTINF:-1 tvg-logo="non" tvg-id="itzplay.id" group-title="Football Club Channel",
+
+(Play)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6SJLv7w.jpeg" tvg-id="itzplay.id" group-title="Football Club Channel",FCK LÃ¸vinderne
+https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UnutEyd.jpeg" tvg-id="itzplay.id" group-title="Football Club Channel",BarÃ§a TV
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0jl5Kgt.jpeg" tvg-id="itzplay.id" group-title="Football Club Channel",FenerbahÃ§e TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UF3aKeK.jpeg" tvg-id="itzplay.id" group-title="Football Club Channel",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sw9M6Ec.jpeg" tvg-id="itzplay.id" group-title="Football Club Channel",Inter TV
+https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
+http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/105931.m3u8
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KBmbOmT.jpeg" tvg-id="itzplay.id" group-title="Football Club Channel",Persija TV
+https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwoSV2v.jpeg" tvg-id="itzplay.id" group-title="Football Club Channel",MUTV
+https://get.perfecttv.net/mutv.mpd
+
+
+/////////////////////////////////////////////////////////////////////////////////////// Football League AFC ////////////////////////////////////////////////////////////////////////////////////////
+
+#EXTINF:-1 group-logo="https://i.imgur.com/jeR2Het.png" group-title="Football League AFC"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  â–Ž
+
+(Play)
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  â–ŽRCTI R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  â–ŽGTV R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  â–ŽiNews R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
+----------------------------------------------------------------------------------------Champions League Two----------------------------------------------------------------------------------------
+
+(Template)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–Ž
+
+(Play)
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽRCTI R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽGTV R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽiNews R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
+----------------------------------------------------------------------------------------Challenge League----------------------------------------------------------------------------------------
+
+(Template)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O98Fo7b.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Challenge League  â–Ž
+
+(Play)
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O98Fo7b.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Challenge League  â–ŽRCTI R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O98Fo7b.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Challenge League  â–ŽGTV R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O98Fo7b.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Challenge League  â–ŽiNews R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  â–Ž
+
+(Play)
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  â–ŽSPOTV Ph
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  â–ŽSPOTV 2 Ph
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  â–ŽFancode 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  â–ŽFancode 2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+
 
 # ==============================
 # Sports HD
