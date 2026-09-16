@@ -971,26 +971,30 @@ http://api.353505.xyz:80/live/123/123/2887.m3u8
 ----------------------------------------------------------------------------------------RCTI+----------------------------------------------------------------------------------------
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OHIJ0mq.jpeg" tvg-id="itzplay.id" group-title="RCTI+ & Transvision",RCTI  â–ŽRCTI+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OHIJ0mq.jpeg" tvg-id="itzplay.id" group-title="Indonesia",RCTI  â–ŽRCTI+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-$EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jvfFLE7.jpeg" tvg-id="itzplay.id" group-title="RCTI+ & Transvision",MNCTV  â–ŽRCTI+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jvfFLE7.jpeg" tvg-id="itzplay.id" group-title="Indonesia",MNCTV  â–ŽRCTI+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7LnO8iZ.jpeg" tvg-id="itzplay.id" group-title="RCTI+ & Transvision",GTV  â–ŽRCTI+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LnO8iZ.jpeg" tvg-id="itzplay.id" group-title="Indonesia",GTV  â–ŽRCTI+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
+#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o66RL3F.jpeg" tvg-id="itzplay.id" group-title="RCTI+ & Transvision",iNews  â–ŽRCTI+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o66RL3F.jpeg" tvg-id="itzplay.id" group-title="Indonesia",iNews  â–ŽRCTI+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oaBCedP.jpeg" tvg-id="itzplay.id" group-title="RCTI+ & Transvision",MDTV  â–ŽTransVision
@@ -1117,17 +1121,20 @@ https://get.perfecttv.net/mutv.mpd
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  â–ŽRCTI R+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  â–ŽGTV R+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  â–ŽiNews R+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
@@ -1142,17 +1149,20 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽRCTI R+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽGTV R+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽiNews R+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
@@ -1166,18 +1176,21 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O98Fo7b.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Challenge League  â–ŽRCTI R+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽRCTI R+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O98Fo7b.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Challenge League  â–ŽGTV R+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽGTV R+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O98Fo7b.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Challenge League  â–ŽiNews R+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽiNews R+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  â–Ž
