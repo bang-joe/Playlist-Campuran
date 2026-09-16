@@ -968,8 +968,6 @@ http://api.353505.xyz:80/live/123/123/2884.m3u8
 #EXTINF:-1 tvg-id="TRACESPORTS" tvg-name="TRACE SPORTS" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/logo.png" group-title="VIP SPORTS FHD",TRACE SPORTS
 http://api.353505.xyz:80/live/123/123/2887.m3u8
 
-#EXTM3U
-
 ----------------------------------------------------------------------------------------RCTI+----------------------------------------------------------------------------------------
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
