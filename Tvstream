@@ -2064,6 +2064,17 @@ http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/2505/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
+# ==============================
+# GERMANY - BUNDESLIGA
+# ==============================
+#EXTINF:-1 tvg-id="BUNDESLIGA" tvg-name="BUNDESLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0QyyQHX31nu7BtEgZqbHiLeorsnWU20BbIeFFrtkdA&s=10" group-title="[GR] Bundesliga",BUNDESLIGA 1
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/bbundesliga1.m3u8
+#EXTINF:-1 tvg-id="BUNDESLIGA2" tvg-name="BUNDESLIGA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0QyyQHX31nu7BtEgZqbHiLeorsnWU20BbIeFFrtkdA&s=10" group-title="[GR] Bundesliga",BUNDESLIGA 2
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/bbundesliga2.m3u8
+#EXTINF:-1 tvg-id="BUNDESLIGA3" tvg-name="BUNDESLIGA 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0QyyQHX31nu7BtEgZqbHiLeorsnWU20BbIeFFrtkdA&s=10" group-title="[GR] Bundesliga",BUNDESLIGA 3
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/bbundesliga3.m3u8
+#EXTINF:-1 tvg-id="BUNDESLIGA4" tvg-name="BUNDESLIGA 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0QyyQHX31nu7BtEgZqbHiLeorsnWU20BbIeFFrtkdA&s=10" group-title="[GR] Bundesliga",BUNDESLIGA 4
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/bbundesliga4.m3u8
 
 # ==============================
 # FRANCE - LIGUE 1
